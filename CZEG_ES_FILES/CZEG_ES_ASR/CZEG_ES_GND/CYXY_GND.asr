@@ -1,0 +1,41 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tony\Documents\EuroScope\CZEG\CZEG_ES_Sectors\CZEG_FIR.sct
+SECTORTITLE:CZEG_FIR.sct
+Free Text:CYXY Ramp\I:freetext
+Free Text:CYXY Ramp\I:freetext
+Free Text:CYXY Ramp\I:freetext
+Free Text:CYXY Ramp\II:freetext
+Free Text:CYXY Taxi\A:freetext
+Free Text:CYXY Taxi\A:freetext
+Free Text:CYXY Taxi\D:freetext
+Free Text:CYXY Taxi\E:freetext
+Free Text:CYXY Taxi\E:freetext
+Free Text:CYXY Taxi\E:freetext
+Free Text:CYXY Taxi\F:freetext
+Free Text:CYXY Taxi\G:freetext
+Free Text:CYXY_MSA\82:freetext
+Free Text:CYXY_MSA\82:freetext
+Free Text:CYXY_MSA\85:freetext
+Free Text:CYXY_MSA\85:freetext
+Geo:CYXY:
+Regions:CYXY:polygon
+Runways:CYXY Whitehorse 01-19:centerline
+Runways:CYXY Whitehorse 01-19:name
+Runways:CYXY Whitehorse 14L-32R:name
+Runways:CYXY Whitehorse 14R-32L:name
+SHOWC:1
+SHOWSB:1
+BELOW:2200
+ABOVE:15000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:60.681544:-135.098261:60.740634:-135.033727

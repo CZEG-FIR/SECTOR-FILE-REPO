@@ -1,0 +1,151 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\CZEG_ES_Files\CZEG_ES_Sectors\CZEG_FIR_18_10_v1.sct
+SECTORTITLE:CZEG_FIR_18_10_v1.sct
+Airports:CYZF:name
+Airports:CYZF:symbol
+ARTCC low boundary:CYZF_CAX(25):
+ARTCC low boundary:CYZF_CAX(40):
+ARTCC low boundary:CYZF_CAX(50):
+ARTCC low boundary:CYZF_TA(B/E):
+Fixes:ADRIS:name
+Fixes:ADRIS:symbol
+Fixes:ADSAL:name
+Fixes:ADSAL:symbol
+Fixes:ALERU:name
+Fixes:ALERU:symbol
+Fixes:BESUT:name
+Fixes:BESUT:symbol
+Fixes:BOBUX:name
+Fixes:BOBUX:symbol
+Fixes:DAXAX:name
+Fixes:DAXAX:symbol
+Fixes:DUGNA:name
+Fixes:DUGNA:symbol
+Fixes:ETMIM:name
+Fixes:ETMIM:symbol
+Fixes:GADEB:name
+Fixes:GADEB:symbol
+Fixes:IGROP:name
+Fixes:IGROP:symbol
+Fixes:KESNI:name
+Fixes:KESNI:symbol
+Fixes:KETLO:name
+Fixes:KETLO:symbol
+Fixes:MAVUG:name
+Fixes:MAVUG:symbol
+Fixes:NALVO:name
+Fixes:NALVO:symbol
+Fixes:OMTAX:name
+Fixes:OMTAX:symbol
+Fixes:PEPGA:name
+Fixes:PEPGA:symbol
+Fixes:RADIR:name
+Fixes:RADIR:symbol
+Fixes:TADOL:name
+Fixes:TADOL:symbol
+Fixes:ULEXA:name
+Fixes:ULEXA:symbol
+Fixes:VOLOS:name
+Fixes:VOLOS:symbol
+Fixes:WHEGE:name
+Fixes:WHEGE:symbol
+Fixes:XULBU:name
+Fixes:XULBU:symbol
+Free Text:CYZF Ramp\I:freetext
+Free Text:CYZF Ramp\II:freetext
+Free Text:CYZF Ramp\III:freetext
+Free Text:CYZF Ramp\IV:freetext
+Free Text:CYZF Taxi\A:freetext
+Free Text:CYZF Taxi\B:freetext
+Free Text:CYZF Taxi\B:freetext
+Free Text:CYZF Taxi\C:freetext
+Free Text:CYZF Taxi\D:freetext
+Free Text:CYZF Taxi\E:freetext
+Free Text:CYZF Taxi\F:freetext
+Free Text:CYZF Taxi\G:freetext
+Free Text:CYZF Taxi\H:freetext
+Free Text:CYZF Taxi\J:freetext
+Free Text:CYZF Taxi\K:freetext
+Geo:CYZF:
+NDBs:ZF:name
+NDBs:ZF:name
+NDBs:ZF:symbol
+NDBs:ZF:symbol
+Regions:CYZF:polygon
+Regions:CYZF:polygon
+Runways:CYZF Yellowknife 10-28:centerline
+Runways:CYZF Yellowknife 10-28:extended centerline 1
+Runways:CYZF Yellowknife 10-28:extended centerline 1 left ticks
+Runways:CYZF Yellowknife 10-28:extended centerline 1 left vectoring
+Runways:CYZF Yellowknife 10-28:extended centerline 1 right ticks
+Runways:CYZF Yellowknife 10-28:extended centerline 1 right vectoring
+Runways:CYZF Yellowknife 10-28:extended centerline 2
+Runways:CYZF Yellowknife 10-28:extended centerline 2 left ticks
+Runways:CYZF Yellowknife 10-28:extended centerline 2 left vectoring
+Runways:CYZF Yellowknife 10-28:extended centerline 2 right ticks
+Runways:CYZF Yellowknife 10-28:extended centerline 2 right vectoring
+Runways:CYZF Yellowknife 10-28:name
+Runways:CYZF Yellowknife 16-34:centerline
+Runways:CYZF Yellowknife 16-34:extended centerline 1
+Runways:CYZF Yellowknife 16-34:extended centerline 1 left ticks
+Runways:CYZF Yellowknife 16-34:extended centerline 1 left vectoring
+Runways:CYZF Yellowknife 16-34:extended centerline 1 right ticks
+Runways:CYZF Yellowknife 16-34:extended centerline 1 right vectoring
+Runways:CYZF Yellowknife 16-34:extended centerline 2
+Runways:CYZF Yellowknife 16-34:extended centerline 2 left ticks
+Runways:CYZF Yellowknife 16-34:extended centerline 2 left vectoring
+Runways:CYZF Yellowknife 16-34:extended centerline 2 right ticks
+Runways:CYZF Yellowknife 16-34:extended centerline 2 right vectoring
+Runways:CYZF Yellowknife 16-34:name
+Sids:CYZF ILS 34:
+Sids:CYZF ILS NDB RWY 34:
+Sids:CYZF RNAV (GNSS) 10:
+Sids:CYZF RNAV (GNSS) 16:
+Sids:CYZF RNAV (GNSS) 28:
+Sids:CYZF RNAV (GNSS) 34:
+Sids:CYZF_CZ_D:
+VORs:YZF:name
+VORs:YZF:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:10000
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VACC Austria DEL/GND/TWR
+WINDOWAREA:62.263652:-114.950800:62.650066:-113.897256
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:CYZF
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:-17
+PLUGIN:vSMR:SRW1OffsetY:-40
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

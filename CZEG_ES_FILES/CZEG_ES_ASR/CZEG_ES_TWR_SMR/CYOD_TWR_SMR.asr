@@ -1,0 +1,110 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\CZEG_ES_Files\CZEG_ES_Sectors\CZEG_FIR_18_10_v1.sct
+SECTORTITLE:CZEG_FIR_18_10_v1.sct
+ARTCC low boundary:CYOD_MTCA:
+Free Text:CYOD Taxi\A:freetext
+Free Text:CYOD Taxi\A:freetext
+Free Text:CYOD Taxi\A:freetext
+Free Text:CYOD Taxi\A:freetext
+Free Text:CYOD Taxi\A:freetext
+Free Text:CYOD Taxi\A:freetext
+Free Text:CYOD Taxi\B:freetext
+Free Text:CYOD Taxi\B:freetext
+Free Text:CYOD Taxi\B:freetext
+Free Text:CYOD Taxi\B:freetext
+Free Text:CYOD Taxi\C:freetext
+Free Text:CYOD Taxi\C:freetext
+Free Text:CYOD Taxi\D:freetext
+Free Text:CYOD Taxi\E:freetext
+Free Text:CYOD Taxi\E:freetext
+Free Text:CYOD Taxi\F:freetext
+Free Text:CYOD Taxi\G:freetext
+Free Text:CYOD Taxi\H:freetext
+Free Text:CYOD Taxi\J:freetext
+Free Text:CYOD Taxi\J:freetext
+Free Text:CYOD Taxi\J:freetext
+Free Text:CYOD Taxi\K:freetext
+Free Text:CYOD Taxi\L:freetext
+Free Text:CYOD Taxi\L:freetext
+Free Text:CYOD Taxi\M:freetext
+Free Text:CYOD_MSA\38:freetext
+Free Text:CYOD_MSA\38:freetext
+Free Text:CYOD_MSA\38:freetext
+Free Text:CYOD_MSA\38:freetext
+Regions:CYOD:polygon
+Runways:CYOD Cold Lake 04-22:extended centerline 1
+Runways:CYOD Cold Lake 04-22:extended centerline 1 left ticks
+Runways:CYOD Cold Lake 04-22:extended centerline 1 left vectoring
+Runways:CYOD Cold Lake 04-22:extended centerline 1 right ticks
+Runways:CYOD Cold Lake 04-22:extended centerline 1 right vectoring
+Runways:CYOD Cold Lake 04-22:extended centerline 2
+Runways:CYOD Cold Lake 04-22:extended centerline 2 left ticks
+Runways:CYOD Cold Lake 04-22:extended centerline 2 left vectoring
+Runways:CYOD Cold Lake 04-22:extended centerline 2 right ticks
+Runways:CYOD Cold Lake 04-22:extended centerline 2 right vectoring
+Runways:CYOD Cold Lake 04-22:name
+Runways:CYOD Cold Lake 13L-31R:extended centerline 1
+Runways:CYOD Cold Lake 13L-31R:extended centerline 1 left ticks
+Runways:CYOD Cold Lake 13L-31R:extended centerline 1 left vectoring
+Runways:CYOD Cold Lake 13L-31R:extended centerline 1 right ticks
+Runways:CYOD Cold Lake 13L-31R:extended centerline 1 right vectoring
+Runways:CYOD Cold Lake 13L-31R:extended centerline 2
+Runways:CYOD Cold Lake 13L-31R:extended centerline 2 left ticks
+Runways:CYOD Cold Lake 13L-31R:extended centerline 2 left vectoring
+Runways:CYOD Cold Lake 13L-31R:extended centerline 2 right ticks
+Runways:CYOD Cold Lake 13L-31R:extended centerline 2 right vectoring
+Runways:CYOD Cold Lake 13L-31R:name
+Runways:CYOD Cold Lake 31L-13R:extended centerline 1
+Runways:CYOD Cold Lake 31L-13R:extended centerline 1 left ticks
+Runways:CYOD Cold Lake 31L-13R:extended centerline 1 left vectoring
+Runways:CYOD Cold Lake 31L-13R:extended centerline 1 right ticks
+Runways:CYOD Cold Lake 31L-13R:extended centerline 1 right vectoring
+Runways:CYOD Cold Lake 31L-13R:extended centerline 2
+Runways:CYOD Cold Lake 31L-13R:extended centerline 2 left ticks
+Runways:CYOD Cold Lake 31L-13R:extended centerline 2 left vectoring
+Runways:CYOD Cold Lake 31L-13R:extended centerline 2 right ticks
+Runways:CYOD Cold Lake 31L-13R:extended centerline 2 right vectoring
+Runways:CYOD Cold Lake 31L-13R:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:24000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:54.362251:-110.482474:54.484306:-110.149694
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:CYOD
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

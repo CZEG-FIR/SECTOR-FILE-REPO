@@ -1,0 +1,65 @@
+Settings	SettingsfileSYMBOLOGY	\CZEG_ES_Setings\SYMBOLOGY.txt
+Settings	SettingsfileVOICE	\CZEG_ES_Setings\GND-2-AIR.txt
+Settings	SettingsfilePROFILE	\CZEG_ES_Setings\LOGIN.txt
+Settings	SettingsfileTAGS	\CZEG_ES_Setings\TAG.txt
+Settings	SettingsfileSIL	\CZEG_ES_Setings\SECTORINBOUND.txt
+Settings	SettingsfileSEL	\CZEG_ES_Setings\SECTOREXIT.txt
+Settings	SettingsfileDEP	\CZEG_ES_Setings\DEPLIST.txt
+Settings	SettingsfileARR	\CZEG_ES_Setings\ARRLIST.txt
+Settings	SettingsfileFP	\CZEG_ES_Setings\FLIGHTPLANLIST.txt
+Settings	SettingsfilePLUGINS	\CZEG_ES_Setings\PLUGIN.txt
+Settings	Settingsfile	\CZEG_ES_Setings\GENERAL.txt
+Settings	SettingsfileSCREEN	\CZEG_ES_Setings\SCREEN.txt
+Settings	AtisFolder	\CZEG_ES_ATIS\ATIS_Canada.txt
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Settings	sector	\CZEG_ES_Sectors\CZEG_FIR.sct
+Settings	alias	\CZEG_ES_Aliases\alias.txt
+Settings	airlines	\CZEG_ES_DataFiles\ICAO_Airlines.txt
+Settings	airports	\CZEG_ES_DataFiles\ICAO_Airports.txt
+Settings	aircraft	\CZEG_ES_DataFiles\ICAO_Aircraft.txt
+Settings	airways	\CZEG_ES_DataFiles\AIRWAY.txt
+LastSession	connecttype	0
+LastSession	atis_airport
+LastSession	tovatsim	1
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	1
+RecentFiles	Recent2
+RecentFiles	Recent3
+RecentFiles	Recent4
+RecentFiles	Recent5
+RecentFiles	Recent6
+RecentFiles	Recent7
+RecentFiles	Recent8
+LastSession	facility	
+LastSession	rating	
+LastSession	range	
+RecentFiles	Recent9	
+LastSession	atis_letter	
+RecentFiles	Recent10	
+RecentFiles	Recent11	
+Settings	SettingsfileCONFLICT	\CZEG_ES_Setings\GENERAL.txt
+LastSession	atis2	Info at www.czeg.ca
+Settings	SectorFileProviderDescriptor	C:\Program Files (x86)\EuroScope\SectorFileProviderDescriptor.txt
+TeamSpeakVccs	Ts3DialogLeft	0
+TeamSpeakVccs	Ts3DialogTop	0
+TeamSpeakVccs	Ts3DialogRight	750
+TeamSpeakVccs	Ts3DialogBottom	600
+Plugins	Plugin0Display0	Standard ES radar screen
+Voice	input_hardware	
+Voice	output_hardware	
+Voice	input_hardware2	
+Voice	output_hardware2
+Voice	squelch	63.8
+Voice	squelch2	63.3
+Voice	PPPT	1900544
+LastSession	scenario	
+LastSession	callsign	
+LastSession	realname	
+LastSession	certificate	
+LastSession	password	
+LastSession	server	
+Voice	bass_filter	1
+LastSession	atis3
+RecentFiles	Recent1	
+Voice	SPPT	3670016

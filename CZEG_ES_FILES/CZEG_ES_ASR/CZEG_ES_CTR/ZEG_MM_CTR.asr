@@ -1,0 +1,2143 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\CZEG_ES_Files\CZEG_ES_Sectors\CZEG_FIR_18_08_v1.sct
+SECTORTITLE:CZEG_FIR_18_08_v1.sct
+Airports:BGTL:name
+Airports:BGTL:symbol
+Airports:CAJ2:name
+Airports:CAJ2:symbol
+Airports:CAJ3:name
+Airports:CAJ3:symbol
+Airports:CAJ7:name
+Airports:CAJ7:symbol
+Airports:CAL4:name
+Airports:CAL4:symbol
+Airports:CBC2:name
+Airports:CBC2:symbol
+Airports:CBD6:name
+Airports:CBD6:symbol
+Airports:CBH4:name
+Airports:CBH4:symbol
+Airports:CBH7:name
+Airports:CBH7:symbol
+Airports:CBX5:name
+Airports:CBX5:symbol
+Airports:CCF6:name
+Airports:CCF6:symbol
+Airports:CCL3:name
+Airports:CCL3:symbol
+Airports:CDJ5:name
+Airports:CDJ5:symbol
+Airports:CDK2:name
+Airports:CDK2:symbol
+Airports:CDL7:name
+Airports:CDL7:symbol
+Airports:CDM2:name
+Airports:CDM2:symbol
+Airports:CDO2:name
+Airports:CDO2:symbol
+Airports:CEA3:name
+Airports:CEA3:symbol
+Airports:CEA5:name
+Airports:CEA5:symbol
+Airports:CEA6:name
+Airports:CEA6:symbol
+Airports:CEB5:name
+Airports:CEB5:symbol
+Airports:CEC3:name
+Airports:CEC3:symbol
+Airports:CEC4:name
+Airports:CEC4:symbol
+Airports:CED3:name
+Airports:CED3:symbol
+Airports:CED4:name
+Airports:CED4:symbol
+Airports:CED5:name
+Airports:CED5:symbol
+Airports:CEE4:name
+Airports:CEE4:symbol
+Airports:CEE5:name
+Airports:CEE5:symbol
+Airports:CEE6:name
+Airports:CEE6:symbol
+Airports:CEE8:name
+Airports:CEE8:symbol
+Airports:CEF3:name
+Airports:CEF3:symbol
+Airports:CEF4:name
+Airports:CEF4:symbol
+Airports:CEF6:name
+Airports:CEF6:symbol
+Airports:CEG3:name
+Airports:CEG3:symbol
+Airports:CEG4:name
+Airports:CEG4:symbol
+Airports:CEG5:name
+Airports:CEG5:symbol
+Airports:CEH2:name
+Airports:CEH2:symbol
+Airports:CEH3:name
+Airports:CEH3:symbol
+Airports:CEH4:name
+Airports:CEH4:symbol
+Airports:CEH5:name
+Airports:CEH5:symbol
+Airports:CEH6:name
+Airports:CEH6:symbol
+Airports:CEJ3:name
+Airports:CEJ3:symbol
+Airports:CEJ4:name
+Airports:CEJ4:symbol
+Airports:CEJ6:name
+Airports:CEJ6:symbol
+Airports:CEK2:name
+Airports:CEK2:symbol
+Airports:CEK6:name
+Airports:CEK6:symbol
+Airports:CEL4:name
+Airports:CEL4:symbol
+Airports:CEL5:name
+Airports:CEL5:symbol
+Airports:CEL6:name
+Airports:CEL6:symbol
+Airports:CEM3:name
+Airports:CEM3:symbol
+Airports:CEM4:name
+Airports:CEM4:symbol
+Airports:CEM5:name
+Airports:CEM5:symbol
+Airports:CEN2:name
+Airports:CEN2:symbol
+Airports:CEN3:name
+Airports:CEN3:symbol
+Airports:CEN4:name
+Airports:CEN4:symbol
+Airports:CEN5:name
+Airports:CEN5:symbol
+Airports:CEN6:name
+Airports:CEN6:symbol
+Airports:CEP3:name
+Airports:CEP3:symbol
+Airports:CEP4:name
+Airports:CEP4:symbol
+Airports:CEP5:name
+Airports:CEP5:symbol
+Airports:CEP6:name
+Airports:CEP6:symbol
+Airports:CEQ3:name
+Airports:CEQ3:symbol
+Airports:CEQ4:name
+Airports:CEQ4:symbol
+Airports:CER2:name
+Airports:CER2:symbol
+Airports:CER3:name
+Airports:CER3:symbol
+Airports:CER4:name
+Airports:CER4:symbol
+Airports:CES4:name
+Airports:CES4:symbol
+Airports:CET2:name
+Airports:CET2:symbol
+Airports:CET4:name
+Airports:CET4:symbol
+Airports:CET9:name
+Airports:CET9:symbol
+Airports:CEU2:name
+Airports:CEU2:symbol
+Airports:CEU9:name
+Airports:CEU9:symbol
+Airports:CEV2:name
+Airports:CEV2:symbol
+Airports:CEV3:name
+Airports:CEV3:symbol
+Airports:CEV5:name
+Airports:CEV5:symbol
+Airports:CEV7:name
+Airports:CEV7:symbol
+Airports:CEV9:name
+Airports:CEV9:symbol
+Airports:CEW3:name
+Airports:CEW3:symbol
+Airports:CEW5:name
+Airports:CEW5:symbol
+Airports:CEX3:name
+Airports:CEX3:symbol
+Airports:CEX4:name
+Airports:CEX4:symbol
+Airports:CEX9:name
+Airports:CEX9:symbol
+Airports:CEY3:name
+Airports:CEY3:symbol
+Airports:CEZ2:name
+Airports:CEZ2:symbol
+Airports:CEZ3:name
+Airports:CEZ3:symbol
+Airports:CEZ4:name
+Airports:CEZ4:symbol
+Airports:CFA4:name
+Airports:CFA4:symbol
+Airports:CFA5:name
+Airports:CFA5:symbol
+Airports:CFA7:name
+Airports:CFA7:symbol
+Airports:CFB3:name
+Airports:CFB3:symbol
+Airports:CFB4:name
+Airports:CFB4:symbol
+Airports:CFB5:name
+Airports:CFB5:symbol
+Airports:CFB6:name
+Airports:CFB6:symbol
+Airports:CFB7:name
+Airports:CFB7:symbol
+Airports:CFC4:name
+Airports:CFC4:symbol
+Airports:CFC7:name
+Airports:CFC7:symbol
+Airports:CFD4:name
+Airports:CFD4:symbol
+Airports:CFF2:name
+Airports:CFF2:symbol
+Airports:CFF4:name
+Airports:CFF4:symbol
+Airports:CFF9:name
+Airports:CFF9:symbol
+Airports:CFG3:name
+Airports:CFG3:symbol
+Airports:CFG4:name
+Airports:CFG4:symbol
+Airports:CFG5:name
+Airports:CFG5:symbol
+Airports:CFH8:name
+Airports:CFH8:symbol
+Airports:CFK2:name
+Airports:CFK2:symbol
+Airports:CFK3:name
+Airports:CFK3:symbol
+Airports:CFK4:name
+Airports:CFK4:symbol
+Airports:CFK6:name
+Airports:CFK6:symbol
+Airports:CFL2:name
+Airports:CFL2:symbol
+Airports:CFL9:name
+Airports:CFL9:symbol
+Airports:CFM2:name
+Airports:CFM2:symbol
+Airports:CFM4:name
+Airports:CFM4:symbol
+Airports:CFM6:name
+Airports:CFM6:symbol
+Airports:CFM7:name
+Airports:CFM7:symbol
+Airports:CFM8:name
+Airports:CFM8:symbol
+Airports:CFN5:name
+Airports:CFN5:symbol
+Airports:CFN6:name
+Airports:CFN6:symbol
+Airports:CFP4:name
+Airports:CFP4:symbol
+Airports:CFP5:name
+Airports:CFP5:symbol
+Airports:CFP7:name
+Airports:CFP7:symbol
+Airports:CFP8:name
+Airports:CFP8:symbol
+Airports:CFQ4:name
+Airports:CFQ4:symbol
+Airports:CFQ5:name
+Airports:CFQ5:symbol
+Airports:CFQ6:name
+Airports:CFQ6:symbol
+Airports:CFQ7:name
+Airports:CFQ7:symbol
+Airports:CFR2:name
+Airports:CFR2:symbol
+Airports:CFR7:name
+Airports:CFR7:symbol
+Airports:CFS3:name
+Airports:CFS3:symbol
+Airports:CFS4:name
+Airports:CFS4:symbol
+Airports:CFS5:name
+Airports:CFS5:symbol
+Airports:CFS6:name
+Airports:CFS6:symbol
+Airports:CFS7:name
+Airports:CFS7:symbol
+Airports:CFS8:name
+Airports:CFS8:symbol
+Airports:CFT2:name
+Airports:CFT2:symbol
+Airports:CFT3:name
+Airports:CFT3:symbol
+Airports:CFT5:name
+Airports:CFT5:symbol
+Airports:CFT8:name
+Airports:CFT8:symbol
+Airports:CFT9:name
+Airports:CFT9:symbol
+Airports:CFU3:name
+Airports:CFU3:symbol
+Airports:CFU4:name
+Airports:CFU4:symbol
+Airports:CFU8:name
+Airports:CFU8:symbol
+Airports:CFV2:name
+Airports:CFV2:symbol
+Airports:CFV3:name
+Airports:CFV3:symbol
+Airports:CFV6:name
+Airports:CFV6:symbol
+Airports:CFW2:name
+Airports:CFW2:symbol
+Airports:CFW4:name
+Airports:CFW4:symbol
+Airports:CFW5:name
+Airports:CFW5:symbol
+Airports:CFX2:name
+Airports:CFX2:symbol
+Airports:CFX3:name
+Airports:CFX3:symbol
+Airports:CFX4:name
+Airports:CFX4:symbol
+Airports:CFX6:name
+Airports:CFX6:symbol
+Airports:CFX8:name
+Airports:CFX8:symbol
+Airports:CFY4:name
+Airports:CFY4:symbol
+Airports:CFY5:name
+Airports:CFY5:symbol
+Airports:CFZ3:name
+Airports:CFZ3:symbol
+Airports:CFZ5:name
+Airports:CFZ5:symbol
+Airports:CGB2:name
+Airports:CGB2:symbol
+Airports:CGF2:name
+Airports:CGF2:symbol
+Airports:CGK2:name
+Airports:CGK2:symbol
+Airports:CGL4:name
+Airports:CGL4:symbol
+Airports:CHB3:name
+Airports:CHB3:symbol
+Airports:CJJ3:name
+Airports:CJJ3:symbol
+Airports:CJL8:name
+Airports:CJL8:symbol
+Airports:CJQ6:name
+Airports:CJQ6:symbol
+Airports:CKV4:name
+Airports:CKV4:symbol
+Airports:CKY8:name
+Airports:CKY8:symbol
+Airports:CLG3:name
+Airports:CLG3:symbol
+Airports:CMB2:name
+Airports:CMB2:symbol
+Airports:CMF2:name
+Airports:CMF2:symbol
+Airports:CMN4:name
+Airports:CMN4:symbol
+Airports:CMN6:name
+Airports:CMN6:symbol
+Airports:CMR2:name
+Airports:CMR2:symbol
+Airports:CPB8:name
+Airports:CPB8:symbol
+Airports:CPL6:name
+Airports:CPL6:symbol
+Airports:CRE2:name
+Airports:CRE2:symbol
+Airports:CRF3:name
+Airports:CRF3:symbol
+Airports:CRL4:name
+Airports:CRL4:symbol
+Airports:CSK6:name
+Airports:CSK6:symbol
+Airports:CSP3:name
+Airports:CSP3:symbol
+Airports:CTM7:name
+Airports:CTM7:symbol
+Airports:CVL2:name
+Airports:CVL2:symbol
+Airports:CVS2:name
+Airports:CVS2:symbol
+Airports:CYAB:name
+Airports:CYAB:symbol
+Airports:CYBA:name
+Airports:CYBA:symbol
+Airports:CYBB:name
+Airports:CYBB:symbol
+Airports:CYBF:name
+Airports:CYBF:symbol
+Airports:CYBK:name
+Airports:CYBK:symbol
+Airports:CYBP:name
+Airports:CYBP:symbol
+Airports:CYBW:name
+Airports:CYBW:symbol
+Airports:CYCB:name
+Airports:CYCB:symbol
+Airports:CYCO:name
+Airports:CYCO:symbol
+Airports:CYCS:name
+Airports:CYCS:symbol
+Airports:CYCT:name
+Airports:CYCT:symbol
+Airports:CYCY:name
+Airports:CYCY:symbol
+Airports:CYDA:name
+Airports:CYDA:symbol
+Airports:CYDB:name
+Airports:CYDB:symbol
+Airports:CYDC:name
+Airports:CYDC:symbol
+Airports:CYDM:name
+Airports:CYDM:symbol
+Airports:CYEA:name
+Airports:CYEA:symbol
+Airports:CYED:name
+Airports:CYED:symbol
+Airports:CYEG:name
+Airports:CYEG:symbol
+Airports:CYEK:name
+Airports:CYEK:symbol
+Airports:CYET:name
+Airports:CYET:symbol
+Airports:CYEU:name
+Airports:CYEU:symbol
+Airports:CYEV:name
+Airports:CYEV:symbol
+Airports:CYFB:name
+Airports:CYFB:symbol
+Airports:CYFR:name
+Airports:CYFR:symbol
+Airports:CYFS:name
+Airports:CYFS:symbol
+Airports:CYGH:name
+Airports:CYGH:symbol
+Airports:CYGT:name
+Airports:CYGT:symbol
+Airports:CYGZ:name
+Airports:CYGZ:symbol
+Airports:CYHI:name
+Airports:CYHI:symbol
+Airports:CYHK:name
+Airports:CYHK:symbol
+Airports:CYHT:name
+Airports:CYHT:symbol
+Airports:CYHY:name
+Airports:CYHY:symbol
+Airports:CYIO:name
+Airports:CYIO:symbol
+Airports:CYJA:name
+Airports:CYJA:symbol
+Airports:CYJF:name
+Airports:CYJF:symbol
+Airports:CYJP:name
+Airports:CYJP:symbol
+Airports:CYKD:name
+Airports:CYKD:symbol
+Airports:CYLB:name
+Airports:CYLB:symbol
+Airports:CYLC:name
+Airports:CYLC:symbol
+Airports:CYLK:name
+Airports:CYLK:symbol
+Airports:CYLL:name
+Airports:CYLL:symbol
+Airports:CYLT:name
+Airports:CYLT:symbol
+Airports:CYMA:name
+Airports:CYMA:symbol
+Airports:CYMJ:name
+Airports:CYMJ:symbol
+Airports:CYMM:name
+Airports:CYMM:symbol
+Airports:CYNR:name
+Airports:CYNR:symbol
+Airports:CYOA:name
+Airports:CYOA:symbol
+Airports:CYOC:name
+Airports:CYOC:symbol
+Airports:CYOD:name
+Airports:CYOD:symbol
+Airports:CYOJ:name
+Airports:CYOJ:symbol
+Airports:CYOP:name
+Airports:CYOP:symbol
+Airports:CYPC:name
+Airports:CYPC:symbol
+Airports:CYPE:name
+Airports:CYPE:symbol
+Airports:CYPY:name
+Airports:CYPY:symbol
+Airports:CYQF:name
+Airports:CYQF:symbol
+Airports:CYQH:name
+Airports:CYQH:symbol
+Airports:CYQL:name
+Airports:CYQL:symbol
+Airports:CYQR:name
+Airports:CYQR:symbol
+Airports:CYQU:name
+Airports:CYQU:symbol
+Airports:CYRA:name
+Airports:CYRA:symbol
+Airports:CYRB:name
+Airports:CYRB:symbol
+Airports:CYRM:name
+Airports:CYRM:symbol
+Airports:CYRT:name
+Airports:CYRT:symbol
+Airports:CYSK:name
+Airports:CYSK:symbol
+Airports:CYSM:name
+Airports:CYSM:symbol
+Airports:CYSY:name
+Airports:CYSY:symbol
+Airports:CYTE:name
+Airports:CYTE:symbol
+Airports:CYUB:name
+Airports:CYUB:symbol
+Airports:CYUT:name
+Airports:CYUT:symbol
+Airports:CYUX:name
+Airports:CYUX:symbol
+Airports:CYVG:name
+Airports:CYVG:symbol
+Airports:CYVM:name
+Airports:CYVM:symbol
+Airports:CYVQ:name
+Airports:CYVQ:symbol
+Airports:CYWG:name
+Airports:CYWG:symbol
+Airports:CYWJ:name
+Airports:CYWJ:symbol
+Airports:CYWL:name
+Airports:CYWL:symbol
+Airports:CYWM:name
+Airports:CYWM:symbol
+Airports:CYWV:name
+Airports:CYWV:symbol
+Airports:CYWY:name
+Airports:CYWY:symbol
+Airports:CYXC:name
+Airports:CYXC:symbol
+Airports:CYXE:name
+Airports:CYXE:symbol
+Airports:CYXH:name
+Airports:CYXH:symbol
+Airports:CYXJ:name
+Airports:CYXJ:symbol
+Airports:CYXN:name
+Airports:CYXN:symbol
+Airports:CYXP:name
+Airports:CYXP:symbol
+Airports:CYXQ:name
+Airports:CYXQ:symbol
+Airports:CYXS:name
+Airports:CYXS:symbol
+Airports:CYXY:name
+Airports:CYXY:symbol
+Airports:CYYC:name
+Airports:CYYC:symbol
+Airports:CYYE:name
+Airports:CYYE:symbol
+Airports:CYYH:name
+Airports:CYYH:symbol
+Airports:CYYM:name
+Airports:CYYM:symbol
+Airports:CYYQ:name
+Airports:CYYQ:symbol
+Airports:CYZF:name
+Airports:CYZF:symbol
+Airports:CYZH:name
+Airports:CYZH:symbol
+Airports:CYZS:name
+Airports:CYZS:symbol
+Airports:CYZU:name
+Airports:CYZU:symbol
+Airports:CYZW:name
+Airports:CYZW:symbol
+Airports:CZFA:name
+Airports:CZFA:symbol
+Airports:CZFM:name
+Airports:CZFM:symbol
+Airports:CZFN:name
+Airports:CZFN:symbol
+Airports:CZHP:name
+Airports:CZHP:symbol
+Airports:CZPC:name
+Airports:CZPC:symbol
+Airports:CZVL:name
+Airports:CZVL:symbol
+Airports:KCTB:name
+Airports:KCTB:symbol
+Airports:PABT:name
+Airports:PABT:symbol
+Airports:PAED:name
+Airports:PAED:symbol
+Airports:PAFA:name
+Airports:PAFA:symbol
+Airports:PAGA:name
+Airports:PAGA:symbol
+Airports:PAGQ:name
+Airports:PAGQ:symbol
+Airports:PANC:name
+Airports:PANC:symbol
+Airports:PANN:name
+Airports:PANN:symbol
+Airports:PAOR:name
+Airports:PAOR:symbol
+Airports:PASC:name
+Airports:PASC:symbol
+Airports:PAYA:name
+Airports:PAYA:symbol
+Airports:PFYU:name
+Airports:PFYU:symbol
+ARTCC boundary:CZEG FIR:
+ARTCC high boundary:Bison (BS):
+ARTCC high boundary:Cambridge (CB):
+ARTCC high boundary:Clyde (CY):
+ARTCC high boundary:Dawson (DA):
+ARTCC high boundary:Drumheller (DH):
+ARTCC high boundary:E20-YEG(BA)-KZLC:
+ARTCC high boundary:E21-YEG(BA)-KZSE:
+ARTCC high boundary:E22-YEG(BA)-CZVR:
+ARTCC high boundary:E23-YEG(RM)-CZVR:
+ARTCC high boundary:E24-YEG(KL)-CZVR:
+ARTCC high boundary:E25-YEG(KL)-PAZA:
+ARTCC high boundary:E26-YEG(AC)-PAZA:
+ARTCC high boundary:E27-YEG(AC)-UNICOM:
+ARTCC high boundary:E28-YEG(AC)-BGGL:
+ARTCC high boundary:E29-YEG(AC)-CZQX:
+ARTCC high boundary:E30-YEG(AC)-CZUL:
+ARTCC high boundary:E31a-YEG(AC)-ZWG(NL):
+ARTCC high boundary:E31b-YEG(AC)-ZWG(VC):
+ARTCC high boundary:E32-YEG(KL)-CZWG:
+ARTCC high boundary:E33a-YEG(RM)-ZWG(VC):
+ARTCC high boundary:E33b-YEG(RM)-ZWG(BR):
+ARTCC high boundary:E34-YEG(BA)-ZWG(BR):
+ARTCC high boundary:Jasper (JP):
+ARTCC high boundary:Klondike (KD):
+ARTCC high boundary:Lethbridge (QL):
+ARTCC high boundary:Mackenzie (MN):
+ARTCC high boundary:Nunavut (NV):
+ARTCC high boundary:Rankin (RN):
+ARTCC high boundary:Simpson (FS):
+ARTCC high boundary:Wainwright (WV):
+ARTCC high boundary:Yukon (YU):
+ARTCC low boundary:CAL4_TA(B/E)i:
+ARTCC low boundary:CAL4_TA(B/E)ii:
+ARTCC low boundary:CER5_TA(B/E):
+ARTCC low boundary:CYDQ_CAX(25):
+ARTCC low boundary:CYDQ_TA(B/E):
+ARTCC low boundary:CYEG_TCA(12/C):
+ARTCC low boundary:CYEG_TCA(25/C):
+ARTCC low boundary:CYEG_TCA(30/C):
+ARTCC low boundary:CYEG_TCA(35/C):
+ARTCC low boundary:CYEV_CAX(40):
+ARTCC low boundary:CYEV_TA(B/E):
+ARTCC low boundary:CYFR_TA(B/E):
+ARTCC low boundary:CYFS_CAX(25):
+ARTCC low boundary:CYFS_TA(B/E):
+ARTCC low boundary:CYHY_CAX(25):
+ARTCC low boundary:CYHY_CAX(50):
+ARTCC low boundary:CYHY_TA(B/E):
+ARTCC low boundary:CYLL_CAX(25):
+ARTCC low boundary:CYLL_TA(B/E):
+ARTCC low boundary:CYMM_CAX(60/25):
+ARTCC low boundary:CYMM_TA(B/E):
+ARTCC low boundary:CYNR_TA(B/E)i:
+ARTCC low boundary:CYNR_TA(B/E)ii:
+ARTCC low boundary:CYOD_MTCA:
+ARTCC low boundary:CYOJ_CAX(25):
+ARTCC low boundary:CYOJ_TA(B/E):
+ARTCC low boundary:CYPE_CAX(25):
+ARTCC low boundary:CYPE_TA(B/E):
+ARTCC low boundary:CYPY_TA(B/E):
+ARTCC low boundary:CYQF_TA(B/E):
+ARTCC low boundary:CYQH_CAX(25):
+ARTCC low boundary:CYQH_TA(B/E):
+ARTCC low boundary:CYQL_CAX(25):
+ARTCC low boundary:CYQL_CAX(35):
+ARTCC low boundary:CYQL_TA(B/E):
+ARTCC low boundary:CYQU_CAX(25):
+ARTCC low boundary:CYQU_CAX(50):
+ARTCC low boundary:CYQU_TA(B/E):
+ARTCC low boundary:CYR131:
+ARTCC low boundary:CYR167:
+ARTCC low boundary:CYR201:
+ARTCC low boundary:CYR203:
+ARTCC low boundary:CYR204:
+ARTCC low boundary:CYR207:
+ARTCC low boundary:CYR208:
+ARTCC low boundary:CYR210:
+ARTCC low boundary:CYR211:
+ARTCC low boundary:CYR212:
+ARTCC low boundary:CYR220:
+ARTCC low boundary:CYR221:
+ARTCC low boundary:CYR222:
+ARTCC low boundary:CYR223:
+ARTCC low boundary:CYR224:
+ARTCC low boundary:CYR225:
+ARTCC low boundary:CYR226:
+ARTCC low boundary:CYR227:
+ARTCC low boundary:CYR228:
+ARTCC low boundary:CYR229:
+ARTCC low boundary:CYR230:
+ARTCC low boundary:CYR231:
+ARTCC low boundary:CYR232:
+ARTCC low boundary:CYR233:
+ARTCC low boundary:CYR251:
+ARTCC low boundary:CYR252:
+ARTCC low boundary:CYR263:
+ARTCC low boundary:CYR268:
+ARTCC low boundary:CYR269:
+ARTCC low boundary:CYR270:
+ARTCC low boundary:CYSM_CAX(25):
+ARTCC low boundary:CYSM_TA(B/E):
+ARTCC low boundary:CYVG_TA(B/E):
+ARTCC low boundary:CYVQ_TA(B/E):
+ARTCC low boundary:CYXH_CAX(25):
+ARTCC low boundary:CYXH_TA(B/E):
+ARTCC low boundary:CYXJ_CAX(25):
+ARTCC low boundary:CYXJ_TA(B/E):
+ARTCC low boundary:CYXY_TA(B/E):
+ARTCC low boundary:CYYC-CAX(60):
+ARTCC low boundary:CYYC-CAX(60/80):
+ARTCC low boundary:CYYC_TCA(15/C):
+ARTCC low boundary:CYYC_TCA(20/C):
+ARTCC low boundary:CYYC_TCA(24/C):
+ARTCC low boundary:CYYC_TCA(30/C):
+ARTCC low boundary:CYYE_CAX(25):
+ARTCC low boundary:CYYE_CAX(50):
+ARTCC low boundary:CYYE_TA(B/E):
+ARTCC low boundary:CYZF_CAX(25):
+ARTCC low boundary:CYZF_CAX(40):
+ARTCC low boundary:CYZF_CAX(50):
+ARTCC low boundary:CYZF_TA(B/E):
+ARTCC low boundary:CYZH_TA(B/E):
+ARTCC low boundary:CYZU_TA(B/E):
+ARTCC low boundary:CYZW_TA(B/E):
+ARTCC low boundary:CZVL_TCA(15/C):
+DisplayRotation:0.00000:
+Free Text:CYBW Ramp\I:freetext
+Free Text:CYBW Taxi\A:freetext
+Free Text:CYBW Taxi\A:freetext
+Free Text:CYBW Taxi\A:freetext
+Free Text:CYBW Taxi\A:freetext
+Free Text:CYBW Taxi\A:freetext
+Free Text:CYBW Taxi\A1:freetext
+Free Text:CYBW Taxi\C:freetext
+Free Text:CYBW Taxi\C:freetext
+Free Text:CYBW Taxi\C:freetext
+Free Text:CYBW Taxi\C:freetext
+Free Text:CYBW Taxi\D:freetext
+Free Text:CYBW Taxi\D:freetext
+Free Text:CYBW Taxi\D:freetext
+Free Text:CYBW Taxi\E:freetext
+Free Text:CYBW Taxi\F:freetext
+Free Text:CYBW Taxi\G:freetext
+Free Text:CYBW Taxi\G:freetext
+Free Text:CYEG Ramp\I:freetext
+Free Text:CYEG Ramp\I:freetext
+Free Text:CYEG Ramp\I:freetext
+Free Text:CYEG Ramp\II:freetext
+Free Text:CYEG Ramp\III:freetext
+Free Text:CYEG Ramp\IV:freetext
+Free Text:CYEG Taxi\A:freetext
+Free Text:CYEG Taxi\A:freetext
+Free Text:CYEG Taxi\A:freetext
+Free Text:CYEG Taxi\A:freetext
+Free Text:CYEG Taxi\A:freetext
+Free Text:CYEG Taxi\A:freetext
+Free Text:CYEG Taxi\A1:freetext
+Free Text:CYEG Taxi\A2:freetext
+Free Text:CYEG Taxi\A3:freetext
+Free Text:CYEG Taxi\A4:freetext
+Free Text:CYEG Taxi\AC:freetext
+Free Text:CYEG Taxi\AD:freetext
+Free Text:CYEG Taxi\B:freetext
+Free Text:CYEG Taxi\B:freetext
+Free Text:CYEG Taxi\B:freetext
+Free Text:CYEG Taxi\B:freetext
+Free Text:CYEG Taxi\B:freetext
+Free Text:CYEG Taxi\B:freetext
+Free Text:CYEG Taxi\B:freetext
+Free Text:CYEG Taxi\B1:freetext
+Free Text:CYEG Taxi\B2:freetext
+Free Text:CYEG Taxi\B4:freetext
+Free Text:CYEG Taxi\N:freetext
+Free Text:CYEG Taxi\P:freetext
+Free Text:CYEG Taxi\Q:freetext
+Free Text:CYEG Taxi\R:freetext
+Free Text:CYEG Taxi\S:freetext
+Free Text:CYEG Taxi\T:freetext
+Free Text:CYEG Taxi\U:freetext
+Free Text:CYHY Taxi\A:freetext
+Free Text:CYHY Taxi\B:freetext
+Free Text:CYMM Taxi\A:freetext
+Free Text:CYMM Taxi\B:freetext
+Free Text:CYMM Taxi\B:freetext
+Free Text:CYMM Taxi\C:freetext
+Free Text:CYMM Taxi\D:freetext
+Free Text:CYMM Taxi\D:freetext
+Free Text:CYMM Taxi\E:freetext
+Free Text:CYMM Taxi\F:freetext
+Free Text:CYMM Taxi\F:freetext
+Free Text:CYMM Taxi\G:freetext
+Free Text:CYMM Taxi\G:freetext
+Free Text:CYMM Taxi\G:freetext
+Free Text:CYMM Taxi\H:freetext
+Free Text:CYMM Taxi\I:freetext
+Free Text:CYMM Taxi\II:freetext
+Free Text:CYMM Taxi\J:freetext
+Free Text:CYMM Taxi\J:freetext
+Free Text:CYOD Taxi\A:freetext
+Free Text:CYOD Taxi\A:freetext
+Free Text:CYOD Taxi\A:freetext
+Free Text:CYOD Taxi\A:freetext
+Free Text:CYOD Taxi\A:freetext
+Free Text:CYOD Taxi\A:freetext
+Free Text:CYOD Taxi\B:freetext
+Free Text:CYOD Taxi\B:freetext
+Free Text:CYOD Taxi\B:freetext
+Free Text:CYOD Taxi\B:freetext
+Free Text:CYOD Taxi\C:freetext
+Free Text:CYOD Taxi\C:freetext
+Free Text:CYOD Taxi\D:freetext
+Free Text:CYOD Taxi\E:freetext
+Free Text:CYOD Taxi\E:freetext
+Free Text:CYOD Taxi\F:freetext
+Free Text:CYOD Taxi\G:freetext
+Free Text:CYOD Taxi\H:freetext
+Free Text:CYOD Taxi\J:freetext
+Free Text:CYOD Taxi\J:freetext
+Free Text:CYOD Taxi\J:freetext
+Free Text:CYOD Taxi\K:freetext
+Free Text:CYOD Taxi\L:freetext
+Free Text:CYOD Taxi\L:freetext
+Free Text:CYOD Taxi\M:freetext
+Free Text:CYQF Taxi\A:freetext
+Free Text:CYQF Taxi\A:freetext
+Free Text:CYQF Taxi\A:freetext
+Free Text:CYQF Taxi\A:freetext
+Free Text:CYQF Taxi\B:freetext
+Free Text:CYQF Taxi\C:freetext
+Free Text:CYQF Taxi\D:freetext
+Free Text:CYQF Taxi\D:freetext
+Free Text:CYQL Ramp\I:freetext
+Free Text:CYQL Ramp\II:freetext
+Free Text:CYQL Ramp\III:freetext
+Free Text:CYQL Taxi\A:freetext
+Free Text:CYQL Taxi\B:freetext
+Free Text:CYQL Taxi\B:freetext
+Free Text:CYQL Taxi\C:freetext
+Free Text:CYQU Taxi\A:freetext
+Free Text:CYQU Taxi\A:freetext
+Free Text:CYQU Taxi\A:freetext
+Free Text:CYQU Taxi\A:freetext
+Free Text:CYQU Taxi\A:freetext
+Free Text:CYQU Taxi\B:freetext
+Free Text:CYXH Ramp\HELI:freetext
+Free Text:CYXH Taxi\A:freetext
+Free Text:CYXH Taxi\B:freetext
+Free Text:CYXH Taxi\B:freetext
+Free Text:CYXY Ramp\I:freetext
+Free Text:CYXY Ramp\I:freetext
+Free Text:CYXY Ramp\I:freetext
+Free Text:CYXY Taxi\A:freetext
+Free Text:CYXY Taxi\A:freetext
+Free Text:CYXY Taxi\E:freetext
+Free Text:CYXY Taxi\E:freetext
+Free Text:CYXY Taxi\E:freetext
+Free Text:CYXY Taxi\F:freetext
+Free Text:CYXY Taxi\G:freetext
+Free Text:CYZF Ramp\I:freetext
+Free Text:CYZF Ramp\II:freetext
+Free Text:CYZF Ramp\III:freetext
+Free Text:CYZF Ramp\IV:freetext
+Free Text:CYZF Taxi\A:freetext
+Free Text:CYZF Taxi\B:freetext
+Free Text:CYZF Taxi\B:freetext
+Free Text:CYZF Taxi\C:freetext
+Free Text:CYZF Taxi\D:freetext
+Free Text:CYZF Taxi\E:freetext
+Free Text:CYZF Taxi\F:freetext
+Free Text:CYZF Taxi\G:freetext
+Free Text:CYZF Taxi\H:freetext
+Free Text:CYZF Taxi\J:freetext
+Free Text:CYZF Taxi\K:freetext
+Geo:16711680:
+Geo:16711680 A:
+Geo:16711680 C:
+Geo:16711680 J:
+Geo:4210688:
+Geo:CALGARY TERMINAL 6000 FEET ALTITUDE ZONE:
+Geo:CYBW:
+Geo:CYEG:
+Geo:CYHY:
+Geo:CYMM:
+Geo:CYOD:
+Geo:CYQF:
+Geo:CYQL:
+Geo:CYQU:
+Geo:CYXH:
+Geo:CYXY:
+Geo:CYZF:
+Geo:CZVL:
+Geo:GEO:
+Geo:Landmass:
+Geo:NB_AB-MO:
+Geo:NB_BC-AK:
+Geo:NB_BC-MO:
+Geo:NB_BC-WA:
+Geo:NB_MB-MN:
+Geo:NB_MB-ND:
+Geo:NB_ON-MN:
+Geo:NB_SK-MO:
+Geo:NB_SK-ND:
+Geo:NB_YK-AK:
+Geo:PB_AB/BC:
+Geo:PB_MB/SK:
+Geo:PB_NFLD/QC:
+Geo:PB_NU/MB:
+Geo:PB_NU/NWT:
+Geo:PB_NWT/AB:
+Geo:PB_NWT/BC:
+Geo:PB_NWT/SK:
+Geo:PB_NWT/YK:
+Geo:PB_ON/MB:
+Geo:PB_QC/ON:
+Geo:PB_SK/AB:
+Geo:PB_YK/BC:
+Geo:YC17R-11:
+Geo:YC35L-29:
+NDBs:1L:frequency
+NDBs:1L:name
+NDBs:1L:symbol
+NDBs:1N:frequency
+NDBs:1N:name
+NDBs:1N:symbol
+NDBs:1U:frequency
+NDBs:1U:name
+NDBs:1U:symbol
+NDBs:2J:frequency
+NDBs:2J:name
+NDBs:2J:symbol
+NDBs:2K:frequency
+NDBs:2K:name
+NDBs:2K:symbol
+NDBs:2Z:frequency
+NDBs:2Z:name
+NDBs:2Z:symbol
+NDBs:3H:frequency
+NDBs:3H:name
+NDBs:3H:symbol
+NDBs:3M:frequency
+NDBs:3M:name
+NDBs:3M:symbol
+NDBs:3Z:frequency
+NDBs:3Z:name
+NDBs:3Z:symbol
+NDBs:4A:frequency
+NDBs:4A:name
+NDBs:4A:symbol
+NDBs:4D:frequency
+NDBs:4D:name
+NDBs:4D:symbol
+NDBs:4O:frequency
+NDBs:4O:name
+NDBs:4O:symbol
+NDBs:5F:frequency
+NDBs:5F:name
+NDBs:5F:symbol
+NDBs:5J:frequency
+NDBs:5J:name
+NDBs:5J:symbol
+NDBs:5M:frequency
+NDBs:5M:name
+NDBs:5M:symbol
+NDBs:5U:frequency
+NDBs:5U:name
+NDBs:5U:symbol
+NDBs:5V:frequency
+NDBs:5V:name
+NDBs:5V:symbol
+NDBs:6Q:frequency
+NDBs:6Q:name
+NDBs:6Q:symbol
+NDBs:7F:frequency
+NDBs:7F:name
+NDBs:7F:symbol
+NDBs:7J:frequency
+NDBs:7J:name
+NDBs:7J:symbol
+NDBs:8C:frequency
+NDBs:8C:name
+NDBs:8C:symbol
+NDBs:8K:frequency
+NDBs:8K:name
+NDBs:8K:symbol
+NDBs:8M:frequency
+NDBs:8M:name
+NDBs:8M:symbol
+NDBs:9A:frequency
+NDBs:9A:name
+NDBs:9A:symbol
+NDBs:9G:frequency
+NDBs:9G:name
+NDBs:9G:symbol
+NDBs:9X:frequency
+NDBs:9X:name
+NDBs:9X:symbol
+NDBs:9Y:frequency
+NDBs:9Y:name
+NDBs:9Y:symbol
+NDBs:A5:frequency
+NDBs:A5:name
+NDBs:A5:symbol
+NDBs:AES:frequency
+NDBs:AES:name
+NDBs:AES:symbol
+NDBs:AP:frequency
+NDBs:AP:name
+NDBs:AP:symbol
+NDBs:BD:frequency
+NDBs:BD:name
+NDBs:BD:symbol
+NDBs:BK:frequency
+NDBs:BK:name
+NDBs:BK:symbol
+NDBs:BY:frequency
+NDBs:BY:name
+NDBs:BY:symbol
+NDBs:CB:frequency
+NDBs:CB:name
+NDBs:CB:symbol
+NDBs:CG:frequency
+NDBs:CG:name
+NDBs:CG:symbol
+NDBs:D3:frequency
+NDBs:D3:name
+NDBs:D3:symbol
+NDBs:D5:frequency
+NDBs:D5:name
+NDBs:D5:symbol
+NDBs:D6:frequency
+NDBs:D6:name
+NDBs:D6:symbol
+NDBs:DA:frequency
+NDBs:DA:name
+NDBs:DA:symbol
+NDBs:DB:frequency
+NDBs:DB:name
+NDBs:DB:symbol
+NDBs:DJN:frequency
+NDBs:DJN:name
+NDBs:DJN:symbol
+NDBs:DQ:frequency
+NDBs:DQ:name
+NDBs:DQ:symbol
+NDBs:E3:frequency
+NDBs:E3:name
+NDBs:E3:symbol
+NDBs:EB:frequency
+NDBs:EB:name
+NDBs:EB:symbol
+NDBs:EEF:frequency
+NDBs:EEF:name
+NDBs:EEF:symbol
+NDBs:EF:frequency
+NDBs:EF:name
+NDBs:EF:symbol
+NDBs:EV:frequency
+NDBs:EV:name
+NDBs:EV:symbol
+NDBs:FH:frequency
+NDBs:FH:name
+NDBs:FH:symbol
+NDBs:FO:frequency
+NDBs:FO:name
+NDBs:FO:symbol
+NDBs:FR:frequency
+NDBs:FR:name
+NDBs:FR:symbol
+NDBs:FS:frequency
+NDBs:FS:name
+NDBs:FS:symbol
+NDBs:FTO:frequency
+NDBs:FTO:name
+NDBs:FTO:symbol
+NDBs:GH:frequency
+NDBs:GH:name
+NDBs:GH:symbol
+NDBs:GW:frequency
+NDBs:GW:name
+NDBs:GW:symbol
+NDBs:HI:frequency
+NDBs:HI:name
+NDBs:HI:symbol
+NDBs:HNS:frequency
+NDBs:HNS:name
+NDBs:HNS:symbol
+NDBs:JB:frequency
+NDBs:JB:name
+NDBs:JB:symbol
+NDBs:JW:frequency
+NDBs:JW:name
+NDBs:JW:symbol
+NDBs:K2:frequency
+NDBs:K2:name
+NDBs:K2:symbol
+NDBs:K5:frequency
+NDBs:K5:name
+NDBs:K5:symbol
+NDBs:LT:frequency
+NDBs:LT:name
+NDBs:LT:symbol
+NDBs:LW:frequency
+NDBs:LW:name
+NDBs:LW:symbol
+NDBs:M3:frequency
+NDBs:M3:name
+NDBs:M3:symbol
+NDBs:M5:frequency
+NDBs:M5:name
+NDBs:M5:symbol
+NDBs:MA:frequency
+NDBs:MA:name
+NDBs:MA:symbol
+NDBs:MG:frequency
+NDBs:MG:name
+NDBs:MG:symbol
+NDBs:MM:frequency
+NDBs:MM:name
+NDBs:MM:symbol
+NDBs:N5:frequency
+NDBs:N5:name
+NDBs:N5:symbol
+NDBs:NY:frequency
+NDBs:NY:name
+NDBs:NY:symbol
+NDBs:OJ:frequency
+NDBs:OJ:name
+NDBs:OJ:symbol
+NDBs:ON:frequency
+NDBs:ON:name
+NDBs:ON:symbol
+NDBs:P2:frequency
+NDBs:P2:name
+NDBs:P2:symbol
+NDBs:PA:frequency
+NDBs:PA:name
+NDBs:PA:symbol
+NDBs:PE:frequency
+NDBs:PE:name
+NDBs:PE:symbol
+NDBs:PJ:frequency
+NDBs:PJ:name
+NDBs:PJ:symbol
+NDBs:PY:frequency
+NDBs:PY:name
+NDBs:PY:symbol
+NDBs:Q1:frequency
+NDBs:Q1:name
+NDBs:Q1:symbol
+NDBs:QD:frequency
+NDBs:QD:name
+NDBs:QD:symbol
+NDBs:QH:frequency
+NDBs:QH:name
+NDBs:QH:symbol
+NDBs:QL:frequency
+NDBs:QL:name
+NDBs:QL:symbol
+NDBs:QN:frequency
+NDBs:QN:name
+NDBs:QN:symbol
+NDBs:QU:frequency
+NDBs:QU:name
+NDBs:QU:symbol
+NDBs:QW:frequency
+NDBs:QW:name
+NDBs:QW:symbol
+NDBs:RB:frequency
+NDBs:RB:name
+NDBs:RB:symbol
+NDBs:RT:frequency
+NDBs:RT:name
+NDBs:RT:symbol
+NDBs:SM:frequency
+NDBs:SM:name
+NDBs:SM:symbol
+NDBs:SX:frequency
+NDBs:SX:name
+NDBs:SX:symbol
+NDBs:TK:frequency
+NDBs:TK:name
+NDBs:TK:symbol
+NDBs:TV:frequency
+NDBs:TV:name
+NDBs:TV:symbol
+NDBs:UNT:frequency
+NDBs:UNT:name
+NDBs:UNT:symbol
+NDBs:UX:frequency
+NDBs:UX:name
+NDBs:UX:symbol
+NDBs:VC:frequency
+NDBs:VC:name
+NDBs:VC:symbol
+NDBs:VG:frequency
+NDBs:VG:name
+NDBs:VG:symbol
+NDBs:VQ:frequency
+NDBs:VQ:name
+NDBs:VQ:symbol
+NDBs:VT:frequency
+NDBs:VT:name
+NDBs:VT:symbol
+NDBs:WC:frequency
+NDBs:WC:name
+NDBs:WC:symbol
+NDBs:WJ:frequency
+NDBs:WJ:name
+NDBs:WJ:symbol
+NDBs:WL:frequency
+NDBs:WL:name
+NDBs:WL:symbol
+NDBs:WY:frequency
+NDBs:WY:name
+NDBs:WY:symbol
+NDBs:X2:frequency
+NDBs:X2:name
+NDBs:X2:symbol
+NDBs:X5:frequency
+NDBs:X5:name
+NDBs:X5:symbol
+NDBs:XC:frequency
+NDBs:XC:name
+NDBs:XC:symbol
+NDBs:XD:frequency
+NDBs:XD:name
+NDBs:XD:symbol
+NDBs:XE:frequency
+NDBs:XE:name
+NDBs:XE:symbol
+NDBs:XH:frequency
+NDBs:XH:name
+NDBs:XH:symbol
+NDBs:XJ:frequency
+NDBs:XJ:name
+NDBs:XJ:symbol
+NDBs:XS:frequency
+NDBs:XS:name
+NDBs:XS:symbol
+NDBs:XT:frequency
+NDBs:XT:name
+NDBs:XT:symbol
+NDBs:XX:frequency
+NDBs:XX:name
+NDBs:XX:symbol
+NDBs:YAT:frequency
+NDBs:YAT:name
+NDBs:YAT:symbol
+NDBs:YBB:frequency
+NDBs:YBB:name
+NDBs:YBB:symbol
+NDBs:YBL:frequency
+NDBs:YBL:name
+NDBs:YBL:symbol
+NDBs:YC:frequency
+NDBs:YC:name
+NDBs:YC:symbol
+NDBs:YCO:frequency
+NDBs:YCO:name
+NDBs:YCO:symbol
+NDBs:YCS:frequency
+NDBs:YCS:name
+NDBs:YCS:symbol
+NDBs:YCY:frequency
+NDBs:YCY:name
+NDBs:YCY:symbol
+NDBs:YDL:frequency
+NDBs:YDL:name
+NDBs:YDL:symbol
+NDBs:YE:frequency
+NDBs:YE:name
+NDBs:YE:symbol
+NDBs:YEK:frequency
+NDBs:YEK:name
+NDBs:YEK:symbol
+NDBs:YER:frequency
+NDBs:YER:name
+NDBs:YER:symbol
+NDBs:YEU:frequency
+NDBs:YEU:name
+NDBs:YEU:symbol
+NDBs:YFY:frequency
+NDBs:YFY:name
+NDBs:YFY:symbol
+NDBs:YGT:frequency
+NDBs:YGT:name
+NDBs:YGT:symbol
+NDBs:YGX:frequency
+NDBs:YGX:name
+NDBs:YGX:symbol
+NDBs:YGZ:frequency
+NDBs:YGZ:name
+NDBs:YGZ:symbol
+NDBs:YHK:frequency
+NDBs:YHK:name
+NDBs:YHK:symbol
+NDBs:YIK:frequency
+NDBs:YIK:name
+NDBs:YIK:symbol
+NDBs:YIO:frequency
+NDBs:YIO:name
+NDBs:YIO:symbol
+NDBs:YIV:frequency
+NDBs:YIV:name
+NDBs:YIV:symbol
+NDBs:YJF:frequency
+NDBs:YJF:name
+NDBs:YJF:symbol
+NDBs:YJI:frequency
+NDBs:YJI:name
+NDBs:YJI:symbol
+NDBs:YJQ:frequency
+NDBs:YJQ:name
+NDBs:YJQ:symbol
+NDBs:YK:frequency
+NDBs:YK:name
+NDBs:YK:symbol
+NDBs:YKA:frequency
+NDBs:YKA:name
+NDBs:YKA:symbol
+NDBs:YKD:frequency
+NDBs:YKD:name
+NDBs:YKD:symbol
+NDBs:YKO:frequency
+NDBs:YKO:name
+NDBs:YKO:symbol
+NDBs:YL:frequency
+NDBs:YL:name
+NDBs:YL:symbol
+NDBs:YLB:frequency
+NDBs:YLB:name
+NDBs:YLB:symbol
+NDBs:YLC:frequency
+NDBs:YLC:name
+NDBs:YLC:symbol
+NDBs:YLJ:frequency
+NDBs:YLJ:name
+NDBs:YLJ:symbol
+NDBs:YLL:frequency
+NDBs:YLL:name
+NDBs:YLL:symbol
+NDBs:YNE:frequency
+NDBs:YNE:name
+NDBs:YNE:symbol
+NDBs:YOC:frequency
+NDBs:YOC:name
+NDBs:YOC:symbol
+NDBs:YOD:frequency
+NDBs:YOD:name
+NDBs:YOD:symbol
+NDBs:YOP:frequency
+NDBs:YOP:name
+NDBs:YOP:symbol
+NDBs:YPC:frequency
+NDBs:YPC:name
+NDBs:YPC:symbol
+NDBs:YPH:frequency
+NDBs:YPH:name
+NDBs:YPH:symbol
+NDBs:YPO:frequency
+NDBs:YPO:name
+NDBs:YPO:symbol
+NDBs:YPX:frequency
+NDBs:YPX:name
+NDBs:YPX:symbol
+NDBs:YQ:frequency
+NDBs:YQ:name
+NDBs:YQ:symbol
+NDBs:YQF:frequency
+NDBs:YQF:name
+NDBs:YQF:symbol
+NDBs:YQZ:frequency
+NDBs:YQZ:name
+NDBs:YQZ:symbol
+NDBs:YSF:frequency
+NDBs:YSF:name
+NDBs:YSF:symbol
+NDBs:YSK:frequency
+NDBs:YSK:name
+NDBs:YSK:symbol
+NDBs:YSQ:frequency
+NDBs:YSQ:name
+NDBs:YSQ:symbol
+NDBs:YSY:frequency
+NDBs:YSY:name
+NDBs:YSY:symbol
+NDBs:YTE:frequency
+NDBs:YTE:name
+NDBs:YTE:symbol
+NDBs:YUB:frequency
+NDBs:YUB:name
+NDBs:YUB:symbol
+NDBs:YUT:frequency
+NDBs:YUT:name
+NDBs:YUT:symbol
+NDBs:YWB:frequency
+NDBs:YWB:name
+NDBs:YWB:symbol
+NDBs:YXN:frequency
+NDBs:YXN:name
+NDBs:YXN:symbol
+NDBs:YXP:frequency
+NDBs:YXP:name
+NDBs:YXP:symbol
+NDBs:YXQ:frequency
+NDBs:YXQ:name
+NDBs:YXQ:symbol
+NDBs:YYU:frequency
+NDBs:YYU:name
+NDBs:YYU:symbol
+NDBs:YZG:frequency
+NDBs:YZG:name
+NDBs:YZG:symbol
+NDBs:YZH:frequency
+NDBs:YZH:name
+NDBs:YZH:symbol
+NDBs:YZS:frequency
+NDBs:YZS:name
+NDBs:YZS:symbol
+NDBs:Z1:frequency
+NDBs:Z1:name
+NDBs:Z1:symbol
+NDBs:Z5:frequency
+NDBs:Z5:name
+NDBs:Z5:symbol
+NDBs:Z7:frequency
+NDBs:Z7:name
+NDBs:Z7:symbol
+NDBs:ZAB:frequency
+NDBs:ZAB:name
+NDBs:ZAB:symbol
+NDBs:ZET:frequency
+NDBs:ZET:name
+NDBs:ZET:symbol
+NDBs:ZF:frequency
+NDBs:ZF:name
+NDBs:ZF:symbol
+NDBs:ZFA:frequency
+NDBs:ZFA:name
+NDBs:ZFA:symbol
+NDBs:ZFM:frequency
+NDBs:ZFM:name
+NDBs:ZFM:symbol
+NDBs:ZFN:frequency
+NDBs:ZFN:name
+NDBs:ZFN:symbol
+NDBs:ZU:frequency
+NDBs:ZU:name
+NDBs:ZU:symbol
+NDBs:ZW:frequency
+NDBs:ZW:name
+NDBs:ZW:symbol
+NDBs:ZWL:frequency
+NDBs:ZWL:name
+NDBs:ZWL:symbol
+NDBs:ZXJ:frequency
+NDBs:ZXJ:name
+NDBs:ZXJ:symbol
+NDBs:ZXY:frequency
+NDBs:ZXY:name
+NDBs:ZXY:symbol
+NDBs:ZYC:frequency
+NDBs:ZYC:name
+NDBs:ZYC:symbol
+NDBs:ZZD:frequency
+NDBs:ZZD:name
+NDBs:ZZD:symbol
+Regions:CYBW:polygon
+Regions:CYEG:polygon
+Regions:CYHY:polygon
+Regions:CYMM:polygon
+Regions:CYOD:polygon
+Regions:CYQF:polygon
+Regions:CYQL:polygon
+Regions:CYQU:polygon
+Regions:CYXH:polygon
+Regions:CYXY:polygon
+Regions:CYZF:polygon
+Runways:CYBW Springbank 08-26:centerline
+Runways:CYBW Springbank 08-26:extended centerline 1
+Runways:CYBW Springbank 08-26:extended centerline 1 left base
+Runways:CYBW Springbank 08-26:extended centerline 1 left ticks
+Runways:CYBW Springbank 08-26:extended centerline 1 left vectoring
+Runways:CYBW Springbank 08-26:extended centerline 1 right base
+Runways:CYBW Springbank 08-26:extended centerline 1 right ticks
+Runways:CYBW Springbank 08-26:extended centerline 1 right vectoring
+Runways:CYBW Springbank 08-26:extended centerline 2
+Runways:CYBW Springbank 08-26:extended centerline 2 left base
+Runways:CYBW Springbank 08-26:extended centerline 2 left ticks
+Runways:CYBW Springbank 08-26:extended centerline 2 left vectoring
+Runways:CYBW Springbank 08-26:extended centerline 2 right base
+Runways:CYBW Springbank 08-26:extended centerline 2 right ticks
+Runways:CYBW Springbank 08-26:extended centerline 2 right vectoring
+Runways:CYBW Springbank 08-26:name
+Runways:CYBW Springbank 17-35:centerline
+Runways:CYBW Springbank 17-35:extended centerline 1
+Runways:CYBW Springbank 17-35:extended centerline 1 left base
+Runways:CYBW Springbank 17-35:extended centerline 1 left ticks
+Runways:CYBW Springbank 17-35:extended centerline 1 left vectoring
+Runways:CYBW Springbank 17-35:extended centerline 1 right base
+Runways:CYBW Springbank 17-35:extended centerline 1 right ticks
+Runways:CYBW Springbank 17-35:extended centerline 1 right vectoring
+Runways:CYBW Springbank 17-35:extended centerline 2
+Runways:CYBW Springbank 17-35:extended centerline 2 left base
+Runways:CYBW Springbank 17-35:extended centerline 2 left ticks
+Runways:CYBW Springbank 17-35:extended centerline 2 left vectoring
+Runways:CYBW Springbank 17-35:extended centerline 2 right base
+Runways:CYBW Springbank 17-35:extended centerline 2 right ticks
+Runways:CYBW Springbank 17-35:extended centerline 2 right vectoring
+Runways:CYBW Springbank 17-35:name
+Runways:CYEG Edmonton 02-20:centerline
+Runways:CYEG Edmonton 02-20:extended centerline 1
+Runways:CYEG Edmonton 02-20:extended centerline 1 left base
+Runways:CYEG Edmonton 02-20:extended centerline 1 left ticks
+Runways:CYEG Edmonton 02-20:extended centerline 1 left vectoring
+Runways:CYEG Edmonton 02-20:extended centerline 1 right base
+Runways:CYEG Edmonton 02-20:extended centerline 1 right ticks
+Runways:CYEG Edmonton 02-20:extended centerline 1 right vectoring
+Runways:CYEG Edmonton 02-20:extended centerline 2
+Runways:CYEG Edmonton 02-20:extended centerline 2 left base
+Runways:CYEG Edmonton 02-20:extended centerline 2 left ticks
+Runways:CYEG Edmonton 02-20:extended centerline 2 left vectoring
+Runways:CYEG Edmonton 02-20:extended centerline 2 right base
+Runways:CYEG Edmonton 02-20:extended centerline 2 right ticks
+Runways:CYEG Edmonton 02-20:extended centerline 2 right vectoring
+Runways:CYEG Edmonton 02-20:name
+Runways:CYEG Edmonton 12-30:centerline
+Runways:CYEG Edmonton 12-30:extended centerline 1
+Runways:CYEG Edmonton 12-30:extended centerline 1 left base
+Runways:CYEG Edmonton 12-30:extended centerline 1 left ticks
+Runways:CYEG Edmonton 12-30:extended centerline 1 left vectoring
+Runways:CYEG Edmonton 12-30:extended centerline 1 right base
+Runways:CYEG Edmonton 12-30:extended centerline 1 right ticks
+Runways:CYEG Edmonton 12-30:extended centerline 1 right vectoring
+Runways:CYEG Edmonton 12-30:extended centerline 2
+Runways:CYEG Edmonton 12-30:extended centerline 2 left base
+Runways:CYEG Edmonton 12-30:extended centerline 2 left ticks
+Runways:CYEG Edmonton 12-30:extended centerline 2 left vectoring
+Runways:CYEG Edmonton 12-30:extended centerline 2 right base
+Runways:CYEG Edmonton 12-30:extended centerline 2 right ticks
+Runways:CYEG Edmonton 12-30:extended centerline 2 right vectoring
+Runways:CYEG Edmonton 12-30:name
+Runways:CYHY Hay River 05-23:centerline
+Runways:CYHY Hay River 05-23:extended centerline 1
+Runways:CYHY Hay River 05-23:extended centerline 1 left base
+Runways:CYHY Hay River 05-23:extended centerline 1 left ticks
+Runways:CYHY Hay River 05-23:extended centerline 1 left vectoring
+Runways:CYHY Hay River 05-23:extended centerline 1 right base
+Runways:CYHY Hay River 05-23:extended centerline 1 right ticks
+Runways:CYHY Hay River 05-23:extended centerline 1 right vectoring
+Runways:CYHY Hay River 05-23:extended centerline 2
+Runways:CYHY Hay River 05-23:extended centerline 2 left base
+Runways:CYHY Hay River 05-23:extended centerline 2 left ticks
+Runways:CYHY Hay River 05-23:extended centerline 2 left vectoring
+Runways:CYHY Hay River 05-23:extended centerline 2 right base
+Runways:CYHY Hay River 05-23:extended centerline 2 right ticks
+Runways:CYHY Hay River 05-23:extended centerline 2 right vectoring
+Runways:CYHY Hay River 05-23:name
+Runways:CYHY Hay River 14-32:centerline
+Runways:CYHY Hay River 14-32:extended centerline 1
+Runways:CYHY Hay River 14-32:extended centerline 1 left base
+Runways:CYHY Hay River 14-32:extended centerline 1 left ticks
+Runways:CYHY Hay River 14-32:extended centerline 1 left vectoring
+Runways:CYHY Hay River 14-32:extended centerline 1 right base
+Runways:CYHY Hay River 14-32:extended centerline 1 right ticks
+Runways:CYHY Hay River 14-32:extended centerline 1 right vectoring
+Runways:CYHY Hay River 14-32:extended centerline 2
+Runways:CYHY Hay River 14-32:extended centerline 2 left base
+Runways:CYHY Hay River 14-32:extended centerline 2 left ticks
+Runways:CYHY Hay River 14-32:extended centerline 2 left vectoring
+Runways:CYHY Hay River 14-32:extended centerline 2 right base
+Runways:CYHY Hay River 14-32:extended centerline 2 right ticks
+Runways:CYHY Hay River 14-32:extended centerline 2 right vectoring
+Runways:CYHY Hay River 14-32:name
+Runways:CYMM Fort McMurray 07-25:centerline
+Runways:CYMM Fort McMurray 07-25:extended centerline 1
+Runways:CYMM Fort McMurray 07-25:extended centerline 1 left base
+Runways:CYMM Fort McMurray 07-25:extended centerline 1 left ticks
+Runways:CYMM Fort McMurray 07-25:extended centerline 1 left vectoring
+Runways:CYMM Fort McMurray 07-25:extended centerline 1 right base
+Runways:CYMM Fort McMurray 07-25:extended centerline 1 right ticks
+Runways:CYMM Fort McMurray 07-25:extended centerline 1 right vectoring
+Runways:CYMM Fort McMurray 07-25:extended centerline 2
+Runways:CYMM Fort McMurray 07-25:extended centerline 2 left base
+Runways:CYMM Fort McMurray 07-25:extended centerline 2 left ticks
+Runways:CYMM Fort McMurray 07-25:extended centerline 2 left vectoring
+Runways:CYMM Fort McMurray 07-25:extended centerline 2 right base
+Runways:CYMM Fort McMurray 07-25:extended centerline 2 right ticks
+Runways:CYMM Fort McMurray 07-25:extended centerline 2 right vectoring
+Runways:CYMM Fort McMurray 07-25:name
+Runways:CYOD Cold Lake 04-22:centerline
+Runways:CYOD Cold Lake 04-22:extended centerline 1
+Runways:CYOD Cold Lake 04-22:extended centerline 1 left base
+Runways:CYOD Cold Lake 04-22:extended centerline 1 left ticks
+Runways:CYOD Cold Lake 04-22:extended centerline 1 left vectoring
+Runways:CYOD Cold Lake 04-22:extended centerline 1 right base
+Runways:CYOD Cold Lake 04-22:extended centerline 1 right ticks
+Runways:CYOD Cold Lake 04-22:extended centerline 1 right vectoring
+Runways:CYOD Cold Lake 04-22:extended centerline 2
+Runways:CYOD Cold Lake 04-22:extended centerline 2 left base
+Runways:CYOD Cold Lake 04-22:extended centerline 2 left ticks
+Runways:CYOD Cold Lake 04-22:extended centerline 2 left vectoring
+Runways:CYOD Cold Lake 04-22:extended centerline 2 right base
+Runways:CYOD Cold Lake 04-22:extended centerline 2 right ticks
+Runways:CYOD Cold Lake 04-22:extended centerline 2 right vectoring
+Runways:CYOD Cold Lake 04-22:name
+Runways:CYOD Cold Lake 13L-31R:centerline
+Runways:CYOD Cold Lake 13L-31R:extended centerline 1
+Runways:CYOD Cold Lake 13L-31R:extended centerline 1 left base
+Runways:CYOD Cold Lake 13L-31R:extended centerline 1 left ticks
+Runways:CYOD Cold Lake 13L-31R:extended centerline 1 left vectoring
+Runways:CYOD Cold Lake 13L-31R:extended centerline 1 right base
+Runways:CYOD Cold Lake 13L-31R:extended centerline 1 right ticks
+Runways:CYOD Cold Lake 13L-31R:extended centerline 1 right vectoring
+Runways:CYOD Cold Lake 13L-31R:extended centerline 2
+Runways:CYOD Cold Lake 13L-31R:extended centerline 2 left base
+Runways:CYOD Cold Lake 13L-31R:extended centerline 2 left ticks
+Runways:CYOD Cold Lake 13L-31R:extended centerline 2 left vectoring
+Runways:CYOD Cold Lake 13L-31R:extended centerline 2 right base
+Runways:CYOD Cold Lake 13L-31R:extended centerline 2 right ticks
+Runways:CYOD Cold Lake 13L-31R:extended centerline 2 right vectoring
+Runways:CYOD Cold Lake 13L-31R:name
+Runways:CYOD Cold Lake 31L-13R:centerline
+Runways:CYOD Cold Lake 31L-13R:extended centerline 1
+Runways:CYOD Cold Lake 31L-13R:extended centerline 1 left base
+Runways:CYOD Cold Lake 31L-13R:extended centerline 1 left ticks
+Runways:CYOD Cold Lake 31L-13R:extended centerline 1 left vectoring
+Runways:CYOD Cold Lake 31L-13R:extended centerline 1 right base
+Runways:CYOD Cold Lake 31L-13R:extended centerline 1 right ticks
+Runways:CYOD Cold Lake 31L-13R:extended centerline 1 right vectoring
+Runways:CYOD Cold Lake 31L-13R:extended centerline 2
+Runways:CYOD Cold Lake 31L-13R:extended centerline 2 left base
+Runways:CYOD Cold Lake 31L-13R:extended centerline 2 left ticks
+Runways:CYOD Cold Lake 31L-13R:extended centerline 2 left vectoring
+Runways:CYOD Cold Lake 31L-13R:extended centerline 2 right base
+Runways:CYOD Cold Lake 31L-13R:extended centerline 2 right ticks
+Runways:CYOD Cold Lake 31L-13R:extended centerline 2 right vectoring
+Runways:CYOD Cold Lake 31L-13R:name
+Runways:CYQF Red Deer 11-29:centerline
+Runways:CYQF Red Deer 11-29:extended centerline 1
+Runways:CYQF Red Deer 11-29:extended centerline 1 left base
+Runways:CYQF Red Deer 11-29:extended centerline 1 left ticks
+Runways:CYQF Red Deer 11-29:extended centerline 1 left vectoring
+Runways:CYQF Red Deer 11-29:extended centerline 1 right base
+Runways:CYQF Red Deer 11-29:extended centerline 1 right ticks
+Runways:CYQF Red Deer 11-29:extended centerline 1 right vectoring
+Runways:CYQF Red Deer 11-29:extended centerline 2
+Runways:CYQF Red Deer 11-29:extended centerline 2 left base
+Runways:CYQF Red Deer 11-29:extended centerline 2 left ticks
+Runways:CYQF Red Deer 11-29:extended centerline 2 left vectoring
+Runways:CYQF Red Deer 11-29:extended centerline 2 right base
+Runways:CYQF Red Deer 11-29:extended centerline 2 right ticks
+Runways:CYQF Red Deer 11-29:extended centerline 2 right vectoring
+Runways:CYQF Red Deer 11-29:name
+Runways:CYQF Red Deer 16-34:centerline
+Runways:CYQF Red Deer 16-34:extended centerline 1
+Runways:CYQF Red Deer 16-34:extended centerline 1 left base
+Runways:CYQF Red Deer 16-34:extended centerline 1 left ticks
+Runways:CYQF Red Deer 16-34:extended centerline 1 left vectoring
+Runways:CYQF Red Deer 16-34:extended centerline 1 right base
+Runways:CYQF Red Deer 16-34:extended centerline 1 right ticks
+Runways:CYQF Red Deer 16-34:extended centerline 1 right vectoring
+Runways:CYQF Red Deer 16-34:extended centerline 2
+Runways:CYQF Red Deer 16-34:extended centerline 2 left base
+Runways:CYQF Red Deer 16-34:extended centerline 2 left ticks
+Runways:CYQF Red Deer 16-34:extended centerline 2 left vectoring
+Runways:CYQF Red Deer 16-34:extended centerline 2 right base
+Runways:CYQF Red Deer 16-34:extended centerline 2 right ticks
+Runways:CYQF Red Deer 16-34:extended centerline 2 right vectoring
+Runways:CYQF Red Deer 16-34:name
+Runways:CYQL Lethbridge 05-23:centerline
+Runways:CYQL Lethbridge 05-23:extended centerline 1
+Runways:CYQL Lethbridge 05-23:extended centerline 1 left base
+Runways:CYQL Lethbridge 05-23:extended centerline 1 left ticks
+Runways:CYQL Lethbridge 05-23:extended centerline 1 left vectoring
+Runways:CYQL Lethbridge 05-23:extended centerline 1 right base
+Runways:CYQL Lethbridge 05-23:extended centerline 1 right ticks
+Runways:CYQL Lethbridge 05-23:extended centerline 1 right vectoring
+Runways:CYQL Lethbridge 05-23:extended centerline 2
+Runways:CYQL Lethbridge 05-23:extended centerline 2 left base
+Runways:CYQL Lethbridge 05-23:extended centerline 2 left ticks
+Runways:CYQL Lethbridge 05-23:extended centerline 2 left vectoring
+Runways:CYQL Lethbridge 05-23:extended centerline 2 right base
+Runways:CYQL Lethbridge 05-23:extended centerline 2 right ticks
+Runways:CYQL Lethbridge 05-23:extended centerline 2 right vectoring
+Runways:CYQL Lethbridge 05-23:name
+Runways:CYQL Lethbridge 12-30:centerline
+Runways:CYQL Lethbridge 12-30:extended centerline 1
+Runways:CYQL Lethbridge 12-30:extended centerline 1 left base
+Runways:CYQL Lethbridge 12-30:extended centerline 1 left ticks
+Runways:CYQL Lethbridge 12-30:extended centerline 1 left vectoring
+Runways:CYQL Lethbridge 12-30:extended centerline 1 right base
+Runways:CYQL Lethbridge 12-30:extended centerline 1 right ticks
+Runways:CYQL Lethbridge 12-30:extended centerline 1 right vectoring
+Runways:CYQL Lethbridge 12-30:extended centerline 2
+Runways:CYQL Lethbridge 12-30:extended centerline 2 left base
+Runways:CYQL Lethbridge 12-30:extended centerline 2 left ticks
+Runways:CYQL Lethbridge 12-30:extended centerline 2 left vectoring
+Runways:CYQL Lethbridge 12-30:extended centerline 2 right base
+Runways:CYQL Lethbridge 12-30:extended centerline 2 right ticks
+Runways:CYQL Lethbridge 12-30:extended centerline 2 right vectoring
+Runways:CYQL Lethbridge 12-30:name
+Runways:CYQU Grande Prairie 07-25:centerline
+Runways:CYQU Grande Prairie 07-25:extended centerline 1
+Runways:CYQU Grande Prairie 07-25:extended centerline 1 left base
+Runways:CYQU Grande Prairie 07-25:extended centerline 1 left ticks
+Runways:CYQU Grande Prairie 07-25:extended centerline 1 left vectoring
+Runways:CYQU Grande Prairie 07-25:extended centerline 1 right base
+Runways:CYQU Grande Prairie 07-25:extended centerline 1 right ticks
+Runways:CYQU Grande Prairie 07-25:extended centerline 1 right vectoring
+Runways:CYQU Grande Prairie 07-25:extended centerline 2
+Runways:CYQU Grande Prairie 07-25:extended centerline 2 left base
+Runways:CYQU Grande Prairie 07-25:extended centerline 2 left ticks
+Runways:CYQU Grande Prairie 07-25:extended centerline 2 left vectoring
+Runways:CYQU Grande Prairie 07-25:extended centerline 2 right base
+Runways:CYQU Grande Prairie 07-25:extended centerline 2 right ticks
+Runways:CYQU Grande Prairie 07-25:extended centerline 2 right vectoring
+Runways:CYQU Grande Prairie 07-25:name
+Runways:CYQU Grande Prairie 12-30:centerline
+Runways:CYQU Grande Prairie 12-30:extended centerline 1
+Runways:CYQU Grande Prairie 12-30:extended centerline 1 left base
+Runways:CYQU Grande Prairie 12-30:extended centerline 1 left ticks
+Runways:CYQU Grande Prairie 12-30:extended centerline 1 left vectoring
+Runways:CYQU Grande Prairie 12-30:extended centerline 1 right base
+Runways:CYQU Grande Prairie 12-30:extended centerline 1 right ticks
+Runways:CYQU Grande Prairie 12-30:extended centerline 1 right vectoring
+Runways:CYQU Grande Prairie 12-30:extended centerline 2
+Runways:CYQU Grande Prairie 12-30:extended centerline 2 left base
+Runways:CYQU Grande Prairie 12-30:extended centerline 2 left ticks
+Runways:CYQU Grande Prairie 12-30:extended centerline 2 left vectoring
+Runways:CYQU Grande Prairie 12-30:extended centerline 2 right base
+Runways:CYQU Grande Prairie 12-30:extended centerline 2 right ticks
+Runways:CYQU Grande Prairie 12-30:extended centerline 2 right vectoring
+Runways:CYQU Grande Prairie 12-30:name
+Runways:CYXH Medicine Hat 03-21:centerline
+Runways:CYXH Medicine Hat 03-21:extended centerline 1
+Runways:CYXH Medicine Hat 03-21:extended centerline 1 left base
+Runways:CYXH Medicine Hat 03-21:extended centerline 1 left ticks
+Runways:CYXH Medicine Hat 03-21:extended centerline 1 left vectoring
+Runways:CYXH Medicine Hat 03-21:extended centerline 1 right base
+Runways:CYXH Medicine Hat 03-21:extended centerline 1 right ticks
+Runways:CYXH Medicine Hat 03-21:extended centerline 1 right vectoring
+Runways:CYXH Medicine Hat 03-21:extended centerline 2
+Runways:CYXH Medicine Hat 03-21:extended centerline 2 left base
+Runways:CYXH Medicine Hat 03-21:extended centerline 2 left ticks
+Runways:CYXH Medicine Hat 03-21:extended centerline 2 left vectoring
+Runways:CYXH Medicine Hat 03-21:extended centerline 2 right base
+Runways:CYXH Medicine Hat 03-21:extended centerline 2 right ticks
+Runways:CYXH Medicine Hat 03-21:extended centerline 2 right vectoring
+Runways:CYXH Medicine Hat 03-21:name
+Runways:CYXH Medicine Hat 09-27:centerline
+Runways:CYXH Medicine Hat 09-27:extended centerline 1
+Runways:CYXH Medicine Hat 09-27:extended centerline 1 left base
+Runways:CYXH Medicine Hat 09-27:extended centerline 1 left ticks
+Runways:CYXH Medicine Hat 09-27:extended centerline 1 left vectoring
+Runways:CYXH Medicine Hat 09-27:extended centerline 1 right base
+Runways:CYXH Medicine Hat 09-27:extended centerline 1 right ticks
+Runways:CYXH Medicine Hat 09-27:extended centerline 1 right vectoring
+Runways:CYXH Medicine Hat 09-27:extended centerline 2
+Runways:CYXH Medicine Hat 09-27:extended centerline 2 left base
+Runways:CYXH Medicine Hat 09-27:extended centerline 2 left ticks
+Runways:CYXH Medicine Hat 09-27:extended centerline 2 left vectoring
+Runways:CYXH Medicine Hat 09-27:extended centerline 2 right base
+Runways:CYXH Medicine Hat 09-27:extended centerline 2 right ticks
+Runways:CYXH Medicine Hat 09-27:extended centerline 2 right vectoring
+Runways:CYXH Medicine Hat 09-27:name
+Runways:CYXY Whitehorse 01-19:centerline
+Runways:CYXY Whitehorse 01-19:extended centerline 1
+Runways:CYXY Whitehorse 01-19:extended centerline 1 left base
+Runways:CYXY Whitehorse 01-19:extended centerline 1 left ticks
+Runways:CYXY Whitehorse 01-19:extended centerline 1 left vectoring
+Runways:CYXY Whitehorse 01-19:extended centerline 1 right base
+Runways:CYXY Whitehorse 01-19:extended centerline 1 right ticks
+Runways:CYXY Whitehorse 01-19:extended centerline 1 right vectoring
+Runways:CYXY Whitehorse 01-19:extended centerline 2
+Runways:CYXY Whitehorse 01-19:extended centerline 2 left base
+Runways:CYXY Whitehorse 01-19:extended centerline 2 left ticks
+Runways:CYXY Whitehorse 01-19:extended centerline 2 left vectoring
+Runways:CYXY Whitehorse 01-19:extended centerline 2 right base
+Runways:CYXY Whitehorse 01-19:extended centerline 2 right ticks
+Runways:CYXY Whitehorse 01-19:extended centerline 2 right vectoring
+Runways:CYXY Whitehorse 01-19:name
+Runways:CYXY Whitehorse 14L-32R:centerline
+Runways:CYXY Whitehorse 14L-32R:extended centerline 1
+Runways:CYXY Whitehorse 14L-32R:extended centerline 1 left base
+Runways:CYXY Whitehorse 14L-32R:extended centerline 1 left ticks
+Runways:CYXY Whitehorse 14L-32R:extended centerline 1 left vectoring
+Runways:CYXY Whitehorse 14L-32R:extended centerline 1 right base
+Runways:CYXY Whitehorse 14L-32R:extended centerline 1 right ticks
+Runways:CYXY Whitehorse 14L-32R:extended centerline 1 right vectoring
+Runways:CYXY Whitehorse 14L-32R:extended centerline 2
+Runways:CYXY Whitehorse 14L-32R:extended centerline 2 left base
+Runways:CYXY Whitehorse 14L-32R:extended centerline 2 left ticks
+Runways:CYXY Whitehorse 14L-32R:extended centerline 2 left vectoring
+Runways:CYXY Whitehorse 14L-32R:extended centerline 2 right base
+Runways:CYXY Whitehorse 14L-32R:extended centerline 2 right ticks
+Runways:CYXY Whitehorse 14L-32R:extended centerline 2 right vectoring
+Runways:CYXY Whitehorse 14L-32R:name
+Runways:CYXY Whitehorse 14R-32L:centerline
+Runways:CYXY Whitehorse 14R-32L:extended centerline 1
+Runways:CYXY Whitehorse 14R-32L:extended centerline 1 left base
+Runways:CYXY Whitehorse 14R-32L:extended centerline 1 left ticks
+Runways:CYXY Whitehorse 14R-32L:extended centerline 1 left vectoring
+Runways:CYXY Whitehorse 14R-32L:extended centerline 1 right base
+Runways:CYXY Whitehorse 14R-32L:extended centerline 1 right ticks
+Runways:CYXY Whitehorse 14R-32L:extended centerline 1 right vectoring
+Runways:CYXY Whitehorse 14R-32L:extended centerline 2
+Runways:CYXY Whitehorse 14R-32L:extended centerline 2 left base
+Runways:CYXY Whitehorse 14R-32L:extended centerline 2 left ticks
+Runways:CYXY Whitehorse 14R-32L:extended centerline 2 left vectoring
+Runways:CYXY Whitehorse 14R-32L:extended centerline 2 right base
+Runways:CYXY Whitehorse 14R-32L:extended centerline 2 right ticks
+Runways:CYXY Whitehorse 14R-32L:extended centerline 2 right vectoring
+Runways:CYXY Whitehorse 14R-32L:name
+Runways:CYYC Calgary 08-26:centerline
+Runways:CYYC Calgary 08-26:name
+Runways:CYYC Calgary 11-29:centerline
+Runways:CYYC Calgary 11-29:name
+Runways:CYYC Calgary 17L-35R:centerline
+Runways:CYYC Calgary 17L-35R:name
+Runways:CYYC Calgary 17R-35L:centerline
+Runways:CYYC Calgary 17R-35L:name
+Runways:CYZF Yellowknife 10-28:centerline
+Runways:CYZF Yellowknife 10-28:extended centerline 1
+Runways:CYZF Yellowknife 10-28:extended centerline 1 left base
+Runways:CYZF Yellowknife 10-28:extended centerline 1 left ticks
+Runways:CYZF Yellowknife 10-28:extended centerline 1 left vectoring
+Runways:CYZF Yellowknife 10-28:extended centerline 1 right base
+Runways:CYZF Yellowknife 10-28:extended centerline 1 right ticks
+Runways:CYZF Yellowknife 10-28:extended centerline 1 right vectoring
+Runways:CYZF Yellowknife 10-28:extended centerline 2
+Runways:CYZF Yellowknife 10-28:extended centerline 2 left base
+Runways:CYZF Yellowknife 10-28:extended centerline 2 left ticks
+Runways:CYZF Yellowknife 10-28:extended centerline 2 left vectoring
+Runways:CYZF Yellowknife 10-28:extended centerline 2 right base
+Runways:CYZF Yellowknife 10-28:extended centerline 2 right ticks
+Runways:CYZF Yellowknife 10-28:extended centerline 2 right vectoring
+Runways:CYZF Yellowknife 10-28:name
+Runways:CYZF Yellowknife 16-34:centerline
+Runways:CYZF Yellowknife 16-34:extended centerline 1
+Runways:CYZF Yellowknife 16-34:extended centerline 1 left base
+Runways:CYZF Yellowknife 16-34:extended centerline 1 left ticks
+Runways:CYZF Yellowknife 16-34:extended centerline 1 left vectoring
+Runways:CYZF Yellowknife 16-34:extended centerline 1 right base
+Runways:CYZF Yellowknife 16-34:extended centerline 1 right ticks
+Runways:CYZF Yellowknife 16-34:extended centerline 1 right vectoring
+Runways:CYZF Yellowknife 16-34:extended centerline 2
+Runways:CYZF Yellowknife 16-34:extended centerline 2 left base
+Runways:CYZF Yellowknife 16-34:extended centerline 2 left ticks
+Runways:CYZF Yellowknife 16-34:extended centerline 2 left vectoring
+Runways:CYZF Yellowknife 16-34:extended centerline 2 right base
+Runways:CYZF Yellowknife 16-34:extended centerline 2 right ticks
+Runways:CYZF Yellowknife 16-34:extended centerline 2 right vectoring
+Runways:CYZF Yellowknife 16-34:name
+Runways:CZVL Villeneuve 34-16:centerline
+Runways:CZVL Villeneuve 34-16:extended centerline 1
+Runways:CZVL Villeneuve 34-16:extended centerline 1 left base
+Runways:CZVL Villeneuve 34-16:extended centerline 1 left ticks
+Runways:CZVL Villeneuve 34-16:extended centerline 1 left vectoring
+Runways:CZVL Villeneuve 34-16:extended centerline 1 right base
+Runways:CZVL Villeneuve 34-16:extended centerline 1 right ticks
+Runways:CZVL Villeneuve 34-16:extended centerline 1 right vectoring
+Runways:CZVL Villeneuve 34-16:extended centerline 2
+Runways:CZVL Villeneuve 34-16:extended centerline 2 left base
+Runways:CZVL Villeneuve 34-16:extended centerline 2 left ticks
+Runways:CZVL Villeneuve 34-16:extended centerline 2 left vectoring
+Runways:CZVL Villeneuve 34-16:extended centerline 2 right base
+Runways:CZVL Villeneuve 34-16:extended centerline 2 right ticks
+Runways:CZVL Villeneuve 34-16:extended centerline 2 right vectoring
+Runways:CZVL Villeneuve 34-16:name
+Runways:CZVL Villenuve 08-26:centerline
+Runways:CZVL Villenuve 08-26:extended centerline 1
+Runways:CZVL Villenuve 08-26:extended centerline 1 left base
+Runways:CZVL Villenuve 08-26:extended centerline 1 left ticks
+Runways:CZVL Villenuve 08-26:extended centerline 1 left vectoring
+Runways:CZVL Villenuve 08-26:extended centerline 1 right base
+Runways:CZVL Villenuve 08-26:extended centerline 1 right ticks
+Runways:CZVL Villenuve 08-26:extended centerline 1 right vectoring
+Runways:CZVL Villenuve 08-26:extended centerline 2
+Runways:CZVL Villenuve 08-26:extended centerline 2 left base
+Runways:CZVL Villenuve 08-26:extended centerline 2 left ticks
+Runways:CZVL Villenuve 08-26:extended centerline 2 left vectoring
+Runways:CZVL Villenuve 08-26:extended centerline 2 right base
+Runways:CZVL Villenuve 08-26:extended centerline 2 right ticks
+Runways:CZVL Villenuve 08-26:extended centerline 2 right vectoring
+Runways:CZVL Villenuve 08-26:name
+VORs:BDE:frequency
+VORs:BDE:name
+VORs:BDE:symbol
+VORs:BGQ:frequency
+VORs:BGQ:name
+VORs:BGQ:symbol
+VORs:BTT:frequency
+VORs:BTT:name
+VORs:BTT:symbol
+VORs:CTB:frequency
+VORs:CTB:name
+VORs:CTB:symbol
+VORs:ENN:frequency
+VORs:ENN:name
+VORs:ENN:symbol
+VORs:FAI:frequency
+VORs:FAI:name
+VORs:FAI:symbol
+VORs:FYU:frequency
+VORs:FYU:name
+VORs:FYU:symbol
+VORs:GAL:frequency
+VORs:GAL:name
+VORs:GAL:symbol
+VORs:GEG:frequency
+VORs:GEG:name
+VORs:GEG:symbol
+VORs:GGW:frequency
+VORs:GGW:name
+VORs:GGW:symbol
+VORs:GKN:frequency
+VORs:GKN:name
+VORs:GKN:symbol
+VORs:GTF:frequency
+VORs:GTF:name
+VORs:GTF:symbol
+VORs:JOH:frequency
+VORs:JOH:name
+VORs:JOH:symbol
+VORs:MLP:frequency
+VORs:MLP:name
+VORs:MLP:symbol
+VORs:ORT:frequency
+VORs:ORT:name
+VORs:ORT:symbol
+VORs:SCC:frequency
+VORs:SCC:name
+VORs:SCC:symbol
+VORs:SSR:frequency
+VORs:SSR:name
+VORs:SSR:symbol
+VORs:THT:frequency
+VORs:THT:name
+VORs:THT:symbol
+VORs:UOD:frequency
+VORs:UOD:name
+VORs:UOD:symbol
+VORs:UQQ:frequency
+VORs:UQQ:name
+VORs:UQQ:symbol
+VORs:VBI:frequency
+VORs:VBI:name
+VORs:VBI:symbol
+VORs:VLN:frequency
+VORs:VLN:name
+VORs:VLN:symbol
+VORs:YAK:frequency
+VORs:YAK:name
+VORs:YAK:symbol
+VORs:YBK:frequency
+VORs:YBK:name
+VORs:YBK:symbol
+VORs:YBR:frequency
+VORs:YBR:name
+VORs:YBR:symbol
+VORs:YBW:frequency
+VORs:YBW:name
+VORs:YBW:symbol
+VORs:YCB:frequency
+VORs:YCB:name
+VORs:YCB:symbol
+VORs:YDC:frequency
+VORs:YDC:name
+VORs:YDC:symbol
+VORs:YDN:frequency
+VORs:YDN:name
+VORs:YDN:symbol
+VORs:YEA:frequency
+VORs:YEA:name
+VORs:YEA:symbol
+VORs:YEG:frequency
+VORs:YEG:name
+VORs:YEG:symbol
+VORs:YEV:frequency
+VORs:YEV:name
+VORs:YEV:symbol
+VORs:YFB:frequency
+VORs:YFB:name
+VORs:YFB:symbol
+VORs:YFS:frequency
+VORs:YFS:name
+VORs:YFS:symbol
+VORs:YGH:frequency
+VORs:YGH:name
+VORs:YGH:symbol
+VORs:YHY:frequency
+VORs:YHY:name
+VORs:YHY:symbol
+VORs:YKJ:frequency
+VORs:YKJ:name
+VORs:YKJ:symbol
+VORs:YMJ:frequency
+VORs:YMJ:name
+VORs:YMJ:symbol
+VORs:YMM:frequency
+VORs:YMM:name
+VORs:YMM:symbol
+VORs:YMO:frequency
+VORs:YMO:name
+VORs:YMO:symbol
+VORs:YNY:frequency
+VORs:YNY:name
+VORs:YNY:symbol
+VORs:YOJ:frequency
+VORs:YOJ:name
+VORs:YOJ:symbol
+VORs:YPA:frequency
+VORs:YPA:name
+VORs:YPA:symbol
+VORs:YPE:frequency
+VORs:YPE:name
+VORs:YPE:symbol
+VORs:YPK:frequency
+VORs:YPK:name
+VORs:YPK:symbol
+VORs:YQD:frequency
+VORs:YQD:name
+VORs:YQD:symbol
+VORs:YQH:frequency
+VORs:YQH:name
+VORs:YQH:symbol
+VORs:YQL:frequency
+VORs:YQL:name
+VORs:YQL:symbol
+VORs:YQU:frequency
+VORs:YQU:name
+VORs:YQU:symbol
+VORs:YQV:frequency
+VORs:YQV:name
+VORs:YQV:symbol
+VORs:YRB:frequency
+VORs:YRB:name
+VORs:YRB:symbol
+VORs:YRL:frequency
+VORs:YRL:name
+VORs:YRL:symbol
+VORs:YRM:frequency
+VORs:YRM:name
+VORs:YRM:symbol
+VORs:YRT:frequency
+VORs:YRT:name
+VORs:YRT:symbol
+VORs:YSM:frequency
+VORs:YSM:name
+VORs:YSM:symbol
+VORs:YTH:frequency
+VORs:YTH:name
+VORs:YTH:symbol
+VORs:YUX:frequency
+VORs:YUX:name
+VORs:YUX:symbol
+VORs:YVC:frequency
+VORs:YVC:name
+VORs:YVC:symbol
+VORs:YVQ:frequency
+VORs:YVQ:name
+VORs:YVQ:symbol
+VORs:YVR:frequency
+VORs:YVR:name
+VORs:YVR:symbol
+VORs:YWG:frequency
+VORs:YWG:name
+VORs:YWG:symbol
+VORs:YWL:frequency
+VORs:YWL:name
+VORs:YWL:symbol
+VORs:YWV:frequency
+VORs:YWV:name
+VORs:YWV:symbol
+VORs:YWY:frequency
+VORs:YWY:name
+VORs:YWY:symbol
+VORs:YXC:frequency
+VORs:YXC:name
+VORs:YXC:symbol
+VORs:YXE:frequency
+VORs:YXE:name
+VORs:YXE:symbol
+VORs:YXJ:frequency
+VORs:YXJ:name
+VORs:YXJ:symbol
+VORs:YXS:frequency
+VORs:YXS:name
+VORs:YXS:symbol
+VORs:YXY:frequency
+VORs:YXY:name
+VORs:YXY:symbol
+VORs:YYC:frequency
+VORs:YYC:name
+VORs:YYC:symbol
+VORs:YYD:frequency
+VORs:YYD:name
+VORs:YYD:symbol
+VORs:YYE:frequency
+VORs:YYE:name
+VORs:YYE:symbol
+VORs:YYJ:frequency
+VORs:YYJ:name
+VORs:YYJ:symbol
+VORs:YYL:frequency
+VORs:YYL:name
+VORs:YYL:symbol
+VORs:YYN:frequency
+VORs:YYN:name
+VORs:YYN:symbol
+VORs:YYQ:frequency
+VORs:YYQ:name
+VORs:YYQ:symbol
+VORs:YZF:frequency
+VORs:YZF:name
+VORs:YZF:symbol
+VORs:YZP:frequency
+VORs:YZP:name
+VORs:YZP:symbol
+VORs:YZT:frequency
+VORs:YZT:name
+VORs:YZT:symbol
+VORs:YZU:frequency
+VORs:YZU:name
+VORs:YZU:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:28200
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)
+WINDOWAREA:51.263511:-149.669495:78.038362:-76.479003

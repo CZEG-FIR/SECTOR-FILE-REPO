@@ -1,0 +1,400 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tony\Documents\EuroScope\CZEG\CZEG_ES_Sectors\CZEG_FIR.sct
+SECTORTITLE:CZEG_FIR.sct
+Airports:CEJ4:name
+Airports:CEJ4:symbol
+Airports:CEN5:name
+Airports:CEN5:symbol
+Airports:CYBF:name
+Airports:CYBF:symbol
+Airports:CYDA:name
+Airports:CYDA:symbol
+Airports:CYDQ:name
+Airports:CYDQ:symbol
+Airports:CYEV:name
+Airports:CYEV:symbol
+Airports:CYFI:name
+Airports:CYFI:symbol
+Airports:CYFR:name
+Airports:CYFR:symbol
+Airports:CYFS:name
+Airports:CYFS:symbol
+Airports:CYHY:name
+Airports:CYHY:symbol
+Airports:CYJA:name
+Airports:CYJA:symbol
+Airports:CYLL:name
+Airports:CYLL:symbol
+Airports:CYMM:name
+Airports:CYMM:symbol
+Airports:CYOD:name
+Airports:CYOD:symbol
+Airports:CYOJ:name
+Airports:CYOJ:symbol
+Airports:CYPE:name
+Airports:CYPE:symbol
+Airports:CYPY:name
+Airports:CYPY:symbol
+Airports:CYQH:name
+Airports:CYQH:symbol
+Airports:CYQL:name
+Airports:CYQL:symbol
+Airports:CYQU:name
+Airports:CYQU:symbol
+Airports:CYSM:name
+Airports:CYSM:symbol
+Airports:CYVG:name
+Airports:CYVG:symbol
+Airports:CYVQ:name
+Airports:CYVQ:symbol
+Airports:CYXH:name
+Airports:CYXH:symbol
+Airports:CYXJ:name
+Airports:CYXJ:symbol
+Airports:CYXY:name
+Airports:CYXY:symbol
+Airports:CYYE:name
+Airports:CYYE:symbol
+Airports:CYZF:name
+Airports:CYZF:symbol
+Airports:CYZH:name
+Airports:CYZH:symbol
+Airports:CYZU:name
+Airports:CYZU:symbol
+Airports:CYZW:name
+Airports:CYZW:symbol
+Airports:CZVL:name
+Airports:CZVL:symbol
+ARTCC boundary:CZEG FIR:
+ARTCC low boundary:CAL4_TA(B/E)i:
+ARTCC low boundary:CAL4_TA(B/E)ii:
+ARTCC low boundary:CYEG_TCA(12/C):
+ARTCC low boundary:CYEG_TCA(25/C):
+ARTCC low boundary:CYEG_TCA(30/C):
+ARTCC low boundary:CYEG_TCA(35/C):
+ARTCC low boundary:CYEV_TA(B/E):
+ARTCC low boundary:CYFR_TA(B/E):
+ARTCC low boundary:CYFS_CAX(25):
+ARTCC low boundary:CYHY_CAX(25):
+ARTCC low boundary:CYHY_CAX(50):
+ARTCC low boundary:CYLL_CAX(25):
+ARTCC low boundary:CYMM_CAX(60/25):
+ARTCC low boundary:CYMM_TA(B/E):
+ARTCC low boundary:CYNR_TA(B/E)i:
+ARTCC low boundary:CYNR_TA(B/E)ii:
+ARTCC low boundary:CYOD_MTCA:
+ARTCC low boundary:CYOJ_CAX(25):
+ARTCC low boundary:CYPE_CAX(25):
+ARTCC low boundary:CYPY_TA(B/E):
+ARTCC low boundary:CYQF_TA(B/E):
+ARTCC low boundary:CYQH_TA(B/E):
+ARTCC low boundary:CYQL_CAX(25):
+ARTCC low boundary:CYQL_CAX(35):
+ARTCC low boundary:CYQL_TA(B/E):
+ARTCC low boundary:CYQU_CAX(25):
+ARTCC low boundary:CYQU_CAX(50):
+ARTCC low boundary:CYR131:
+ARTCC low boundary:CYR167:
+ARTCC low boundary:CYR201:
+ARTCC low boundary:CYR203:
+ARTCC low boundary:CYR204:
+ARTCC low boundary:CYR207:
+ARTCC low boundary:CYR208:
+ARTCC low boundary:CYR210:
+ARTCC low boundary:CYR211:
+ARTCC low boundary:CYR212:
+ARTCC low boundary:CYR220:
+ARTCC low boundary:CYR221:
+ARTCC low boundary:CYR222:
+ARTCC low boundary:CYR223:
+ARTCC low boundary:CYR224:
+ARTCC low boundary:CYR225:
+ARTCC low boundary:CYR226:
+ARTCC low boundary:CYR227:
+ARTCC low boundary:CYR228:
+ARTCC low boundary:CYR229:
+ARTCC low boundary:CYR230:
+ARTCC low boundary:CYR231:
+ARTCC low boundary:CYR232:
+ARTCC low boundary:CYR233:
+ARTCC low boundary:CYR251:
+ARTCC low boundary:CYR252:
+ARTCC low boundary:CYR263:
+ARTCC low boundary:CYR268:
+ARTCC low boundary:CYR269:
+ARTCC low boundary:CYR270:
+ARTCC low boundary:CYSM_CAX(25):
+ARTCC low boundary:CYVG_TA(B/E):
+ARTCC low boundary:CYVQ_TA(B/E):
+ARTCC low boundary:CYXH_CAX(25):
+ARTCC low boundary:CYXH_TA(B/E):
+ARTCC low boundary:CYXJ_CAX(25):
+ARTCC low boundary:CYXY_TA(B/E):
+ARTCC low boundary:CYYC-CAX(60):
+ARTCC low boundary:CYYC-CAX(60/80):
+ARTCC low boundary:CYYC_TCA(15/C):
+ARTCC low boundary:CYYC_TCA(20/C):
+ARTCC low boundary:CYYC_TCA(24/C):
+ARTCC low boundary:CYYC_TCA(30/C):
+ARTCC low boundary:CYYE_CAX(25):
+ARTCC low boundary:CYYE_CAX(50):
+ARTCC low boundary:CYZF_CAX(25):
+ARTCC low boundary:CYZF_CAX(50):
+ARTCC low boundary:CYZF_TA(B/E):
+ARTCC low boundary:CYZH_TA(B/E):
+ARTCC low boundary:CYZU_TA(B/E):
+ARTCC low boundary:CYZW_TA(B/E):
+ARTCC low boundary:CZVL_TCA(15/C):
+Fixes:ADSAL:name
+Fixes:ADSAL:symbol
+Fixes:ADVOX:name
+Fixes:ADVOX:symbol
+Fixes:AGMAK:name
+Fixes:AGMAK:symbol
+Fixes:ALERU:name
+Fixes:ALERU:symbol
+Fixes:AVROM:name
+Fixes:AVROM:symbol
+Fixes:BIRKO:name
+Fixes:BIRKO:symbol
+Fixes:BITGA:name
+Fixes:BITGA:symbol
+Fixes:BOBUX:name
+Fixes:BOBUX:symbol
+Fixes:BOTAG:name
+Fixes:BOTAG:symbol
+Fixes:CACHO:name
+Fixes:CACHO:symbol
+Fixes:DUMRA:name
+Fixes:DUMRA:symbol
+Fixes:EBGAL:name
+Fixes:EBGAL:symbol
+Fixes:EBNAT:name
+Fixes:EBNAT:symbol
+Fixes:ELERO:name
+Fixes:ELERO:symbol
+Fixes:EPNOK:name
+Fixes:EPNOK:symbol
+Fixes:GABOL:name
+Fixes:GABOL:symbol
+Fixes:GADEB:name
+Fixes:GADEB:symbol
+Fixes:GADKI:name
+Fixes:GADKI:symbol
+Fixes:HENRI:name
+Fixes:HENRI:symbol
+Fixes:IGROP:name
+Fixes:IGROP:symbol
+Fixes:IGVEP:name
+Fixes:IGVEP:symbol
+Fixes:IMISA:name
+Fixes:IMISA:symbol
+Fixes:IPSIT:name
+Fixes:IPSIT:symbol
+Fixes:KETLO:name
+Fixes:KETLO:symbol
+Fixes:KISIL:name
+Fixes:KISIL:symbol
+Fixes:LESUT:name
+Fixes:LESUT:symbol
+Fixes:LETRM:name
+Fixes:LETRM:symbol
+Fixes:LEXON:name
+Fixes:LEXON:symbol
+Fixes:LIBUX:name
+Fixes:LIBUX:symbol
+Fixes:LOMLO:name
+Fixes:LOMLO:symbol
+Fixes:NAKDA:name
+Fixes:NAKDA:symbol
+Fixes:NALVO:name
+Fixes:NALVO:symbol
+Fixes:NOSIV:name
+Fixes:NOSIV:symbol
+Fixes:ODGIK:name
+Fixes:ODGIK:symbol
+Fixes:ODLAN:name
+Fixes:ODLAN:symbol
+Fixes:OTARA:name
+Fixes:OTARA:symbol
+Fixes:OTRIL:name
+Fixes:OTRIL:symbol
+Fixes:OVUMA:name
+Fixes:OVUMA:symbol
+Fixes:PEPGA:name
+Fixes:PEPGA:symbol
+Fixes:PEVLU:name
+Fixes:PEVLU:symbol
+Fixes:RETEV:name
+Fixes:RETEV:symbol
+Fixes:RIBUN:name
+Fixes:RIBUN:symbol
+Fixes:ROLTI:name
+Fixes:ROLTI:symbol
+Fixes:ROVMA:name
+Fixes:ROVMA:symbol
+Fixes:SAXOL:name
+Fixes:SAXOL:symbol
+Fixes:SELEV:name
+Fixes:SELEV:symbol
+Fixes:SIMTA:name
+Fixes:SIMTA:symbol
+Fixes:TABVI:name
+Fixes:TABVI:symbol
+Fixes:TEXOT:name
+Fixes:TEXOT:symbol
+Fixes:TUDOX:name
+Fixes:TUDOX:symbol
+Fixes:TUMIG:name
+Fixes:TUMIG:symbol
+Fixes:UBVAL:name
+Fixes:UBVAL:symbol
+Fixes:UKPIG:name
+Fixes:UKPIG:symbol
+Fixes:UKSAP:name
+Fixes:UKSAP:symbol
+Fixes:VETBI:name
+Fixes:VETBI:symbol
+Fixes:VETVO:name
+Fixes:VETVO:symbol
+Fixes:VIMGI:name
+Fixes:VIMGI:symbol
+Fixes:VOLOS:name
+Fixes:VOLOS:symbol
+Fixes:WHEGE:name
+Fixes:WHEGE:symbol
+Fixes:XIDAG:name
+Fixes:XIDAG:symbol
+Fixes:XUGIR:name
+Fixes:XUGIR:symbol
+Fixes:XULBU:name
+Fixes:XULBU:symbol
+High airways:Q810:line
+High airways:Q832:line
+High airways:Q842:line
+High airways:Q890:line
+High airways:Q894:line
+High airways:Q909:line
+High airways:Q927:line
+High airways:Q931:line
+High airways:Q933:line
+High airways:Q953:line
+High airways:Q957:line
+High airways:Q961:line
+High airways:Q983:line
+High airways:Q995:line
+Low airways:V112:line
+Low airways:V306:line
+Low airways:V321:line
+Low airways:V325:line
+Low airways:V326:line
+Low airways:V329:line
+Low airways:V385:line
+Low airways:V428:line
+Low airways:V444:line
+Low airways:V444:name
+NDBs:JB:name
+NDBs:JB:symbol
+NDBs:YC:name
+NDBs:YC:symbol
+NDBs:ZYC:name
+NDBs:ZYC:symbol
+Runways:CYVQ Norman Wells 10-28:centerline
+Runways:CYVQ Norman Wells 10-28:extended centerline 1
+Runways:CYVQ Norman Wells 10-28:extended centerline 1 left base
+Runways:CYVQ Norman Wells 10-28:extended centerline 1 left ticks
+Runways:CYVQ Norman Wells 10-28:extended centerline 1 left vectoring
+Runways:CYVQ Norman Wells 10-28:extended centerline 1 right base
+Runways:CYVQ Norman Wells 10-28:extended centerline 1 right ticks
+Runways:CYVQ Norman Wells 10-28:extended centerline 1 right vectoring
+Runways:CYVQ Norman Wells 10-28:extended centerline 2
+Runways:CYVQ Norman Wells 10-28:extended centerline 2 left base
+Runways:CYVQ Norman Wells 10-28:extended centerline 2 left ticks
+Runways:CYVQ Norman Wells 10-28:extended centerline 2 left vectoring
+Runways:CYVQ Norman Wells 10-28:extended centerline 2 right base
+Runways:CYVQ Norman Wells 10-28:extended centerline 2 right ticks
+Runways:CYVQ Norman Wells 10-28:extended centerline 2 right vectoring
+Runways:CYVQ Norman Wells 10-28:name
+Sids:CYBW_CZ_C:
+Sids:CYEG_CZ_C:
+Sids:CYHY ILS/DME 32:
+Sids:CYMM ILS 25:
+Sids:CYYC_CZ_C:
+Sids:CYZF ILS 34:
+Sids:CYZF_CZ_D:
+Sids:CZVL_CZ_D:
+VORs:ORT:symbol
+VORs:SSR:symbol
+VORs:THT:symbol
+VORs:UOD:symbol
+VORs:UQQ:symbol
+VORs:VLN:symbol
+VORs:YAK:symbol
+VORs:YBK:symbol
+VORs:YBR:symbol
+VORs:YBW:symbol
+VORs:YCB:symbol
+VORs:YDC:symbol
+VORs:YDN:symbol
+VORs:YEA:symbol
+VORs:YEG:symbol
+VORs:YEV:symbol
+VORs:YFB:symbol
+VORs:YGH:symbol
+VORs:YHY:symbol
+VORs:YKJ:symbol
+VORs:YMJ:symbol
+VORs:YNY:symbol
+VORs:YOJ:symbol
+VORs:YPA:symbol
+VORs:YPE:symbol
+VORs:YPK:symbol
+VORs:YQD:symbol
+VORs:YQH:symbol
+VORs:YQL:symbol
+VORs:YQU:symbol
+VORs:YQV:symbol
+VORs:YRB:symbol
+VORs:YRM:symbol
+VORs:YRT:symbol
+VORs:YSM:symbol
+VORs:YTH:symbol
+VORs:YUX:symbol
+VORs:YVC:symbol
+VORs:YVQ:symbol
+VORs:YVR:symbol
+VORs:YWG:symbol
+VORs:YWL:symbol
+VORs:YWY:symbol
+VORs:YXC:symbol
+VORs:YXE:symbol
+VORs:YXJ:symbol
+VORs:YXS:symbol
+VORs:YXY:symbol
+VORs:YYC:symbol
+VORs:YYD:symbol
+VORs:YYE:symbol
+VORs:YYL:symbol
+VORs:YYN:symbol
+VORs:YYQ:symbol
+VORs:YZF:name
+VORs:YZF:symbol
+VORs:YZP:symbol
+VORs:YZT:symbol
+VORs:YZU:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:61.201874:-127.785124:70.283013:-118.025993

@@ -1,0 +1,26 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tony\Documents\EuroScope\CZEG\CZEG_ES_Sectors\CZEG_FIR.sct
+SECTORTITLE:CZEG_FIR.sct
+Free Text:CYXJ Taxi\A:freetext
+Free Text:CYXJ Taxi\B:freetext
+Geo:CYXJ:
+Regions:CYXJ:polygon
+Runways:CYXJ Fort St. John 03-21:name
+Runways:CYXJ Fort St. John 12-30:name
+Sids:CYXJ UNUSED TAXIWAYS:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:4000
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:56.221422:-120.761705:56.261159:-120.718306

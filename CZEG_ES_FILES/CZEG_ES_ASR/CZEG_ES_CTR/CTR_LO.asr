@@ -1,0 +1,272 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tony\Documents\EuroScope\CANscope\CZEG\CZEG_ES_Sectors\CZEG_FIR.sct
+SECTORTITLE:CZEG_FIR.sct
+Airports:CET2:name
+Airports:CET2:symbol
+Airports:CFN6:name
+Airports:CFN6:symbol
+Airports:CRL4:name
+Airports:CRL4:symbol
+ARTCC boundary:CZEG FIR:
+ARTCC low boundary:Alsask (AL):
+ARTCC low boundary:Banff (BA):
+ARTCC low boundary:CCL3_TA(B/E):
+ARTCC low boundary:CRL4_TA(B/E):
+ARTCC low boundary:CYDQ_CAX(25):
+ARTCC low boundary:CYDQ_TA(B/E):
+ARTCC low boundary:CYEG_TCA(12/C):
+ARTCC low boundary:CYEG_TCA(25/C):
+ARTCC low boundary:CYEG_TCA(30/C):
+ARTCC low boundary:CYEG_TCA(35/C):
+ARTCC low boundary:CYEV_CAX(40):
+ARTCC low boundary:CYEV_TA(B/E):
+ARTCC low boundary:CYFR_TA(B/E):
+ARTCC low boundary:CYFS_CAX(25):
+ARTCC low boundary:CYFS_TA(B/E):
+ARTCC low boundary:CYHY_CAX(25):
+ARTCC low boundary:CYHY_CAX(50):
+ARTCC low boundary:CYHY_TA(B/E):
+ARTCC low boundary:CYLL_CAX(25):
+ARTCC low boundary:CYLL_TA(B/E):
+ARTCC low boundary:CYMM_CAX(25):
+ARTCC low boundary:CYMM_CAX(60/25):
+ARTCC low boundary:CYMM_TA(B/E):
+ARTCC low boundary:CYOD_MTCA:
+ARTCC low boundary:CYOJ_CAX(25):
+ARTCC low boundary:CYOJ_TA(B/E):
+ARTCC low boundary:CYPE_CAX(25):
+ARTCC low boundary:CYPE_TA(B/E):
+ARTCC low boundary:CYPY_TA(B/E):
+ARTCC low boundary:CYQF_TA(B/E):
+ARTCC low boundary:CYQH_CAX(25):
+ARTCC low boundary:CYQH_TA(B/E):
+ARTCC low boundary:CYQL_CAX(25):
+ARTCC low boundary:CYQL_CAX(35):
+ARTCC low boundary:CYQL_TA(B/E):
+ARTCC low boundary:CYQU_CAX(25):
+ARTCC low boundary:CYQU_CAX(50):
+ARTCC low boundary:CYQU_TA(B/E):
+ARTCC low boundary:CYR131:
+ARTCC low boundary:CYR167:
+ARTCC low boundary:CYR201:
+ARTCC low boundary:CYR203:
+ARTCC low boundary:CYR204:
+ARTCC low boundary:CYR207:
+ARTCC low boundary:CYR208:
+ARTCC low boundary:CYR210:
+ARTCC low boundary:CYR211:
+ARTCC low boundary:CYR212:
+ARTCC low boundary:CYR220:
+ARTCC low boundary:CYR221:
+ARTCC low boundary:CYR222:
+ARTCC low boundary:CYR223:
+ARTCC low boundary:CYR224:
+ARTCC low boundary:CYR225:
+ARTCC low boundary:CYR226:
+ARTCC low boundary:CYR227:
+ARTCC low boundary:CYR228:
+ARTCC low boundary:CYR229:
+ARTCC low boundary:CYR230:
+ARTCC low boundary:CYR231:
+ARTCC low boundary:CYR232:
+ARTCC low boundary:CYR233:
+ARTCC low boundary:CYR251:
+ARTCC low boundary:CYR252:
+ARTCC low boundary:CYR263:
+ARTCC low boundary:CYR268:
+ARTCC low boundary:CYR269:
+ARTCC low boundary:CYR270:
+ARTCC low boundary:CYSM_CAX(25):
+ARTCC low boundary:CYSM_TA(B/E):
+ARTCC low boundary:CYVG_TA(B/E):
+ARTCC low boundary:CYVQ_TA(B/E):
+ARTCC low boundary:CYXH_CAX(25):
+ARTCC low boundary:CYXH_TA(B/E):
+ARTCC low boundary:CYXJ_CAX(25):
+ARTCC low boundary:CYXJ_TA(B/E):
+ARTCC low boundary:CYXY_TA(B/E):
+ARTCC low boundary:CYYC-CAX(60):
+ARTCC low boundary:CYYC-CAX(60/80):
+ARTCC low boundary:CYYC_TCA(15/C):
+ARTCC low boundary:CYYC_TCA(20/C):
+ARTCC low boundary:CYYC_TCA(24/C):
+ARTCC low boundary:CYYC_TCA(30/C):
+ARTCC low boundary:CYYE_CAX(25):
+ARTCC low boundary:CYYE_CAX(50):
+ARTCC low boundary:CYYE_TA(B/E):
+ARTCC low boundary:CYZF_CAX(25):
+ARTCC low boundary:CYZF_CAX(40):
+ARTCC low boundary:CYZF_CAX(50):
+ARTCC low boundary:CYZF_TA(B/E):
+ARTCC low boundary:CYZH_TA(B/E):
+ARTCC low boundary:CYZU_TA(B/E):
+ARTCC low boundary:CYZW_TA(B/E):
+ARTCC low boundary:CZVL_TCA(15/C):
+ARTCC low boundary:Fort Nelson (YE):
+ARTCC low boundary:Fort St. John (XJ):
+ARTCC low boundary:Fortress (FR):
+ARTCC low boundary:Grande Prairie (QU):
+ARTCC low boundary:Inuvik (EV):
+ARTCC low boundary:Lac La Biche (LB):
+ARTCC low boundary:McMurray (MM):
+ARTCC low boundary:Medicine Hat (XH):
+ARTCC low boundary:Peace (PE):
+ARTCC low boundary:Red Deer (QF):
+ARTCC low boundary:Rocky (RM):
+ARTCC low boundary:Slave Lake (ZH):
+ARTCC low boundary:Whitecourt (ZU):
+ARTCC low boundary:Yellowknife (ZF):
+Runways:CYBW Springbank 08-26:centerline
+Runways:CYBW Springbank 17-35:centerline
+Runways:CYEG Edmonton 02-20:centerline
+Runways:CYEG Edmonton 12-30:centerline
+Runways:CYHY Hay River 05-23:centerline
+Runways:CYHY Hay River 14-32:centerline
+Runways:CYMM Fort McMurray 07-25:centerline
+Runways:CYOD Cold Lake 04-22:centerline
+Runways:CYOD Cold Lake 13L-31R:centerline
+Runways:CYQF Red Deer 11-29:centerline
+Runways:CYQF Red Deer 16-34:centerline
+Runways:CYQL Lethbridge 05-23:centerline
+Runways:CYQL Lethbridge 12-30:centerline
+Runways:CYQU Grande Prairie 07-25:centerline
+Runways:CYQU Grande Prairie 12-30:centerline
+Runways:CYXH Medicine Hat 03-21:centerline
+Runways:CYXH Medicine Hat 09-27:centerline
+Runways:CYXY Whitehorse 01-19:centerline
+Runways:CYXY Whitehorse 14L-32R:centerline
+Runways:CYXY Whitehorse 14R-32L:centerline
+Runways:CYYC Calgary 08-26:centerline
+Runways:CYYC Calgary 11-29:centerline
+Runways:CYYC Calgary 17L-35R:centerline
+Runways:CYYC Calgary 17R-35L:centerline
+Runways:CYZF Yellowknife 10-28:centerline
+Runways:CYZF Yellowknife 16-34:centerline
+Runways:CZVL Villeneuve 34-16:centerline
+Runways:CZVL Villenuve 08-26:centerline
+Sids:CAL4_CZ_E:
+Sids:CCL3_CZ_E:
+Sids:CER4_CZ_E:
+Sids:CFG6_CZ_E:
+Sids:CYBW_CZ_C:
+Sids:CYDQ_CZ_E:
+Sids:CYEG_CZ_C:
+Sids:CYEV_CZ_E:
+Sids:CYFS_CZ_E:
+Sids:CYHY_CZ_E:
+Sids:CYLL_CZ_E:
+Sids:CYMM_CZ_C:
+Sids:CYNR-CZ-E:
+Sids:CYOD_CZ_D:
+Sids:CYOJ_CZ_E:
+Sids:CYPE_CZ_E:
+Sids:CYQF_CZ_E:
+Sids:CYQH_CZ_E:
+Sids:CYQL_CZ_E:
+Sids:CYQU_CZ_E:
+Sids:CYSM_CZ_E:
+Sids:CYVQ_CZ_E:
+Sids:CYXH_CZ_E:
+Sids:CYXJ_CZ_E:
+Sids:CYXY_CZ_D:
+Sids:CYYC_CZ_C:
+Sids:CYYE_CZ_E:
+Sids:CYZF_CZ_D:
+Sids:CYZU_CZ_E:
+Sids:CZVL_CZ_D:
+VORs:BDE:symbol
+VORs:BGQ:symbol
+VORs:BTT:symbol
+VORs:CTB:symbol
+VORs:ENN:symbol
+VORs:FAI:symbol
+VORs:FYU:symbol
+VORs:GAL:symbol
+VORs:GEG:symbol
+VORs:GGW:symbol
+VORs:GKN:symbol
+VORs:GTF:symbol
+VORs:JOH:symbol
+VORs:MLP:symbol
+VORs:ORT:symbol
+VORs:SCC:symbol
+VORs:SSR:symbol
+VORs:THT:symbol
+VORs:UOD:symbol
+VORs:UQQ:symbol
+VORs:VBI:symbol
+VORs:VLN:symbol
+VORs:YAK:symbol
+VORs:YBK:symbol
+VORs:YBR:symbol
+VORs:YBW:symbol
+VORs:YCB:symbol
+VORs:YDC:symbol
+VORs:YDN:symbol
+VORs:YEA:symbol
+VORs:YEG:symbol
+VORs:YEV:symbol
+VORs:YFB:symbol
+VORs:YFS:symbol
+VORs:YGH:symbol
+VORs:YHY:symbol
+VORs:YKJ:symbol
+VORs:YMJ:symbol
+VORs:YMM:symbol
+VORs:YMO:symbol
+VORs:YNY:symbol
+VORs:YOJ:symbol
+VORs:YPA:symbol
+VORs:YPE:symbol
+VORs:YPK:symbol
+VORs:YQD:symbol
+VORs:YQH:symbol
+VORs:YQL:symbol
+VORs:YQU:symbol
+VORs:YQV:symbol
+VORs:YRB:symbol
+VORs:YRL:symbol
+VORs:YRM:symbol
+VORs:YRT:symbol
+VORs:YSM:symbol
+VORs:YTH:symbol
+VORs:YUX:symbol
+VORs:YVC:symbol
+VORs:YVQ:symbol
+VORs:YVR:symbol
+VORs:YWG:symbol
+VORs:YWL:symbol
+VORs:YWV:symbol
+VORs:YWY:symbol
+VORs:YXC:symbol
+VORs:YXE:symbol
+VORs:YXJ:symbol
+VORs:YXS:symbol
+VORs:YXY:symbol
+VORs:YYC:symbol
+VORs:YYD:symbol
+VORs:YYE:symbol
+VORs:YYJ:symbol
+VORs:YYL:symbol
+VORs:YYN:symbol
+VORs:YYQ:symbol
+VORs:YZF:symbol
+VORs:YZP:symbol
+VORs:YZT:symbol
+VORs:YZU:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:28000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:35.175821:-137.722290:80.915439:-87.591241

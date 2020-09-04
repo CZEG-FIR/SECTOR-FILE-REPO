@@ -1,0 +1,216 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\CZEG_ES_Files\CZEG_ES_Sectors\CZEG_FIR_18_08_v1.sct
+SECTORTITLE:CZEG_FIR_18_08_v1.sct
+ARTCC high boundary:Bison (BS):
+ARTCC high boundary:Cambridge (CB):
+ARTCC high boundary:Clyde (CY):
+ARTCC high boundary:Dawson (DA):
+ARTCC high boundary:Drumheller (DH):
+ARTCC high boundary:E20-YEG(BA)-KZLC:
+ARTCC high boundary:E21-YEG(BA)-KZSE:
+ARTCC high boundary:E22-YEG(BA)-CZVR:
+ARTCC high boundary:E23-YEG(RM)-CZVR:
+ARTCC high boundary:E24-YEG(KL)-CZVR:
+ARTCC high boundary:E25-YEG(KL)-PAZA:
+ARTCC high boundary:E26-YEG(AC)-PAZA:
+ARTCC high boundary:E27-YEG(AC)-UNICOM:
+ARTCC high boundary:E28-YEG(AC)-BGGL:
+ARTCC high boundary:E29-YEG(AC)-CZQX:
+ARTCC high boundary:E30-YEG(AC)-CZUL:
+ARTCC high boundary:E31a-YEG(AC)-ZWG(NL):
+ARTCC high boundary:E31b-YEG(AC)-ZWG(VC):
+ARTCC high boundary:E32-YEG(KL)-CZWG:
+ARTCC high boundary:E33a-YEG(RM)-ZWG(VC):
+ARTCC high boundary:E33b-YEG(RM)-ZWG(BR):
+ARTCC high boundary:E34-YEG(BA)-ZWG(BR):
+ARTCC high boundary:Hudson (HU):
+ARTCC high boundary:Jasper (JP):
+ARTCC high boundary:Klondike (KD):
+ARTCC high boundary:Lethbridge (QL):
+ARTCC high boundary:Mackenzie (MN):
+ARTCC high boundary:Nunavut (NV):
+ARTCC high boundary:Rankin (RN):
+ARTCC high boundary:Severn (ER):
+ARTCC high boundary:Simpson (FS):
+ARTCC high boundary:Thompson (TH):
+ARTCC high boundary:Wainwright (WV):
+ARTCC high boundary:Yukon (YU):
+ARTCC low boundary:CYR131:
+ARTCC low boundary:CYR167:
+ARTCC low boundary:CYR201:
+ARTCC low boundary:CYR203:
+ARTCC low boundary:CYR204:
+ARTCC low boundary:CYR207:
+ARTCC low boundary:CYR208:
+ARTCC low boundary:CYR210:
+ARTCC low boundary:CYR211:
+ARTCC low boundary:CYR212:
+ARTCC low boundary:CYR220:
+ARTCC low boundary:CYR221:
+ARTCC low boundary:CYR222:
+ARTCC low boundary:CYR223:
+ARTCC low boundary:CYR224:
+ARTCC low boundary:CYR225:
+ARTCC low boundary:CYR226:
+ARTCC low boundary:CYR227:
+ARTCC low boundary:CYR228:
+ARTCC low boundary:CYR229:
+ARTCC low boundary:CYR230:
+ARTCC low boundary:CYR231:
+ARTCC low boundary:CYR232:
+ARTCC low boundary:CYR233:
+ARTCC low boundary:CYR251:
+ARTCC low boundary:CYR252:
+ARTCC low boundary:CYR263:
+ARTCC low boundary:CYR268:
+ARTCC low boundary:CYR269:
+ARTCC low boundary:CYR270:
+DisplayRotation:0.00000:
+Fixes:BODRA:name
+Fixes:BODRA:symbol
+Fixes:CHARN:name
+Fixes:CHARN:symbol
+Fixes:DUGNO:name
+Fixes:DUGNO:symbol
+Fixes:DUSMA:name
+Fixes:DUSMA:symbol
+Fixes:ELVEL:symbol
+Fixes:EPTIR:name
+Fixes:EPTIR:symbol
+Fixes:FERNO:symbol
+Fixes:GRAND:name
+Fixes:GRAND:symbol
+Fixes:IRLAV:name
+Fixes:IRLAV:symbol
+Fixes:KASIT:name
+Fixes:KASIT:symbol
+Fixes:KELMU:name
+Fixes:KELMU:symbol
+Fixes:KEMSA:name
+Fixes:KEMSA:symbol
+Fixes:KENPU:name
+Fixes:KENPU:symbol
+Fixes:LIDON:name
+Fixes:LIDON:symbol
+Fixes:MENKI:name
+Fixes:MENKI:symbol
+Fixes:MIBNA:name
+Fixes:MIBNA:symbol
+Fixes:MISAX:symbol
+Fixes:MOGAG:symbol
+Fixes:NUGAM:name
+Fixes:NUGAM:symbol
+Fixes:ONGAG:name
+Fixes:ONGAG:symbol
+Fixes:PELEE:symbol
+Fixes:PETMA:name
+Fixes:PETMA:symbol
+Fixes:PIGLA:name
+Fixes:PIGLA:symbol
+Fixes:RONPU:name
+Fixes:RONPU:symbol
+Fixes:TADIS:symbol
+Fixes:URMUD:name
+Fixes:URMUD:symbol
+Geo:Landmass:
+High airways:J489:line
+High airways:J505:line
+High airways:J512:line
+High airways:J513:line
+High airways:J521:line
+High airways:J530:line
+High airways:J533:line
+High airways:J539:line
+High airways:J540:line
+High airways:J542:line
+High airways:J596:line
+High airways:J89:line
+High airways:NCA13:line
+High airways:NCA14:line
+High airways:NCA15:line
+High airways:NCA19:line
+High airways:NCA20:line
+High airways:NCA22:line
+High airways:NCA24:line
+High airways:NCA25:line
+High airways:NCA28:line
+High airways:NCA30:line
+High airways:NCA31:line
+High airways:NCA32:line
+High airways:NCA33:line
+High airways:NCA80:line
+NDBs:FO:name
+NDBs:FO:symbol
+NDBs:GW:name
+NDBs:GW:symbol
+NDBs:QN:name
+NDBs:QN:symbol
+NDBs:YAT:name
+NDBs:YAT:symbol
+NDBs:YEK:name
+NDBs:YEK:symbol
+NDBs:YER:name
+NDBs:YER:symbol
+NDBs:YGX:name
+NDBs:YGX:symbol
+NDBs:YIV:name
+NDBs:YIV:symbol
+NDBs:YNE:name
+NDBs:YNE:symbol
+NDBs:YPO:name
+NDBs:YPO:symbol
+NDBs:YSF:name
+NDBs:YSF:symbol
+NDBs:YYU:name
+NDBs:YYU:symbol
+NDBs:YZS:name
+NDBs:YZS:symbol
+NDBs:ZWL:name
+NDBs:ZWL:symbol
+VORs:VBI:name
+VORs:VBI:symbol
+VORs:VLN:name
+VORs:VLN:symbol
+VORs:YBR:name
+VORs:YBR:symbol
+VORs:YDN:name
+VORs:YDN:symbol
+VORs:YMM:name
+VORs:YMM:symbol
+VORs:YMO:name
+VORs:YMO:symbol
+VORs:YPA:name
+VORs:YPA:symbol
+VORs:YQD:name
+VORs:YQD:symbol
+VORs:YRL:name
+VORs:YRL:symbol
+VORs:YTH:name
+VORs:YTH:symbol
+VORs:YVC:name
+VORs:YVC:symbol
+VORs:YWG:name
+VORs:YWG:symbol
+VORs:YXE:name
+VORs:YXE:symbol
+VORs:YYL:name
+VORs:YYL:symbol
+VORs:YYN:name
+VORs:YYN:symbol
+VORs:YYQ:name
+VORs:YYQ:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:28000
+ABOVE:60000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)
+WINDOWAREA:48.293220:-112.601123:66.655153:-62.407793

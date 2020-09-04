@@ -1,0 +1,159 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tony\Documents\EuroScope\CZEG\CZEG_ES_Sectors\CZEG_FIR.sct
+SECTORTITLE:CZEG_FIR.sct
+ARTCC boundary:CZEG FIR:
+ARTCC low boundary:CYOD_MTCA:
+ARTCC low boundary:CYR131:
+ARTCC low boundary:CYR167:
+ARTCC low boundary:CYR201:
+ARTCC low boundary:CYR203:
+ARTCC low boundary:CYR204:
+ARTCC low boundary:CYR207:
+ARTCC low boundary:CYR208:
+ARTCC low boundary:CYR210:
+ARTCC low boundary:CYR211:
+ARTCC low boundary:CYR212:
+ARTCC low boundary:CYR220:
+ARTCC low boundary:CYR221:
+ARTCC low boundary:CYR222:
+ARTCC low boundary:CYR223:
+ARTCC low boundary:CYR224:
+ARTCC low boundary:CYR225:
+ARTCC low boundary:CYR226:
+ARTCC low boundary:CYR227:
+ARTCC low boundary:CYR228:
+ARTCC low boundary:CYR229:
+ARTCC low boundary:CYR230:
+ARTCC low boundary:CYR231:
+ARTCC low boundary:CYR232:
+ARTCC low boundary:CYR233:
+ARTCC low boundary:CYR251:
+ARTCC low boundary:CYR252:
+ARTCC low boundary:CYR263:
+ARTCC low boundary:CYR268:
+ARTCC low boundary:CYR269:
+ARTCC low boundary:CYR270:
+Fixes:ADVOX:name
+Fixes:ADVOX:symbol
+Fixes:AGMAK:name
+Fixes:AGMAK:symbol
+Fixes:APMEG:name
+Fixes:APMEG:symbol
+Fixes:AVROM:name
+Fixes:AVROM:symbol
+Fixes:BIRKO:name
+Fixes:BIRKO:symbol
+Fixes:BITGA:name
+Fixes:BITGA:symbol
+Fixes:BOTAG:name
+Fixes:BOTAG:symbol
+Fixes:DAPOP:name
+Fixes:DAPOP:symbol
+Fixes:DUMRA:name
+Fixes:DUMRA:symbol
+Fixes:EBGAL:name
+Fixes:EBGAL:symbol
+Fixes:ELERO:name
+Fixes:ELERO:symbol
+Fixes:ELSOG:name
+Fixes:ELSOG:symbol
+Fixes:FLAAM:name
+Fixes:FLAAM:symbol
+Fixes:GADKI:name
+Fixes:GADKI:symbol
+Fixes:IGVEP:name
+Fixes:IGVEP:symbol
+Fixes:IPSIT:name
+Fixes:IPSIT:symbol
+Fixes:KEBNO:name
+Fixes:KEBNO:symbol
+Fixes:LEXOK:name
+Fixes:LEXOK:symbol
+Fixes:LIBOS:name
+Fixes:LIBOS:symbol
+Fixes:LOMLO:name
+Fixes:LOMLO:symbol
+Fixes:MUPUV:name
+Fixes:MUPUV:symbol
+Fixes:NABON:name
+Fixes:NABON:symbol
+Fixes:NOSIV:name
+Fixes:NOSIV:symbol
+Fixes:ODGIK:name
+Fixes:ODGIK:symbol
+Fixes:OTARA:name
+Fixes:OTARA:symbol
+Fixes:OTODI:name
+Fixes:OTODI:symbol
+Fixes:OVEBI:name
+Fixes:OVEBI:symbol
+Fixes:PEVLU:name
+Fixes:PEVLU:symbol
+Fixes:PITID:name
+Fixes:PITID:symbol
+Fixes:ROVMA:name
+Fixes:ROVMA:symbol
+Fixes:SAXOL:name
+Fixes:SAXOL:symbol
+Fixes:SEPSO:name
+Fixes:SEPSO:symbol
+Fixes:SIMTA:name
+Fixes:SIMTA:symbol
+Fixes:TADAB:name
+Fixes:TADAB:symbol
+Fixes:TAMAV:name
+Fixes:TAMAV:symbol
+Fixes:TIDUK:name
+Fixes:TIDUK:symbol
+Fixes:TOTUB:name
+Fixes:TOTUB:symbol
+Fixes:UBTON:name
+Fixes:UBTON:symbol
+Fixes:UBVAL:name
+Fixes:UBVAL:symbol
+Fixes:UDLOT:name
+Fixes:UDLOT:symbol
+Fixes:UDNON:name
+Fixes:UDNON:symbol
+Fixes:UDPAG:name
+Fixes:UDPAG:symbol
+Fixes:UKSAP:name
+Fixes:UKSAP:symbol
+Fixes:ULBUD:name
+Fixes:ULBUD:symbol
+Fixes:URVUG:name
+Fixes:URVUG:symbol
+Fixes:VESGA:name
+Fixes:VESGA:symbol
+Fixes:VETBI:name
+Fixes:VETBI:symbol
+Fixes:VIKTI:name
+Fixes:VIKTI:symbol
+Fixes:XUGAV:name
+Fixes:XUGAV:symbol
+Free Text:CYOD_MSA\38:freetext
+Free Text:CYOD_MSA\38:freetext
+Free Text:CYOD_MSA\38:freetext
+Free Text:CYOD_MSA\38:freetext
+NDBs:YOD:frequency
+NDBs:YOD:name
+NDBs:YOD:symbol
+Runways:CYOD Cold Lake 04-22:centerline
+Runways:CYOD Cold Lake 13L-31R:centerline
+Runways:CYOD Cold Lake 13R-31L:centerline
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:60000
+LEADER:3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:53.902752:-110.700817:54.730757:-109.796519

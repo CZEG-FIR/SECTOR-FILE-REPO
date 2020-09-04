@@ -1,0 +1,68 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tony\Documents\EuroScope\CZEG\CZEG_ES_Sectors\CZEG_FIR.sct
+SECTORTITLE:CZEG_FIR.sct
+ARTCC boundary:CZEG FIR:
+ARTCC low boundary:CYXY_TA(B/E):
+Free Text:CYXY_MSA\82:freetext
+Free Text:CYXY_MSA\82:freetext
+Free Text:CYXY_MSA\85:freetext
+Free Text:CYXY_MSA\85:freetext
+Geo:CYHY:
+Geo:CYMM:
+Geo:CYQF:
+Geo:CYQL:
+Geo:CYQU:
+Geo:CYXH:
+Geo:CYXY:
+Geo:CYYC:
+Geo:CYZF:
+Geo:GEO:
+Geo:Landmass:
+Geo:NB_AB-MO:
+Geo:NB_BC-AK:
+Geo:NB_BC-MO:
+Geo:NB_BC-WA:
+Geo:NB_MB-MN:
+Geo:NB_MB-ND:
+Geo:NB_ON-MN:
+Geo:NB_SK-MO:
+Geo:NB_SK-ND:
+Geo:NB_YK-AK:
+Geo:PB_AB/BC:
+Geo:PB_MB/SK:
+Geo:PB_NFLD/QC:
+Geo:PB_NU/MB:
+Geo:PB_NU/NWT:
+Geo:PB_NWT/AB:
+Geo:PB_NWT/BC:
+Geo:PB_NWT/SK:
+Geo:PB_NWT/YK:
+Geo:PB_ON/MB:
+Geo:PB_QC/ON:
+Geo:PB_SK/AB:
+Geo:PB_YK/BC:
+Geo:YC17R-11:
+Geo:YC35L-29:
+Low airways:V444:line
+Low airways:V444:name
+Regions:CYXY:polygon
+Runways:CYXY Whitehorse 01-19:centerline
+Runways:CYXY Whitehorse 14L-32R:centerline
+Runways:CYXY Whitehorse 14R-32L:centerline
+Sids:CYXY_CZ_D:
+SHOWC:1
+SHOWSB:0
+BELOW:2200
+ABOVE:60000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:59.554584:-136.453738:62.130167:-133.640838

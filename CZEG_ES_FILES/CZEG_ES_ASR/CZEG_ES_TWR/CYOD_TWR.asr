@@ -1,0 +1,28 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tony\Documents\EuroScope\CANscope\CZEG\CZEG_ES_Sectors\CZEG_FIR.sct
+SECTORTITLE:CZEG_FIR.sct
+ARTCC low boundary:CYOD_MTCA:
+Free Text:CYOD_MSA\38:freetext
+Free Text:CYOD_MSA\38:freetext
+Free Text:CYOD_MSA\38:freetext
+Free Text:CYOD_MSA\38:freetext
+Runways:CYOD Cold Lake 04-22:centerline
+Runways:CYOD Cold Lake 13L-31R:centerline
+Runways:CYOD Cold Lake 13R-31L:centerline
+Sids:CYOD_CZ_D:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:24000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:53.596024:-112.045468:55.524271:-108.875402

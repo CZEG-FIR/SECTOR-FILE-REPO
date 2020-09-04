@@ -1,0 +1,29 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tony\Documents\EuroScope\CZEG\CZEG_ES_Sectors\CZEG_FIR.sct
+SECTORTITLE:CZEG_FIR.sct
+Free Text:CYQU Ramp\I:freetext
+Free Text:CYQU Ramp\II:freetext
+Free Text:CYQU Taxi\A:freetext
+Free Text:CYQU Taxi\B:freetext
+Free Text:CYQU Taxi\C:freetext
+Free Text:CYQU Taxi\D:freetext
+Geo:CYQU:
+Regions:CYQU:polygon
+Runways:CYQU Grande Prairie 07-25:name
+Runways:CYQU Grande Prairie 12-30:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:4000
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:55.161609:-118.914079:55.211283:-118.859829

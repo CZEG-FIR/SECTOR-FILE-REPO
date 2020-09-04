@@ -1,0 +1,70 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tony\Documents\EuroScope\CZEG\CZEG_ES_Sectors\CZEG_FIR.sct
+SECTORTITLE:CZEG_FIR.sct
+Free Text:CYMM Taxi\A:freetext
+Free Text:CYMM Taxi\B:freetext
+Free Text:CYMM Taxi\B:freetext
+Free Text:CYMM Taxi\C:freetext
+Free Text:CYMM Taxi\D:freetext
+Free Text:CYMM Taxi\D:freetext
+Free Text:CYMM Taxi\E:freetext
+Free Text:CYMM Taxi\F:freetext
+Free Text:CYMM Taxi\F:freetext
+Free Text:CYMM Taxi\G:freetext
+Free Text:CYMM Taxi\G:freetext
+Free Text:CYMM Taxi\G:freetext
+Free Text:CYMM Taxi\H:freetext
+Free Text:CYMM Taxi\I:freetext
+Free Text:CYMM Taxi\II:freetext
+Free Text:CYMM Taxi\J:freetext
+Free Text:CYMM Taxi\J:freetext
+Free Text:CYMM_MSA\33:freetext
+Free Text:CYMM_MSA\33:freetext
+Free Text:CYMM_MSA\40:freetext
+Free Text:CYMM_MSA\40:freetext
+Geo:CYMM:
+Regions:CYMM:polygon
+Runways:CYMM Fort McMurray 08-26:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:15000
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:56.637373:-111.244382:56.676054:-111.202813
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:CYMM
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

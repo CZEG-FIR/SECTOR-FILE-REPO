@@ -1,0 +1,148 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tony\Documents\EuroScope\CANscope\CZEG\CZEG_ES_Sectors\CZEG_FIR.sct
+SECTORTITLE:CZEG_FIR.sct
+Airports:CDJ5:name
+Airports:CDJ5:symbol
+Airports:CEF4:name
+Airports:CEF4:symbol
+Airports:CEH4:name
+Airports:CEH4:symbol
+Airports:CFX2:name
+Airports:CFX2:symbol
+Airports:CYBW:name
+Airports:CYBW:symbol
+Airports:CYCB:name
+Airports:CYCB:symbol
+Airports:CYEG:name
+Airports:CYEG:symbol
+Airports:CYEV:name
+Airports:CYEV:symbol
+Airports:CYGE:name
+Airports:CYGE:symbol
+Airports:CYHY:name
+Airports:CYHY:symbol
+Airports:CYLW:name
+Airports:CYLW:symbol
+Airports:CYMM:name
+Airports:CYMM:symbol
+Airports:CYOD:name
+Airports:CYOD:symbol
+Airports:CYQH:name
+Airports:CYQH:symbol
+Airports:CYQL:name
+Airports:CYQL:symbol
+Airports:CYQR:name
+Airports:CYQR:symbol
+Airports:CYQU:name
+Airports:CYQU:symbol
+Airports:CYUB:name
+Airports:CYUB:symbol
+Airports:CYVQ:name
+Airports:CYVQ:symbol
+Airports:CYVR:name
+Airports:CYVR:symbol
+Airports:CYWG:name
+Airports:CYWG:symbol
+Airports:CYXE:name
+Airports:CYXE:symbol
+Airports:CYXH:name
+Airports:CYXH:symbol
+Airports:CYXY:name
+Airports:CYXY:symbol
+Airports:CYYC:name
+Airports:CYYC:symbol
+Airports:CYYE:name
+Airports:CYYE:symbol
+Airports:CYYQ:name
+Airports:CYYQ:symbol
+Airports:CYZF:name
+Airports:CYZF:symbol
+Airports:CZFN:name
+Airports:CZFN:symbol
+Airports:CZVL:name
+Airports:CZVL:symbol
+ARTCC high boundary:Arctic Control Area:
+ARTCC high boundary:Bison (BS):
+ARTCC high boundary:Cambridge (CB):
+ARTCC high boundary:Canmore (CN):
+ARTCC high boundary:Clyde (CY):
+ARTCC high boundary:Dawson (DA):
+ARTCC high boundary:Drumheller (DH):
+ARTCC high boundary:E20-YEG(BA)-KZLC:
+ARTCC high boundary:E21-YEG(BA)-KZSE:
+ARTCC high boundary:E22-YEG(BA)-CZVR:
+ARTCC high boundary:E23-YEG(RM)-CZVR:
+ARTCC high boundary:E24-YEG(KL)-CZVR:
+ARTCC high boundary:E25-YEG(KL)-PAZA:
+ARTCC high boundary:E26-YEG(AC)-PAZA:
+ARTCC high boundary:E27-YEG(AC)-UNICOM:
+ARTCC high boundary:E28-YEG(AC)-BGGL:
+ARTCC high boundary:E29-YEG(AC)-CZQX:
+ARTCC high boundary:E30-YEG(AC)-CZUL:
+ARTCC high boundary:E31a-YEG(AC)-ZWG(NL):
+ARTCC high boundary:E31b-YEG(AC)-ZWG(VC):
+ARTCC high boundary:E32-YEG(KL)-CZWG:
+ARTCC high boundary:E33a-YEG(RM)-ZWG(VC):
+ARTCC high boundary:E33b-YEG(RM)-ZWG(BR):
+ARTCC high boundary:E34-YEG(BA)-ZWG(BR):
+ARTCC high boundary:Hudson (HU):
+ARTCC high boundary:Jasper (JP):
+ARTCC high boundary:Klondike (KD):
+ARTCC high boundary:Lethbridge (QL):
+ARTCC high boundary:Mackenzie (MN):
+ARTCC high boundary:Northern Control Area:
+ARTCC high boundary:Nunavut (NV):
+ARTCC high boundary:Rankin (RN):
+ARTCC high boundary:Severn (ER):
+ARTCC high boundary:Simpson (FS):
+ARTCC high boundary:Smokey Lake (SY):
+ARTCC high boundary:Thompson (TH):
+ARTCC high boundary:Wainwright (WV):
+ARTCC high boundary:Yukon (YU):
+ARTCC low boundary:CYR131:
+ARTCC low boundary:CYR167:
+ARTCC low boundary:CYR201:
+ARTCC low boundary:CYR203:
+ARTCC low boundary:CYR204:
+ARTCC low boundary:CYR207:
+ARTCC low boundary:CYR208:
+ARTCC low boundary:CYR210:
+ARTCC low boundary:CYR211:
+ARTCC low boundary:CYR212:
+ARTCC low boundary:CYR220:
+ARTCC low boundary:CYR221:
+ARTCC low boundary:CYR222:
+ARTCC low boundary:CYR223:
+ARTCC low boundary:CYR224:
+ARTCC low boundary:CYR225:
+ARTCC low boundary:CYR226:
+ARTCC low boundary:CYR227:
+ARTCC low boundary:CYR228:
+ARTCC low boundary:CYR229:
+ARTCC low boundary:CYR230:
+ARTCC low boundary:CYR231:
+ARTCC low boundary:CYR232:
+ARTCC low boundary:CYR233:
+ARTCC low boundary:CYR251:
+ARTCC low boundary:CYR252:
+ARTCC low boundary:CYR263:
+ARTCC low boundary:CYR268:
+ARTCC low boundary:CYR269:
+ARTCC low boundary:CYR270:
+Geo:Landmass:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:60000
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:39.355142:-143.948451:92.894096:-55.929660

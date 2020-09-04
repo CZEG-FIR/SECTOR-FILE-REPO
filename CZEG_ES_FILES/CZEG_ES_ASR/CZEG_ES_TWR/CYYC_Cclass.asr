@@ -1,0 +1,360 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tony\Documents\EuroScope\CANscope\CZEG\CZEG_ES_Sectors\CZEG_FIR.sct
+SECTORTITLE:CZEG_FIR.sct
+ARTCC low boundary:CYYC-CAX(60):
+ARTCC low boundary:CYYC-CAX(60/80):
+ARTCC low boundary:CYYC_TCA(15/C):
+ARTCC low boundary:CYYC_TCA(20/C):
+ARTCC low boundary:CYYC_TCA(24/C):
+ARTCC low boundary:CYYC_TCA(30/C):
+Runways:CYBW Springbank 08-26:centerline
+Runways:CYBW Springbank 08-26:extended centerline 1
+Runways:CYBW Springbank 08-26:extended centerline 1 left base
+Runways:CYBW Springbank 08-26:extended centerline 1 left ticks
+Runways:CYBW Springbank 08-26:extended centerline 1 left vectoring
+Runways:CYBW Springbank 08-26:extended centerline 1 right base
+Runways:CYBW Springbank 08-26:extended centerline 1 right ticks
+Runways:CYBW Springbank 08-26:extended centerline 1 right vectoring
+Runways:CYBW Springbank 08-26:extended centerline 2
+Runways:CYBW Springbank 08-26:extended centerline 2 left base
+Runways:CYBW Springbank 08-26:extended centerline 2 left ticks
+Runways:CYBW Springbank 08-26:extended centerline 2 left vectoring
+Runways:CYBW Springbank 08-26:extended centerline 2 right base
+Runways:CYBW Springbank 08-26:extended centerline 2 right ticks
+Runways:CYBW Springbank 08-26:extended centerline 2 right vectoring
+Runways:CYBW Springbank 17-35:centerline
+Runways:CYBW Springbank 17-35:extended centerline 1
+Runways:CYBW Springbank 17-35:extended centerline 1 left base
+Runways:CYBW Springbank 17-35:extended centerline 1 left ticks
+Runways:CYBW Springbank 17-35:extended centerline 1 left vectoring
+Runways:CYBW Springbank 17-35:extended centerline 1 right base
+Runways:CYBW Springbank 17-35:extended centerline 1 right ticks
+Runways:CYBW Springbank 17-35:extended centerline 1 right vectoring
+Runways:CYBW Springbank 17-35:extended centerline 2
+Runways:CYBW Springbank 17-35:extended centerline 2 left base
+Runways:CYBW Springbank 17-35:extended centerline 2 left ticks
+Runways:CYBW Springbank 17-35:extended centerline 2 left vectoring
+Runways:CYBW Springbank 17-35:extended centerline 2 right base
+Runways:CYBW Springbank 17-35:extended centerline 2 right ticks
+Runways:CYBW Springbank 17-35:extended centerline 2 right vectoring
+Runways:CYEG Edmonton 02-20:centerline
+Runways:CYEG Edmonton 02-20:extended centerline 1
+Runways:CYEG Edmonton 02-20:extended centerline 1 left base
+Runways:CYEG Edmonton 02-20:extended centerline 1 left ticks
+Runways:CYEG Edmonton 02-20:extended centerline 1 left vectoring
+Runways:CYEG Edmonton 02-20:extended centerline 1 right base
+Runways:CYEG Edmonton 02-20:extended centerline 1 right ticks
+Runways:CYEG Edmonton 02-20:extended centerline 1 right vectoring
+Runways:CYEG Edmonton 02-20:extended centerline 2
+Runways:CYEG Edmonton 02-20:extended centerline 2 left base
+Runways:CYEG Edmonton 02-20:extended centerline 2 left ticks
+Runways:CYEG Edmonton 02-20:extended centerline 2 left vectoring
+Runways:CYEG Edmonton 02-20:extended centerline 2 right base
+Runways:CYEG Edmonton 02-20:extended centerline 2 right ticks
+Runways:CYEG Edmonton 02-20:extended centerline 2 right vectoring
+Runways:CYEG Edmonton 12-30:centerline
+Runways:CYEG Edmonton 12-30:extended centerline 1
+Runways:CYEG Edmonton 12-30:extended centerline 1 left base
+Runways:CYEG Edmonton 12-30:extended centerline 1 left ticks
+Runways:CYEG Edmonton 12-30:extended centerline 1 left vectoring
+Runways:CYEG Edmonton 12-30:extended centerline 1 right base
+Runways:CYEG Edmonton 12-30:extended centerline 1 right ticks
+Runways:CYEG Edmonton 12-30:extended centerline 1 right vectoring
+Runways:CYEG Edmonton 12-30:extended centerline 2
+Runways:CYEG Edmonton 12-30:extended centerline 2 left base
+Runways:CYEG Edmonton 12-30:extended centerline 2 left ticks
+Runways:CYEG Edmonton 12-30:extended centerline 2 left vectoring
+Runways:CYEG Edmonton 12-30:extended centerline 2 right base
+Runways:CYEG Edmonton 12-30:extended centerline 2 right ticks
+Runways:CYEG Edmonton 12-30:extended centerline 2 right vectoring
+Runways:CYHY Hay River 05-23:centerline
+Runways:CYHY Hay River 05-23:extended centerline 1
+Runways:CYHY Hay River 05-23:extended centerline 1 left base
+Runways:CYHY Hay River 05-23:extended centerline 1 left ticks
+Runways:CYHY Hay River 05-23:extended centerline 1 left vectoring
+Runways:CYHY Hay River 05-23:extended centerline 1 right base
+Runways:CYHY Hay River 05-23:extended centerline 1 right ticks
+Runways:CYHY Hay River 05-23:extended centerline 1 right vectoring
+Runways:CYHY Hay River 05-23:extended centerline 2
+Runways:CYHY Hay River 05-23:extended centerline 2 left base
+Runways:CYHY Hay River 05-23:extended centerline 2 left ticks
+Runways:CYHY Hay River 05-23:extended centerline 2 left vectoring
+Runways:CYHY Hay River 05-23:extended centerline 2 right base
+Runways:CYHY Hay River 05-23:extended centerline 2 right ticks
+Runways:CYHY Hay River 05-23:extended centerline 2 right vectoring
+Runways:CYHY Hay River 14-32:centerline
+Runways:CYHY Hay River 14-32:extended centerline 1
+Runways:CYHY Hay River 14-32:extended centerline 1 left base
+Runways:CYHY Hay River 14-32:extended centerline 1 left ticks
+Runways:CYHY Hay River 14-32:extended centerline 1 left vectoring
+Runways:CYHY Hay River 14-32:extended centerline 1 right base
+Runways:CYHY Hay River 14-32:extended centerline 1 right ticks
+Runways:CYHY Hay River 14-32:extended centerline 1 right vectoring
+Runways:CYHY Hay River 14-32:extended centerline 2
+Runways:CYHY Hay River 14-32:extended centerline 2 left base
+Runways:CYHY Hay River 14-32:extended centerline 2 left ticks
+Runways:CYHY Hay River 14-32:extended centerline 2 left vectoring
+Runways:CYHY Hay River 14-32:extended centerline 2 right base
+Runways:CYHY Hay River 14-32:extended centerline 2 right ticks
+Runways:CYHY Hay River 14-32:extended centerline 2 right vectoring
+Runways:CYMM Fort McMurray 07-25:centerline
+Runways:CYMM Fort McMurray 07-25:extended centerline 1
+Runways:CYMM Fort McMurray 07-25:extended centerline 1 left base
+Runways:CYMM Fort McMurray 07-25:extended centerline 1 left ticks
+Runways:CYMM Fort McMurray 07-25:extended centerline 1 left vectoring
+Runways:CYMM Fort McMurray 07-25:extended centerline 1 right base
+Runways:CYMM Fort McMurray 07-25:extended centerline 1 right ticks
+Runways:CYMM Fort McMurray 07-25:extended centerline 1 right vectoring
+Runways:CYMM Fort McMurray 07-25:extended centerline 2
+Runways:CYMM Fort McMurray 07-25:extended centerline 2 left base
+Runways:CYMM Fort McMurray 07-25:extended centerline 2 left ticks
+Runways:CYMM Fort McMurray 07-25:extended centerline 2 left vectoring
+Runways:CYMM Fort McMurray 07-25:extended centerline 2 right base
+Runways:CYMM Fort McMurray 07-25:extended centerline 2 right ticks
+Runways:CYMM Fort McMurray 07-25:extended centerline 2 right vectoring
+Runways:CYOD Cold Lake 04-22:centerline
+Runways:CYOD Cold Lake 04-22:extended centerline 1
+Runways:CYOD Cold Lake 04-22:extended centerline 1 left base
+Runways:CYOD Cold Lake 04-22:extended centerline 1 left ticks
+Runways:CYOD Cold Lake 04-22:extended centerline 1 left vectoring
+Runways:CYOD Cold Lake 04-22:extended centerline 1 right base
+Runways:CYOD Cold Lake 04-22:extended centerline 1 right ticks
+Runways:CYOD Cold Lake 04-22:extended centerline 1 right vectoring
+Runways:CYOD Cold Lake 04-22:extended centerline 2
+Runways:CYOD Cold Lake 04-22:extended centerline 2 left base
+Runways:CYOD Cold Lake 04-22:extended centerline 2 left ticks
+Runways:CYOD Cold Lake 04-22:extended centerline 2 left vectoring
+Runways:CYOD Cold Lake 04-22:extended centerline 2 right base
+Runways:CYOD Cold Lake 04-22:extended centerline 2 right ticks
+Runways:CYOD Cold Lake 04-22:extended centerline 2 right vectoring
+Runways:CYOD Cold Lake 13L-31R:centerline
+Runways:CYOD Cold Lake 13L-31R:extended centerline 1
+Runways:CYOD Cold Lake 13L-31R:extended centerline 1 left base
+Runways:CYOD Cold Lake 13L-31R:extended centerline 1 left ticks
+Runways:CYOD Cold Lake 13L-31R:extended centerline 1 left vectoring
+Runways:CYOD Cold Lake 13L-31R:extended centerline 1 right base
+Runways:CYOD Cold Lake 13L-31R:extended centerline 1 right ticks
+Runways:CYOD Cold Lake 13L-31R:extended centerline 1 right vectoring
+Runways:CYOD Cold Lake 13L-31R:extended centerline 2
+Runways:CYOD Cold Lake 13L-31R:extended centerline 2 left base
+Runways:CYOD Cold Lake 13L-31R:extended centerline 2 left ticks
+Runways:CYOD Cold Lake 13L-31R:extended centerline 2 left vectoring
+Runways:CYOD Cold Lake 13L-31R:extended centerline 2 right base
+Runways:CYOD Cold Lake 13L-31R:extended centerline 2 right ticks
+Runways:CYOD Cold Lake 13L-31R:extended centerline 2 right vectoring
+Runways:CYOD Cold Lake 13R-31L:centerline
+Runways:CYOD Cold Lake 13R-31L:extended centerline 1
+Runways:CYOD Cold Lake 13R-31L:extended centerline 1 left base
+Runways:CYOD Cold Lake 13R-31L:extended centerline 1 left ticks
+Runways:CYOD Cold Lake 13R-31L:extended centerline 1 left vectoring
+Runways:CYOD Cold Lake 13R-31L:extended centerline 1 right base
+Runways:CYOD Cold Lake 13R-31L:extended centerline 1 right ticks
+Runways:CYOD Cold Lake 13R-31L:extended centerline 1 right vectoring
+Runways:CYOD Cold Lake 13R-31L:extended centerline 2
+Runways:CYOD Cold Lake 13R-31L:extended centerline 2 left base
+Runways:CYOD Cold Lake 13R-31L:extended centerline 2 left ticks
+Runways:CYOD Cold Lake 13R-31L:extended centerline 2 left vectoring
+Runways:CYOD Cold Lake 13R-31L:extended centerline 2 right base
+Runways:CYOD Cold Lake 13R-31L:extended centerline 2 right ticks
+Runways:CYOD Cold Lake 13R-31L:extended centerline 2 right vectoring
+Runways:CYQF Red Deer 11-29:centerline
+Runways:CYQF Red Deer 11-29:extended centerline 1
+Runways:CYQF Red Deer 11-29:extended centerline 1 left base
+Runways:CYQF Red Deer 11-29:extended centerline 1 left ticks
+Runways:CYQF Red Deer 11-29:extended centerline 1 left vectoring
+Runways:CYQF Red Deer 11-29:extended centerline 1 right base
+Runways:CYQF Red Deer 11-29:extended centerline 1 right ticks
+Runways:CYQF Red Deer 11-29:extended centerline 1 right vectoring
+Runways:CYQF Red Deer 11-29:extended centerline 2
+Runways:CYQF Red Deer 11-29:extended centerline 2 left base
+Runways:CYQF Red Deer 11-29:extended centerline 2 left ticks
+Runways:CYQF Red Deer 11-29:extended centerline 2 left vectoring
+Runways:CYQF Red Deer 11-29:extended centerline 2 right base
+Runways:CYQF Red Deer 11-29:extended centerline 2 right ticks
+Runways:CYQF Red Deer 11-29:extended centerline 2 right vectoring
+Runways:CYQF Red Deer 16-34:centerline
+Runways:CYQF Red Deer 16-34:extended centerline 1
+Runways:CYQF Red Deer 16-34:extended centerline 1 left base
+Runways:CYQF Red Deer 16-34:extended centerline 1 left ticks
+Runways:CYQF Red Deer 16-34:extended centerline 1 left vectoring
+Runways:CYQF Red Deer 16-34:extended centerline 1 right base
+Runways:CYQF Red Deer 16-34:extended centerline 1 right ticks
+Runways:CYQF Red Deer 16-34:extended centerline 1 right vectoring
+Runways:CYQF Red Deer 16-34:extended centerline 2
+Runways:CYQF Red Deer 16-34:extended centerline 2 left base
+Runways:CYQF Red Deer 16-34:extended centerline 2 left ticks
+Runways:CYQF Red Deer 16-34:extended centerline 2 left vectoring
+Runways:CYQF Red Deer 16-34:extended centerline 2 right base
+Runways:CYQF Red Deer 16-34:extended centerline 2 right ticks
+Runways:CYQF Red Deer 16-34:extended centerline 2 right vectoring
+Runways:CYQL Lethbridge 05-23:centerline
+Runways:CYQL Lethbridge 05-23:extended centerline 1
+Runways:CYQL Lethbridge 05-23:extended centerline 1 left base
+Runways:CYQL Lethbridge 05-23:extended centerline 1 left ticks
+Runways:CYQL Lethbridge 05-23:extended centerline 1 left vectoring
+Runways:CYQL Lethbridge 05-23:extended centerline 1 right base
+Runways:CYQL Lethbridge 05-23:extended centerline 1 right ticks
+Runways:CYQL Lethbridge 05-23:extended centerline 1 right vectoring
+Runways:CYQL Lethbridge 05-23:extended centerline 2
+Runways:CYQL Lethbridge 05-23:extended centerline 2 left base
+Runways:CYQL Lethbridge 05-23:extended centerline 2 left ticks
+Runways:CYQL Lethbridge 05-23:extended centerline 2 left vectoring
+Runways:CYQL Lethbridge 05-23:extended centerline 2 right base
+Runways:CYQL Lethbridge 05-23:extended centerline 2 right ticks
+Runways:CYQL Lethbridge 05-23:extended centerline 2 right vectoring
+Runways:CYQL Lethbridge 12-30:centerline
+Runways:CYQL Lethbridge 12-30:extended centerline 1
+Runways:CYQL Lethbridge 12-30:extended centerline 1 left base
+Runways:CYQL Lethbridge 12-30:extended centerline 1 left ticks
+Runways:CYQL Lethbridge 12-30:extended centerline 1 left vectoring
+Runways:CYQL Lethbridge 12-30:extended centerline 1 right base
+Runways:CYQL Lethbridge 12-30:extended centerline 1 right ticks
+Runways:CYQL Lethbridge 12-30:extended centerline 1 right vectoring
+Runways:CYQL Lethbridge 12-30:extended centerline 2
+Runways:CYQL Lethbridge 12-30:extended centerline 2 left base
+Runways:CYQL Lethbridge 12-30:extended centerline 2 left ticks
+Runways:CYQL Lethbridge 12-30:extended centerline 2 left vectoring
+Runways:CYQL Lethbridge 12-30:extended centerline 2 right base
+Runways:CYQL Lethbridge 12-30:extended centerline 2 right ticks
+Runways:CYQL Lethbridge 12-30:extended centerline 2 right vectoring
+Runways:CYQU Grande Prairie 07-25:centerline
+Runways:CYQU Grande Prairie 07-25:extended centerline 1
+Runways:CYQU Grande Prairie 07-25:extended centerline 1 left base
+Runways:CYQU Grande Prairie 07-25:extended centerline 1 left ticks
+Runways:CYQU Grande Prairie 07-25:extended centerline 1 left vectoring
+Runways:CYQU Grande Prairie 07-25:extended centerline 1 right base
+Runways:CYQU Grande Prairie 07-25:extended centerline 1 right ticks
+Runways:CYQU Grande Prairie 07-25:extended centerline 1 right vectoring
+Runways:CYQU Grande Prairie 07-25:extended centerline 2
+Runways:CYQU Grande Prairie 07-25:extended centerline 2 left base
+Runways:CYQU Grande Prairie 07-25:extended centerline 2 left ticks
+Runways:CYQU Grande Prairie 07-25:extended centerline 2 left vectoring
+Runways:CYQU Grande Prairie 07-25:extended centerline 2 right base
+Runways:CYQU Grande Prairie 07-25:extended centerline 2 right ticks
+Runways:CYQU Grande Prairie 07-25:extended centerline 2 right vectoring
+Runways:CYQU Grande Prairie 12-30:centerline
+Runways:CYQU Grande Prairie 12-30:extended centerline 1
+Runways:CYQU Grande Prairie 12-30:extended centerline 1 left base
+Runways:CYQU Grande Prairie 12-30:extended centerline 1 left ticks
+Runways:CYQU Grande Prairie 12-30:extended centerline 1 left vectoring
+Runways:CYQU Grande Prairie 12-30:extended centerline 1 right base
+Runways:CYQU Grande Prairie 12-30:extended centerline 1 right ticks
+Runways:CYQU Grande Prairie 12-30:extended centerline 1 right vectoring
+Runways:CYQU Grande Prairie 12-30:extended centerline 2
+Runways:CYQU Grande Prairie 12-30:extended centerline 2 left base
+Runways:CYQU Grande Prairie 12-30:extended centerline 2 left ticks
+Runways:CYQU Grande Prairie 12-30:extended centerline 2 left vectoring
+Runways:CYQU Grande Prairie 12-30:extended centerline 2 right base
+Runways:CYQU Grande Prairie 12-30:extended centerline 2 right ticks
+Runways:CYQU Grande Prairie 12-30:extended centerline 2 right vectoring
+Runways:CYXH Medicine Hat 03-21:centerline
+Runways:CYXH Medicine Hat 03-21:extended centerline 1
+Runways:CYXH Medicine Hat 03-21:extended centerline 1 left base
+Runways:CYXH Medicine Hat 03-21:extended centerline 1 left ticks
+Runways:CYXH Medicine Hat 03-21:extended centerline 1 left vectoring
+Runways:CYXH Medicine Hat 03-21:extended centerline 1 right base
+Runways:CYXH Medicine Hat 03-21:extended centerline 1 right ticks
+Runways:CYXH Medicine Hat 03-21:extended centerline 1 right vectoring
+Runways:CYXH Medicine Hat 03-21:extended centerline 2
+Runways:CYXH Medicine Hat 03-21:extended centerline 2 left base
+Runways:CYXH Medicine Hat 03-21:extended centerline 2 left ticks
+Runways:CYXH Medicine Hat 03-21:extended centerline 2 left vectoring
+Runways:CYXH Medicine Hat 03-21:extended centerline 2 right base
+Runways:CYXH Medicine Hat 03-21:extended centerline 2 right ticks
+Runways:CYXH Medicine Hat 03-21:extended centerline 2 right vectoring
+Runways:CYXH Medicine Hat 09-27:centerline
+Runways:CYXH Medicine Hat 09-27:extended centerline 1
+Runways:CYXH Medicine Hat 09-27:extended centerline 1 left base
+Runways:CYXH Medicine Hat 09-27:extended centerline 1 left ticks
+Runways:CYXH Medicine Hat 09-27:extended centerline 1 left vectoring
+Runways:CYXH Medicine Hat 09-27:extended centerline 1 right base
+Runways:CYXH Medicine Hat 09-27:extended centerline 1 right ticks
+Runways:CYXH Medicine Hat 09-27:extended centerline 1 right vectoring
+Runways:CYXH Medicine Hat 09-27:extended centerline 2
+Runways:CYXH Medicine Hat 09-27:extended centerline 2 left base
+Runways:CYXH Medicine Hat 09-27:extended centerline 2 left ticks
+Runways:CYXH Medicine Hat 09-27:extended centerline 2 left vectoring
+Runways:CYXH Medicine Hat 09-27:extended centerline 2 right base
+Runways:CYXH Medicine Hat 09-27:extended centerline 2 right ticks
+Runways:CYXH Medicine Hat 09-27:extended centerline 2 right vectoring
+Runways:CYXY Whitehorse 01-19:centerline
+Runways:CYXY Whitehorse 01-19:extended centerline 1
+Runways:CYXY Whitehorse 01-19:extended centerline 1 left base
+Runways:CYXY Whitehorse 01-19:extended centerline 1 left ticks
+Runways:CYXY Whitehorse 01-19:extended centerline 1 left vectoring
+Runways:CYXY Whitehorse 01-19:extended centerline 1 right base
+Runways:CYXY Whitehorse 01-19:extended centerline 1 right ticks
+Runways:CYXY Whitehorse 01-19:extended centerline 1 right vectoring
+Runways:CYXY Whitehorse 01-19:extended centerline 2
+Runways:CYXY Whitehorse 01-19:extended centerline 2 left base
+Runways:CYXY Whitehorse 01-19:extended centerline 2 left ticks
+Runways:CYXY Whitehorse 01-19:extended centerline 2 left vectoring
+Runways:CYXY Whitehorse 01-19:extended centerline 2 right base
+Runways:CYXY Whitehorse 01-19:extended centerline 2 right ticks
+Runways:CYXY Whitehorse 01-19:extended centerline 2 right vectoring
+Runways:CYYC Calgary 08-26:centerline
+Runways:CYYC Calgary 11-29:centerline
+Runways:CYYC Calgary 11-29:extended centerline 1
+Runways:CYYC Calgary 11-29:extended centerline 1 left base
+Runways:CYYC Calgary 11-29:extended centerline 1 left ticks
+Runways:CYYC Calgary 11-29:extended centerline 1 left vectoring
+Runways:CYYC Calgary 11-29:extended centerline 1 right base
+Runways:CYYC Calgary 11-29:extended centerline 1 right ticks
+Runways:CYYC Calgary 11-29:extended centerline 1 right vectoring
+Runways:CYYC Calgary 11-29:extended centerline 2
+Runways:CYYC Calgary 11-29:extended centerline 2 left base
+Runways:CYYC Calgary 11-29:extended centerline 2 left ticks
+Runways:CYYC Calgary 11-29:extended centerline 2 left vectoring
+Runways:CYYC Calgary 11-29:extended centerline 2 right base
+Runways:CYYC Calgary 11-29:extended centerline 2 right ticks
+Runways:CYYC Calgary 11-29:extended centerline 2 right vectoring
+Runways:CYYC Calgary 17L-35R:centerline
+Runways:CYYC Calgary 17R-35L:centerline
+Runways:CYZF Yellowknife 10-28:centerline
+Runways:CYZF Yellowknife 10-28:extended centerline 1
+Runways:CYZF Yellowknife 10-28:extended centerline 1 left base
+Runways:CYZF Yellowknife 10-28:extended centerline 1 left ticks
+Runways:CYZF Yellowknife 10-28:extended centerline 1 left vectoring
+Runways:CYZF Yellowknife 10-28:extended centerline 1 right base
+Runways:CYZF Yellowknife 10-28:extended centerline 1 right ticks
+Runways:CYZF Yellowknife 10-28:extended centerline 1 right vectoring
+Runways:CYZF Yellowknife 10-28:extended centerline 2
+Runways:CYZF Yellowknife 10-28:extended centerline 2 left base
+Runways:CYZF Yellowknife 10-28:extended centerline 2 left ticks
+Runways:CYZF Yellowknife 10-28:extended centerline 2 left vectoring
+Runways:CYZF Yellowknife 10-28:extended centerline 2 right base
+Runways:CYZF Yellowknife 10-28:extended centerline 2 right ticks
+Runways:CYZF Yellowknife 10-28:extended centerline 2 right vectoring
+Runways:CYZF Yellowknife 16-34:centerline
+Runways:CYZF Yellowknife 16-34:extended centerline 1
+Runways:CYZF Yellowknife 16-34:extended centerline 1 left base
+Runways:CYZF Yellowknife 16-34:extended centerline 1 left ticks
+Runways:CYZF Yellowknife 16-34:extended centerline 1 left vectoring
+Runways:CYZF Yellowknife 16-34:extended centerline 1 right base
+Runways:CYZF Yellowknife 16-34:extended centerline 1 right ticks
+Runways:CYZF Yellowknife 16-34:extended centerline 1 right vectoring
+Runways:CYZF Yellowknife 16-34:extended centerline 2
+Runways:CYZF Yellowknife 16-34:extended centerline 2 left base
+Runways:CYZF Yellowknife 16-34:extended centerline 2 left ticks
+Runways:CYZF Yellowknife 16-34:extended centerline 2 left vectoring
+Runways:CYZF Yellowknife 16-34:extended centerline 2 right base
+Runways:CYZF Yellowknife 16-34:extended centerline 2 right ticks
+Runways:CYZF Yellowknife 16-34:extended centerline 2 right vectoring
+Sids:CYBW_CZ_C:
+Sids:CYYC_CZ_C:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:49.485454:-115.548675:52.832982:-111.879753

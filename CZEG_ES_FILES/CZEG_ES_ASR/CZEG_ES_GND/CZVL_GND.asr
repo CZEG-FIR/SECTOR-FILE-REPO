@@ -1,0 +1,26 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\CZEG_ES_Files\CZEG_ES_Sectors\CZEG_FIR_18_08_v1.sct
+SECTORTITLE:CZEG_FIR_18_08_v1.sct
+Airports:CZVL:name
+DisplayRotation:0.00000:
+Free Text:CZVL Ramp\I:freetext
+Free Text:CZVL Taxi\A:freetext
+Free Text:CZVL Taxi\B:freetext
+Regions:CZVL:polygon
+Runways:CZVL Villeneuve 34-16:name
+Runways:CZVL Villenuve 08-26:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:4000
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)
+WINDOWAREA:53.659111:-113.882751:53.678956:-113.828503

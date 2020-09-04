@@ -1,0 +1,245 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tony\Documents\EuroScope\CZEG\CZEG_ES_Sectors\CZEG_FIR.sct
+SECTORTITLE:CZEG_FIR.sct
+Airports:CYCB:name
+Airports:CYCB:symbol
+Airports:CYCO:name
+Airports:CYCO:symbol
+Airports:CYEG:name
+Airports:CYEG:symbol
+Airports:CYEV:name
+Airports:CYEV:symbol
+Airports:CYFB:name
+Airports:CYFB:symbol
+Airports:CYFS:name
+Airports:CYFS:symbol
+Airports:CYGH:name
+Airports:CYGH:symbol
+Airports:CYGT:name
+Airports:CYGT:symbol
+Airports:CYHY:name
+Airports:CYHY:symbol
+Airports:CYIK:name
+Airports:CYIK:symbol
+Airports:CYIO:name
+Airports:CYIO:symbol
+Airports:CYMM:name
+Airports:CYMM:symbol
+Airports:CYOD:name
+Airports:CYOD:symbol
+Airports:CYOJ:name
+Airports:CYOJ:symbol
+Airports:CYPE:name
+Airports:CYPE:symbol
+Airports:CYQH:name
+Airports:CYQH:symbol
+Airports:CYQR:name
+Airports:CYQR:symbol
+Airports:CYQU:name
+Airports:CYQU:symbol
+Airports:CYRB:name
+Airports:CYRB:symbol
+Airports:CYSM:name
+Airports:CYSM:symbol
+Airports:CYTE:name
+Airports:CYTE:symbol
+Airports:CYVQ:name
+Airports:CYVQ:symbol
+Airports:CYWG:name
+Airports:CYWG:symbol
+Airports:CYWY:name
+Airports:CYWY:symbol
+Airports:CYXE:name
+Airports:CYXE:symbol
+Airports:CYXJ:name
+Airports:CYXJ:symbol
+Airports:CYXY:name
+Airports:CYXY:symbol
+Airports:CYYC:name
+Airports:CYYC:symbol
+Airports:CYYE:name
+Airports:CYYE:symbol
+Airports:CYYQ:name
+Airports:CYYQ:symbol
+Airports:CYZF:name
+Airports:CYZF:symbol
+Airports:CYZU:name
+Airports:CYZU:symbol
+ARTCC boundary:CZEG FIR:
+ARTCC high boundary:Arctic Control Area:
+ARTCC high boundary:Bison (BS):
+ARTCC high boundary:Cambridge (CB):
+ARTCC high boundary:Canmore (CN):
+ARTCC high boundary:Clyde (CY):
+ARTCC high boundary:Dawson (DA):
+ARTCC high boundary:Drumheller (DH):
+ARTCC high boundary:Hudson (HU):
+ARTCC high boundary:Jasper (JP):
+ARTCC high boundary:Klondike (KD):
+ARTCC high boundary:Lethbridge (QL):
+ARTCC high boundary:Mackenzie (MN):
+ARTCC high boundary:Northern Control Area:
+ARTCC high boundary:Nunavut (NV):
+ARTCC high boundary:Polar (PR):
+ARTCC high boundary:Rankin (RN):
+ARTCC high boundary:Severn (ER):
+ARTCC high boundary:Simpson (FS):
+ARTCC high boundary:Smokey Lake (SY):
+ARTCC high boundary:Thompson (TH):
+ARTCC high boundary:Wainwright (WV):
+ARTCC high boundary:Yukon (YU):
+ARTCC low boundary:CYR131:
+ARTCC low boundary:CYR167:
+ARTCC low boundary:CYR201:
+ARTCC low boundary:CYR203:
+ARTCC low boundary:CYR204:
+ARTCC low boundary:CYR207:
+ARTCC low boundary:CYR208:
+ARTCC low boundary:CYR210:
+ARTCC low boundary:CYR211:
+ARTCC low boundary:CYR212:
+ARTCC low boundary:CYR220:
+ARTCC low boundary:CYR221:
+ARTCC low boundary:CYR222:
+ARTCC low boundary:CYR223:
+ARTCC low boundary:CYR224:
+ARTCC low boundary:CYR225:
+ARTCC low boundary:CYR226:
+ARTCC low boundary:CYR227:
+ARTCC low boundary:CYR228:
+ARTCC low boundary:CYR229:
+ARTCC low boundary:CYR230:
+ARTCC low boundary:CYR231:
+ARTCC low boundary:CYR232:
+ARTCC low boundary:CYR233:
+ARTCC low boundary:CYR251:
+ARTCC low boundary:CYR252:
+ARTCC low boundary:CYR263:
+ARTCC low boundary:CYR268:
+ARTCC low boundary:CYR269:
+ARTCC low boundary:CYR270:
+Fixes:6480N:name
+Fixes:6480N:symbol
+Fixes:6560N:name
+Fixes:6560N:symbol
+Fixes:6680N:name
+Fixes:6680N:symbol
+Fixes:6780N:name
+Fixes:6780N:symbol
+Fixes:8260N:name
+Fixes:8260N:symbol
+Fixes:8460N:name
+Fixes:8460N:symbol
+Fixes:ADREW:name
+Fixes:ADREW:symbol
+Fixes:ADSAM:name
+Fixes:ADSAM:symbol
+Fixes:AGMIF:name
+Fixes:AGMIF:symbol
+Fixes:APSIN:name
+Fixes:APSIN:symbol
+Fixes:AYZOL:name
+Fixes:AYZOL:symbol
+Fixes:BIBEM:name
+Fixes:BIBEM:symbol
+Fixes:BIITE:name
+Fixes:BIITE:symbol
+Fixes:BOPUT:name
+Fixes:BOPUT:symbol
+Fixes:CANEL:name
+Fixes:CANEL:symbol
+Fixes:CHAPO:name
+Fixes:CHAPO:symbol
+Fixes:COHIL:name
+Fixes:COHIL:symbol
+Fixes:DAPAK:name
+Fixes:DAPAK:symbol
+Fixes:DARUB:name
+Fixes:DARUB:symbol
+Fixes:DEXUN:name
+Fixes:DEXUN:symbol
+Fixes:DOGGY:name
+Fixes:DOGGY:symbol
+Fixes:DUXAR:name
+Fixes:DUXAR:symbol
+Fixes:ELNUS:name
+Fixes:ELNUS:symbol
+Fixes:EMSOW:name
+Fixes:EMSOW:symbol
+Fixes:EPMAN:name
+Fixes:EPMAN:symbol
+Fixes:FANES:name
+Fixes:FANES:symbol
+Fixes:FIORD:name
+Fixes:FIORD:symbol
+Fixes:GAHAM:name
+Fixes:GAHAM:symbol
+Fixes:GELBO:name
+Fixes:GELBO:symbol
+Fixes:GOATS:name
+Fixes:GOATS:symbol
+Fixes:INGUM:name
+Fixes:INGUM:symbol
+Fixes:JAGIT:name
+Fixes:JAGIT:symbol
+Fixes:JESRU:name
+Fixes:JESRU:symbol
+Fixes:KENKI:name
+Fixes:KENKI:symbol
+Fixes:LAHEY:name
+Fixes:LAHEY:symbol
+Fixes:MEDPA:name
+Fixes:MEDPA:symbol
+Fixes:NADMA:name
+Fixes:NADMA:symbol
+Fixes:OMSUN:name
+Fixes:OMSUN:symbol
+Fixes:PEASY:name
+Fixes:PEASY:symbol
+Fixes:PELRI:name
+Fixes:PELRI:symbol
+Fixes:PETMA:name
+Fixes:PETMA:symbol
+Fixes:POTAT:name
+Fixes:POTAT:symbol
+Fixes:TAYTA:name
+Fixes:TAYTA:symbol
+Fixes:TIBOY:name
+Fixes:TIBOY:symbol
+Fixes:TOVAD:name
+Fixes:TOVAD:symbol
+Fixes:TULAG:name
+Fixes:TULAG:symbol
+Fixes:VOLOB:name
+Fixes:VOLOB:symbol
+Geo:Landmass:
+Low airways:V112:line
+Low airways:V306:line
+Low airways:V321:line
+Low airways:V325:line
+Low airways:V326:line
+Low airways:V329:line
+Low airways:V385:line
+Low airways:V428:line
+Regions:CYHY:polygon
+Regions:CYQF:polygon
+Regions:CYQL:polygon
+Regions:CYQU:polygon
+Regions:CYXH:polygon
+Regions:CYXY:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:60000
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:44.008176:-141.180857:92.971119:-62.159721

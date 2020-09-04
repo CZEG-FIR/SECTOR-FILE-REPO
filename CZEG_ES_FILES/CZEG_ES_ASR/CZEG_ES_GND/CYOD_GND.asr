@@ -1,0 +1,146 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tony\Documents\EuroScope\CANscope\CZEG\CZEG_ES_Sectors\CZEG_FIR.sct
+SECTORTITLE:CZEG_FIR.sct
+ARTCC low boundary:CAL4_TA(B/E)i:
+ARTCC low boundary:CAL4_TA(B/E)ii:
+ARTCC low boundary:CER5_TA(B/E):
+ARTCC low boundary:CYDQ_CAX(25):
+ARTCC low boundary:CYDQ_TA(B/E):
+ARTCC low boundary:CYEG_CAX(90):
+ARTCC low boundary:CYEG_TCA(12/C):
+ARTCC low boundary:CYEG_TCA(25/C):
+ARTCC low boundary:CYEG_TCA(30/C):
+ARTCC low boundary:CYEG_TCA(35/C):
+ARTCC low boundary:CYEV_CAX(40):
+ARTCC low boundary:CYEV_TA(B/E):
+ARTCC low boundary:CYFR_TA(B/E):
+ARTCC low boundary:CYFS_CAX(25):
+ARTCC low boundary:CYFS_TA(B/E):
+ARTCC low boundary:CYHY_CAX(25):
+ARTCC low boundary:CYHY_CAX(50):
+ARTCC low boundary:CYHY_TA(B/E):
+ARTCC low boundary:CYLL_CAX(25):
+ARTCC low boundary:CYLL_TA(B/E):
+ARTCC low boundary:CYMM_CAX(60/25):
+ARTCC low boundary:CYMM_TA(B/E):
+ARTCC low boundary:CYNR_TA(B/E)i:
+ARTCC low boundary:CYNR_TA(B/E)ii:
+ARTCC low boundary:CYOD_MTCA:
+ARTCC low boundary:CYOJ_CAX(25):
+ARTCC low boundary:CYOJ_TA(B/E):
+ARTCC low boundary:CYPE_CAX(25):
+ARTCC low boundary:CYPE_TA(B/E):
+ARTCC low boundary:CYPY_TA(B/E):
+ARTCC low boundary:CYQF_TA(B/E):
+ARTCC low boundary:CYQH_CAX(25):
+ARTCC low boundary:CYQH_TA(B/E):
+ARTCC low boundary:CYQL_CAX(25):
+ARTCC low boundary:CYQL_CAX(35):
+ARTCC low boundary:CYQL_TA(B/E):
+ARTCC low boundary:CYQU_CAX(25):
+ARTCC low boundary:CYQU_CAX(50):
+ARTCC low boundary:CYQU_TA(B/E):
+ARTCC low boundary:CYR131:
+ARTCC low boundary:CYR167:
+ARTCC low boundary:CYR201:
+ARTCC low boundary:CYR203:
+ARTCC low boundary:CYR204:
+ARTCC low boundary:CYR207:
+ARTCC low boundary:CYR208:
+ARTCC low boundary:CYR210:
+ARTCC low boundary:CYR211:
+ARTCC low boundary:CYR212:
+ARTCC low boundary:CYR220:
+ARTCC low boundary:CYR221:
+ARTCC low boundary:CYR222:
+ARTCC low boundary:CYR223:
+ARTCC low boundary:CYR224:
+ARTCC low boundary:CYR225:
+ARTCC low boundary:CYR226:
+ARTCC low boundary:CYR227:
+ARTCC low boundary:CYR228:
+ARTCC low boundary:CYR229:
+ARTCC low boundary:CYR230:
+ARTCC low boundary:CYR231:
+ARTCC low boundary:CYR232:
+ARTCC low boundary:CYR233:
+ARTCC low boundary:CYR251:
+ARTCC low boundary:CYR252:
+ARTCC low boundary:CYR263:
+ARTCC low boundary:CYR268:
+ARTCC low boundary:CYR269:
+ARTCC low boundary:CYR270:
+ARTCC low boundary:CYSM_CAX(25):
+ARTCC low boundary:CYSM_TA(B/E):
+ARTCC low boundary:CYVG_TA(B/E):
+ARTCC low boundary:CYVQ_TA(B/E):
+ARTCC low boundary:CYXH_CAX(25):
+ARTCC low boundary:CYXH_TA(B/E):
+ARTCC low boundary:CYXJ_CAX(25):
+ARTCC low boundary:CYXJ_TA(B/E):
+ARTCC low boundary:CYXY_TA(B/E):
+ARTCC low boundary:CYYC-CAX(60):
+ARTCC low boundary:CYYC-CAX(60/80):
+ARTCC low boundary:CYYC_TCA(15/C):
+ARTCC low boundary:CYYC_TCA(20/C):
+ARTCC low boundary:CYYC_TCA(24/C):
+ARTCC low boundary:CYYC_TCA(30/C):
+ARTCC low boundary:CYYE_CAX(25):
+ARTCC low boundary:CYYE_CAX(50):
+ARTCC low boundary:CYYE_TA(B/E):
+ARTCC low boundary:CYZF_CAX(25):
+ARTCC low boundary:CYZF_CAX(40):
+ARTCC low boundary:CYZF_CAX(50):
+ARTCC low boundary:CYZF_TA(B/E):
+ARTCC low boundary:CYZH_TA(B/E):
+ARTCC low boundary:CYZU_TA(B/E):
+ARTCC low boundary:CYZW_TA(B/E):
+ARTCC low boundary:CZVL_TCA(15/C):
+Free Text:CYOD Taxi\A:freetext
+Free Text:CYOD Taxi\A:freetext
+Free Text:CYOD Taxi\A:freetext
+Free Text:CYOD Taxi\A:freetext
+Free Text:CYOD Taxi\A:freetext
+Free Text:CYOD Taxi\A:freetext
+Free Text:CYOD Taxi\A1:freetext
+Free Text:CYOD Taxi\A2:freetext
+Free Text:CYOD Taxi\B:freetext
+Free Text:CYOD Taxi\B:freetext
+Free Text:CYOD Taxi\B:freetext
+Free Text:CYOD Taxi\B:freetext
+Free Text:CYOD Taxi\C:freetext
+Free Text:CYOD Taxi\C:freetext
+Free Text:CYOD Taxi\D:freetext
+Free Text:CYOD Taxi\E:freetext
+Free Text:CYOD Taxi\E:freetext
+Free Text:CYOD Taxi\F:freetext
+Free Text:CYOD Taxi\G:freetext
+Free Text:CYOD Taxi\H:freetext
+Free Text:CYOD Taxi\J:freetext
+Free Text:CYOD Taxi\J:freetext
+Free Text:CYOD Taxi\J:freetext
+Free Text:CYOD Taxi\K:freetext
+Free Text:CYOD Taxi\L:freetext
+Free Text:CYOD Taxi\L:freetext
+Free Text:CYOD Taxi\M:freetext
+Regions:CYOD:polygon
+Runways:CYOD Cold Lake 04-22:name
+Runways:CYOD Cold Lake 13L-31R:name
+Runways:CYOD Cold Lake 13R-31L:name
+Sids:CYOD_CZ_D:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:2000
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:54.370552:-110.352721:54.455889:-110.212425

@@ -1,0 +1,5 @@
+PLUGINS
+vSMR:cpdlc_logon:CZEG
+vSMR:cpdlc_password:Cfr4zRyI7dR5Ktd
+vSMR:cpdlc_sound:1
+END

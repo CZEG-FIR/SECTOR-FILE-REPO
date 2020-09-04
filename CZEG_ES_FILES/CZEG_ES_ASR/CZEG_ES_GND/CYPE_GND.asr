@@ -1,0 +1,25 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tony\Documents\EuroScope\CZEG\CZEG_ES_Sectors\CZEG_FIR.sct
+SECTORTITLE:CZEG_FIR.sct
+Free Text:CYPE Taxi\A:freetext
+Free Text:CYPE Taxi\B:freetext
+Free Text:CYPE Taxi\C:freetext
+Geo:CYPE:
+Regions:CYPE:polygon
+Runways:CYPE Peace River 04-22:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:4000
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:56.214420:-117.466277:56.246211:-117.431557

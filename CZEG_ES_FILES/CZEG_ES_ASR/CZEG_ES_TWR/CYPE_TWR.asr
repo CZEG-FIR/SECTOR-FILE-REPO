@@ -1,0 +1,26 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tony\Documents\EuroScope\CZEG\CZEG_ES_Sectors\CZEG_FIR.sct
+SECTORTITLE:CZEG_FIR.sct
+ARTCC low boundary:CYPE_CAX(25):
+ARTCC low boundary:CYPE_TA(B/E):
+Free Text:CYPE_MSA\37:freetext
+Free Text:CYPE_MSA\37:freetext
+Free Text:CYPE_MSA\41:freetext
+Free Text:CYPE_MSA\41:freetext
+Runways:CYPE Peace River 04-22:centerline
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:15000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:55.509053:-118.192590:56.920815:-116.650747

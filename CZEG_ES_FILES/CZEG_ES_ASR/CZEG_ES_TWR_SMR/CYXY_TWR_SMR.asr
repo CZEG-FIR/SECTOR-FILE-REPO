@@ -1,0 +1,166 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tony\Documents\EuroScope\CZEG\CZEG_ES_Sectors\CZEG_FIR.sct
+SECTORTITLE:CZEG_FIR.sct
+Airports:CYXY:name
+Airports:CYXY:symbol
+ARTCC low boundary:CYXY_TA(B/E):
+Fixes:ALMUT:name
+Fixes:ALMUT:symbol
+Fixes:BISDI:name
+Fixes:BISDI:symbol
+Fixes:DELRA:name
+Fixes:DELRA:symbol
+Fixes:EPNOK:name
+Fixes:EPNOK:symbol
+Fixes:IGTID:name
+Fixes:IGTID:symbol
+Fixes:IKNEP:name
+Fixes:IKNEP:symbol
+Fixes:IMISA:name
+Fixes:IMISA:symbol
+Fixes:KEMGI:name
+Fixes:KEMGI:symbol
+Fixes:KESNO:name
+Fixes:KESNO:symbol
+Fixes:LETIP:name
+Fixes:LETIP:symbol
+Fixes:MIXUM:name
+Fixes:MIXUM:symbol
+Fixes:NADRA:name
+Fixes:NADRA:symbol
+Fixes:NOXUB:name
+Fixes:NOXUB:symbol
+Fixes:OVUMA:name
+Fixes:OVUMA:symbol
+Fixes:PIVUX:name
+Fixes:PIVUX:symbol
+Fixes:RETEV:name
+Fixes:RETEV:symbol
+Fixes:SINDU:name
+Fixes:SINDU:symbol
+Fixes:TAKIL:name
+Fixes:TAKIL:symbol
+Fixes:TEXOT:name
+Fixes:TEXOT:symbol
+Fixes:UKTOV:name
+Fixes:UKTOV:symbol
+Fixes:VETVO:name
+Fixes:VETVO:symbol
+Free Text:CYXY Ramp\I:freetext
+Free Text:CYXY Ramp\I:freetext
+Free Text:CYXY Ramp\I:freetext
+Free Text:CYXY Taxi\A:freetext
+Free Text:CYXY Taxi\A:freetext
+Free Text:CYXY Taxi\E:freetext
+Free Text:CYXY Taxi\E:freetext
+Free Text:CYXY Taxi\E:freetext
+Free Text:CYXY Taxi\F:freetext
+Free Text:CYXY Taxi\G:freetext
+Free Text:CYXY_MSA\82:freetext
+Free Text:CYXY_MSA\82:freetext
+Free Text:CYXY_MSA\85:freetext
+Free Text:CYXY_MSA\85:freetext
+Geo:CYXY:
+NDBs:JB:frequency
+NDBs:JB:name
+NDBs:JB:symbol
+NDBs:ZXY:name
+NDBs:ZXY:symbol
+Regions:CYXY:polygon
+Runways:CYXY Whitehorse 01-19:centerline
+Runways:CYXY Whitehorse 01-19:extended centerline 1
+Runways:CYXY Whitehorse 01-19:extended centerline 1 left base
+Runways:CYXY Whitehorse 01-19:extended centerline 1 left ticks
+Runways:CYXY Whitehorse 01-19:extended centerline 1 left vectoring
+Runways:CYXY Whitehorse 01-19:extended centerline 1 right base
+Runways:CYXY Whitehorse 01-19:extended centerline 1 right ticks
+Runways:CYXY Whitehorse 01-19:extended centerline 1 right vectoring
+Runways:CYXY Whitehorse 01-19:extended centerline 2
+Runways:CYXY Whitehorse 01-19:extended centerline 2 left base
+Runways:CYXY Whitehorse 01-19:extended centerline 2 left ticks
+Runways:CYXY Whitehorse 01-19:extended centerline 2 left vectoring
+Runways:CYXY Whitehorse 01-19:extended centerline 2 right base
+Runways:CYXY Whitehorse 01-19:extended centerline 2 right ticks
+Runways:CYXY Whitehorse 01-19:extended centerline 2 right vectoring
+Runways:CYXY Whitehorse 01-19:name
+Runways:CYXY Whitehorse 14L-32R:centerline
+Runways:CYXY Whitehorse 14L-32R:extended centerline 1
+Runways:CYXY Whitehorse 14L-32R:extended centerline 1 left base
+Runways:CYXY Whitehorse 14L-32R:extended centerline 1 left ticks
+Runways:CYXY Whitehorse 14L-32R:extended centerline 1 left vectoring
+Runways:CYXY Whitehorse 14L-32R:extended centerline 1 right base
+Runways:CYXY Whitehorse 14L-32R:extended centerline 1 right ticks
+Runways:CYXY Whitehorse 14L-32R:extended centerline 1 right vectoring
+Runways:CYXY Whitehorse 14L-32R:extended centerline 2
+Runways:CYXY Whitehorse 14L-32R:extended centerline 2 left base
+Runways:CYXY Whitehorse 14L-32R:extended centerline 2 left ticks
+Runways:CYXY Whitehorse 14L-32R:extended centerline 2 left vectoring
+Runways:CYXY Whitehorse 14L-32R:extended centerline 2 right base
+Runways:CYXY Whitehorse 14L-32R:extended centerline 2 right ticks
+Runways:CYXY Whitehorse 14L-32R:extended centerline 2 right vectoring
+Runways:CYXY Whitehorse 14L-32R:name
+Runways:CYXY Whitehorse 14R-32L:centerline
+Runways:CYXY Whitehorse 14R-32L:extended centerline 1
+Runways:CYXY Whitehorse 14R-32L:extended centerline 1 left base
+Runways:CYXY Whitehorse 14R-32L:extended centerline 1 left ticks
+Runways:CYXY Whitehorse 14R-32L:extended centerline 1 left vectoring
+Runways:CYXY Whitehorse 14R-32L:extended centerline 1 right base
+Runways:CYXY Whitehorse 14R-32L:extended centerline 1 right ticks
+Runways:CYXY Whitehorse 14R-32L:extended centerline 1 right vectoring
+Runways:CYXY Whitehorse 14R-32L:extended centerline 2
+Runways:CYXY Whitehorse 14R-32L:extended centerline 2 left base
+Runways:CYXY Whitehorse 14R-32L:extended centerline 2 left ticks
+Runways:CYXY Whitehorse 14R-32L:extended centerline 2 left vectoring
+Runways:CYXY Whitehorse 14R-32L:extended centerline 2 right base
+Runways:CYXY Whitehorse 14R-32L:extended centerline 2 right ticks
+Runways:CYXY Whitehorse 14R-32L:extended centerline 2 right vectoring
+Runways:CYXY Whitehorse 14R-32L:name
+Sids:CYXY ILS RWY 32L:
+Sids:CYXY NDB DME RWY 14R:
+Sids:CYXY RNAV (GNSS) RWY 14R:
+Sids:CYXY RNAV (GNSS) RWY 32L:
+VORs:YXY:name
+VORs:YXY:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:2200
+ABOVE:15000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:60.119601:-135.869424:61.295058:-133.941503
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:CYXY
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

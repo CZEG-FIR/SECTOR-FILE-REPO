@@ -1,0 +1,46 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\CZEG_ES_Files\CZEG_ES_Sectors\CZEG_FIR_1908.sct
+SECTORTITLE:CZEG_FIR_1908.sct
+ARTCC boundary:CZEG FIR:
+ARTCC low boundary:Alsask (AL):
+ARTCC low boundary:Banff (BA):
+ARTCC low boundary:Coppermine (KM):
+ARTCC low boundary:FootHills (FH):
+ARTCC low boundary:Fort Nelson (YE):
+ARTCC low boundary:Fort St. John (XJ):
+ARTCC low boundary:Fortress (FR):
+ARTCC low boundary:Grande Prairie (QU):
+ARTCC low boundary:Inuvik (EV):
+ARTCC low boundary:Lac La Biche (LB):
+ARTCC low boundary:Lloydminster (LL):
+ARTCC low boundary:McMurray (MM):
+ARTCC low boundary:Medicine Hat (XH):
+ARTCC low boundary:Peace (PE):
+ARTCC low boundary:Red Deer (QF):
+ARTCC low boundary:Rocky (RM):
+ARTCC low boundary:Slave Lake (ZH):
+ARTCC low boundary:Whitecourt (ZU):
+ARTCC low boundary:Whitehorse (XY):
+ARTCC low boundary:Yellowknife (ZF):
+Regions:CYHY:polygon
+Regions:CYQF:polygon
+Regions:CYQL:polygon
+Regions:CYQU:polygon
+Regions:CYXH:polygon
+Regions:CYXY:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:60000
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:42.644910:-168.100775:94.504138:-26.708479

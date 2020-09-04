@@ -1,0 +1,56 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\CZEG_ES_Files\CZEG_ES_Sectors\CZEG_FIR_1908.sct
+SECTORTITLE:CZEG_FIR_1908.sct
+ARTCC boundary:CZEG FIR:
+ARTCC high boundary:Arctic Control Area:
+ARTCC high boundary:Bison (BS):
+ARTCC high boundary:Cambridge (CB):
+ARTCC high boundary:Canmore (CN):
+ARTCC high boundary:Clyde (CY):
+ARTCC high boundary:Dawson (DA):
+ARTCC high boundary:Drumheller (DH):
+ARTCC high boundary:E20-YEG(BA)-KZLC:
+ARTCC high boundary:E21-YEG(BA)-KZSE:
+ARTCC high boundary:E22-YEG(BA)-CZVR:
+ARTCC high boundary:E23-YEG(RM)-CZVR:
+ARTCC high boundary:E24-YEG(KL)-CZVR:
+ARTCC high boundary:E25-YEG(KL)-PAZA:
+ARTCC high boundary:E26-YEG(AC)-PAZA:
+ARTCC high boundary:E27-YEG(AC)-UNICOM:
+ARTCC high boundary:E28-YEG(AC)-BGGL:
+ARTCC high boundary:E29-YEG(AC)-CZQX:
+ARTCC high boundary:E30-YEG(AC)-CZUL:
+ARTCC high boundary:E33a-YEG(RM)-ZWG(VC):
+ARTCC high boundary:E33b-YEG(RM)-ZWG(BR):
+ARTCC high boundary:E34-YEG(BA)-ZWG(BR):
+ARTCC high boundary:Hudson (HU):
+ARTCC high boundary:Jasper (JP):
+ARTCC high boundary:Klondike (KD):
+ARTCC high boundary:Lethbridge (QL):
+ARTCC high boundary:Mackenzie (MN):
+ARTCC high boundary:Northern Control Area:
+ARTCC high boundary:Nunavut (NV):
+ARTCC high boundary:Polar (PR):
+ARTCC high boundary:Rankin (RN):
+ARTCC high boundary:Severn (ER):
+ARTCC high boundary:Simpson (FS):
+ARTCC high boundary:Smokey Lake (SY):
+ARTCC high boundary:Thompson (TH):
+ARTCC high boundary:Wainwright (WV):
+ARTCC high boundary:Yukon (YU):
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:60000
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:41.714644:-171.155765:93.573871:-29.763469

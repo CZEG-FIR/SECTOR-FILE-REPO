@@ -1,0 +1,139 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tony\Documents\EuroScope\CZEG\CZEG_ES_Sectors\CZEG_FIR.sct
+SECTORTITLE:CZEG_FIR.sct
+Free Text:CYYC Label\CJT/DHL/AC:freetext
+Free Text:CYYC Label\CNK:freetext
+Free Text:CYYC Label\DEICE:freetext
+Free Text:CYYC Label\E-DEICE:freetext
+Free Text:CYYC Label\EXEC-FLIGHT:freetext
+Free Text:CYYC Label\FEDEX/UPS:freetext
+Free Text:CYYC Label\MPE/NCB:freetext
+Free Text:CYYC Label\SIGNATURE:freetext
+Free Text:CYYC Label\SKYSERVICE:freetext
+Free Text:CYYC Label\W-DEICE:freetext
+Free Text:CYYC Label\WJA:freetext
+Free Text:CYYC Label\X-DEICE:freetext
+Free Text:CYYC Ramp\I:freetext
+Free Text:CYYC Ramp\I:freetext
+Free Text:CYYC Ramp\I:freetext
+Free Text:CYYC Ramp\III:freetext
+Free Text:CYYC Ramp\IV:freetext
+Free Text:CYYC Ramp\IX:freetext
+Free Text:CYYC Ramp\V:freetext
+Free Text:CYYC Ramp\VI:freetext
+Free Text:CYYC Ramp\VII:freetext
+Free Text:CYYC Ramp\VIII:freetext
+Free Text:CYYC Taxi\A:freetext
+Free Text:CYYC Taxi\A:freetext
+Free Text:CYYC Taxi\A:freetext
+Free Text:CYYC Taxi\A:freetext
+Free Text:CYYC Taxi\A:freetext
+Free Text:CYYC Taxi\A:freetext
+Free Text:CYYC Taxi\A:freetext
+Free Text:CYYC Taxi\A:freetext
+Free Text:CYYC Taxi\A1:freetext
+Free Text:CYYC Taxi\A3:freetext
+Free Text:CYYC Taxi\AB:freetext
+Free Text:CYYC Taxi\AE:freetext
+Free Text:CYYC Taxi\B:freetext
+Free Text:CYYC Taxi\B:freetext
+Free Text:CYYC Taxi\B:freetext
+Free Text:CYYC Taxi\B:freetext
+Free Text:CYYC Taxi\BA:freetext
+Free Text:CYYC Taxi\BC:freetext
+Free Text:CYYC Taxi\C:freetext
+Free Text:CYYC Taxi\C:freetext
+Free Text:CYYC Taxi\C:freetext
+Free Text:CYYC Taxi\C:freetext
+Free Text:CYYC Taxi\C:freetext
+Free Text:CYYC Taxi\C:freetext
+Free Text:CYYC Taxi\C:freetext
+Free Text:CYYC Taxi\C:freetext
+Free Text:CYYC Taxi\C1:freetext
+Free Text:CYYC Taxi\C2:freetext
+Free Text:CYYC Taxi\C3:freetext
+Free Text:CYYC Taxi\C4:freetext
+Free Text:CYYC Taxi\C6:freetext
+Free Text:CYYC Taxi\D:freetext
+Free Text:CYYC Taxi\D:freetext
+Free Text:CYYC Taxi\D:freetext
+Free Text:CYYC Taxi\D1:freetext
+Free Text:CYYC Taxi\D2:freetext
+Free Text:CYYC Taxi\D3:freetext
+Free Text:CYYC Taxi\D4:freetext
+Free Text:CYYC Taxi\D5:freetext
+Free Text:CYYC Taxi\D6:freetext
+Free Text:CYYC Taxi\E:freetext
+Free Text:CYYC Taxi\E:freetext
+Free Text:CYYC Taxi\EA:freetext
+Free Text:CYYC Taxi\F:freetext
+Free Text:CYYC Taxi\F:freetext
+Free Text:CYYC Taxi\F1:freetext
+Free Text:CYYC Taxi\G:freetext
+Free Text:CYYC Taxi\G:freetext
+Free Text:CYYC Taxi\G:freetext
+Free Text:CYYC Taxi\GB:freetext
+Free Text:CYYC Taxi\GD:freetext
+Free Text:CYYC Taxi\H:freetext
+Free Text:CYYC Taxi\H:freetext
+Free Text:CYYC Taxi\HB:freetext
+Free Text:CYYC Taxi\HD:freetext
+Free Text:CYYC Taxi\J:freetext
+Free Text:CYYC Taxi\J:freetext
+Free Text:CYYC Taxi\J:freetext
+Free Text:CYYC Taxi\J:freetext
+Free Text:CYYC Taxi\J:freetext
+Free Text:CYYC Taxi\J2:freetext
+Free Text:CYYC Taxi\JQ:freetext
+Free Text:CYYC Taxi\JQ:freetext
+Free Text:CYYC Taxi\JR:freetext
+Free Text:CYYC Taxi\JS:freetext
+Free Text:CYYC Taxi\JT:freetext
+Free Text:CYYC Taxi\JV:freetext
+Free Text:CYYC Taxi\JY:freetext
+Free Text:CYYC Taxi\JZ:freetext
+Free Text:CYYC Taxi\K:freetext
+Free Text:CYYC Taxi\L:freetext
+Free Text:CYYC Taxi\M:freetext
+Free Text:CYYC Taxi\N:freetext
+Free Text:CYYC Taxi\N:freetext
+Free Text:CYYC Taxi\P:freetext
+Free Text:CYYC Taxi\Q:freetext
+Free Text:CYYC Taxi\R:freetext
+Free Text:CYYC Taxi\S:freetext
+Free Text:CYYC Taxi\U:freetext
+Free Text:CYYC Taxi\U:freetext
+Free Text:CYYC Taxi\U:freetext
+Free Text:CYYC Taxi\V:freetext
+Free Text:CYYC Taxi\W:freetext
+Free Text:CYYC Taxi\W:freetext
+Free Text:CYYC Taxi\WB:freetext
+Free Text:CYYC Taxi\Y:freetext
+Free Text:CYYC Taxi\Y:freetext
+Free Text:CYYC Taxi\Y:freetext
+Free Text:CYYC Taxi\YB:freetext
+Free Text:CYYC Taxi\YD:freetext
+Free Text:CYYC Taxi\YE:freetext
+Free Text:CYYC Taxi\Z:freetext
+Geo:CYYC_Stands:
+Regions:CYYCr2:polygon
+Runways:CYYC Calgary 08-26:name
+Runways:CYYC Calgary 11-29:name
+Runways:CYYC Calgary 17L-35R:name
+Runways:CYYC Calgary 17R-35L:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:4000
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:51.083073:-114.053571:51.162804:-113.966493

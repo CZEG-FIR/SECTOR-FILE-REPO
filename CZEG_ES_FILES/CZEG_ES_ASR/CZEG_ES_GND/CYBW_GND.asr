@@ -1,0 +1,50 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\CZEG_ES_Files\CZEG_ES_Sectors\CZEG_FIR_18_13_v1.sct
+SECTORTITLE:CZEG_FIR_18_13_v1.sct
+Airports:CYBW:name
+Airports:CYBW:symbol
+Free Text:CYBW Ramp\I:freetext
+Free Text:CYBW Taxi\A:freetext
+Free Text:CYBW Taxi\A:freetext
+Free Text:CYBW Taxi\A:freetext
+Free Text:CYBW Taxi\A:freetext
+Free Text:CYBW Taxi\A:freetext
+Free Text:CYBW Taxi\A:freetext
+Free Text:CYBW Taxi\A:freetext
+Free Text:CYBW Taxi\A:freetext
+Free Text:CYBW Taxi\A1:freetext
+Free Text:CYBW Taxi\A2:freetext
+Free Text:CYBW Taxi\C:freetext
+Free Text:CYBW Taxi\C:freetext
+Free Text:CYBW Taxi\C:freetext
+Free Text:CYBW Taxi\C:freetext
+Free Text:CYBW Taxi\D:freetext
+Free Text:CYBW Taxi\D:freetext
+Free Text:CYBW Taxi\D:freetext
+Free Text:CYBW Taxi\E:freetext
+Free Text:CYBW Taxi\F:freetext
+Free Text:CYBW Taxi\G:freetext
+Free Text:CYBW Taxi\G:freetext
+Regions:CYBW:polygon
+Runways:CYBW Springbank 08-26:name
+Runways:CYBW Springbank 17-35:name
+Runways:CYYC Calgary 08-26:name
+Runways:CYYC Calgary 11-29:name
+Runways:CYYC Calgary 17L-35R:name
+Runways:CYYC Calgary 17R-35L:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:4000
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:51.092295:-114.400585:51.117102:-114.332774

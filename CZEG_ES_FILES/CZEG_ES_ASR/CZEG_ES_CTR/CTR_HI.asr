@@ -1,0 +1,305 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tony\Documents\EuroScope\CANscope\CZEG\CZEG_ES_Sectors\CZEG_FIR.sct
+SECTORTITLE:CZEG_FIR.sct
+ARTCC boundary:CZEG CTA HI:
+ARTCC high boundary:Arctic Control Area:
+ARTCC high boundary:Bison (BS):
+ARTCC high boundary:Cambridge (CB):
+ARTCC high boundary:Canmore (CN):
+ARTCC high boundary:Clyde (CY):
+ARTCC high boundary:Dawson (DA):
+ARTCC high boundary:Drumheller (DH):
+ARTCC high boundary:Jasper (JP):
+ARTCC high boundary:Klondike (KD):
+ARTCC high boundary:Lethbridge (QL):
+ARTCC high boundary:Mackenzie (MN):
+ARTCC high boundary:Northern Control Area:
+ARTCC high boundary:Nunavut (NV):
+ARTCC high boundary:Rankin (RN):
+ARTCC high boundary:Simpson (FS):
+ARTCC high boundary:Smokey Lake (SY):
+ARTCC high boundary:Wainwright (WV):
+ARTCC high boundary:Yukon (YU):
+ARTCC low boundary:CYEG_TCA(12/C):
+ARTCC low boundary:CYEG_TCA(25/C):
+ARTCC low boundary:CYEG_TCA(30/C):
+ARTCC low boundary:CYEG_TCA(35/C):
+ARTCC low boundary:CYOD_MTCA:
+ARTCC low boundary:CYR131:
+ARTCC low boundary:CYR167:
+ARTCC low boundary:CYR201:
+ARTCC low boundary:CYR203:
+ARTCC low boundary:CYR204:
+ARTCC low boundary:CYR207:
+ARTCC low boundary:CYR208:
+ARTCC low boundary:CYR210:
+ARTCC low boundary:CYR211:
+ARTCC low boundary:CYR212:
+ARTCC low boundary:CYR220:
+ARTCC low boundary:CYR221:
+ARTCC low boundary:CYR222:
+ARTCC low boundary:CYR223:
+ARTCC low boundary:CYR224:
+ARTCC low boundary:CYR225:
+ARTCC low boundary:CYR226:
+ARTCC low boundary:CYR227:
+ARTCC low boundary:CYR228:
+ARTCC low boundary:CYR229:
+ARTCC low boundary:CYR230:
+ARTCC low boundary:CYR231:
+ARTCC low boundary:CYR232:
+ARTCC low boundary:CYR233:
+ARTCC low boundary:CYR251:
+ARTCC low boundary:CYR252:
+ARTCC low boundary:CYR263:
+ARTCC low boundary:CYR268:
+ARTCC low boundary:CYR269:
+ARTCC low boundary:CYR270:
+ARTCC low boundary:CYYC_TCA(15/C):
+ARTCC low boundary:CYYC_TCA(20/C):
+ARTCC low boundary:CYYC_TCA(24/C):
+ARTCC low boundary:CYYC_TCA(30/C):
+ARTCC low boundary:CZVL_TCA(15/C):
+Fixes:ABENY:name
+Fixes:ABENY:symbol
+Fixes:ADVOX:name
+Fixes:ADVOX:symbol
+Fixes:AGMAK:symbol
+Fixes:ALKIK:symbol
+Fixes:ANTAK:symbol
+Fixes:ANTID:symbol
+Fixes:AVROM:symbol
+Fixes:BIRKO:name
+Fixes:BIRKO:symbol
+Fixes:BITGA:symbol
+Fixes:BOOTH:symbol
+Fixes:BOTAG:symbol
+Fixes:CACHO:name
+Fixes:CACHO:symbol
+Fixes:CAMRA:name
+Fixes:CAMRA:symbol
+Fixes:CILLI:symbol
+Fixes:DAPOP:symbol
+Fixes:DUMRA:symbol
+Fixes:EBGAL:name
+Fixes:EBGAL:symbol
+Fixes:EPLAN:symbol
+Fixes:ESKIE:name
+Fixes:ESKIE:symbol
+Fixes:GADKI:symbol
+Fixes:IGSOD:symbol
+Fixes:IGVEP:name
+Fixes:IGVEP:symbol
+Fixes:IMOTA:symbol
+Fixes:IPSIT:symbol
+Fixes:IPTAN:symbol
+Fixes:LIBOS:symbol
+Fixes:LOMLO:symbol
+Fixes:MAPUX:symbol
+Fixes:MERYT:symbol
+Fixes:NOSIV:symbol
+Fixes:OILRS:name
+Fixes:OILRS:symbol
+Fixes:OLIMI:symbol
+Fixes:OTARA:symbol
+Fixes:OVATA:symbol
+Fixes:ROPLA:symbol
+Fixes:ROVMA:symbol
+Fixes:SAXOL:symbol
+Fixes:SEKOM:symbol
+Fixes:SHAWI:symbol
+Fixes:SIMTA:symbol
+Fixes:TAVPO:symbol
+Fixes:TETAG:name
+Fixes:TETAG:symbol
+Fixes:TOVUM:symbol
+Fixes:UBVAL:symbol
+Fixes:UKRAM:symbol
+Fixes:UKSAP:symbol
+Fixes:VESDO:symbol
+Fixes:VETBI:symbol
+Fixes:VIDRI:symbol
+Fixes:VOBUK:symbol
+High airways:J477:line
+High airways:J502:line
+High airways:J511:line
+High airways:J515:line
+High airways:J516:line
+High airways:J519:line
+High airways:J526:line
+High airways:NCA34:line
+High airways:Q810:line
+High airways:Q814:line
+High airways:Q828:line
+High airways:Q832:line
+High airways:Q842:line
+High airways:Q860:line
+High airways:Q874:line
+High airways:Q882:line
+High airways:Q888:line
+High airways:Q890:line
+High airways:Q894:line
+High airways:Q909:line
+High airways:Q925:line
+High airways:Q927:line
+High airways:Q931:line
+High airways:Q933:line
+High airways:Q949:line
+High airways:Q953:line
+High airways:Q957:line
+High airways:Q961:line
+High airways:Q979:line
+High airways:Q983:line
+High airways:Q995:line
+Low airways:T602:line
+Low airways:T622:line
+Low airways:T652:line
+Low airways:T694:line
+Low airways:T715:line
+Low airways:T759:line
+Low airways:T761:line
+Low airways:T797:line
+NDBs:HI:symbol
+NDBs:LT:symbol
+NDBs:PY:symbol
+NDBs:YBB:symbol
+NDBs:YCO:symbol
+NDBs:YCY:symbol
+NDBs:YEK:symbol
+NDBs:YGT:symbol
+NDBs:YHK:symbol
+NDBs:YIK:symbol
+NDBs:YIO:symbol
+NDBs:YOC:symbol
+NDBs:YPC:symbol
+NDBs:YSF:symbol
+NDBs:YTE:symbol
+NDBs:YUT:symbol
+NDBs:YZH:symbol
+NDBs:YZS:symbol
+Sids:CAL4_CZ_E:
+Sids:CCL3_CZ_E:
+Sids:CER4_CZ_E:
+Sids:CET2_CZ_E:
+Sids:CFG6_CZ_E:
+Sids:CFN6_CZ_E:
+Sids:CRL4_CZ_E:
+Sids:CYBW_CZ_C:
+Sids:CYDQ_CZ_E:
+Sids:CYEG_CZ_C:
+Sids:CYEV_CZ_E:
+Sids:CYFS_CZ_E:
+Sids:CYHY_CZ_E:
+Sids:CYLL_CZ_E:
+Sids:CYMM_CZ_C:
+Sids:CYNR-CZ-E:
+Sids:CYOD_CZ_D:
+Sids:CYOJ_CZ_E:
+Sids:CYPE_CZ_E:
+Sids:CYQF_CZ_E:
+Sids:CYQH_CZ_E:
+Sids:CYQL_CZ_E:
+Sids:CYQU_CZ_E:
+Sids:CYSM_CZ_E:
+Sids:CYVQ_CZ_E:
+Sids:CYXH_CZ_E:
+Sids:CYXJ_CZ_E:
+Sids:CYXY_CZ_D:
+Sids:CYYC_CZ_C:
+Sids:CYYE_CZ_E:
+Sids:CYZF_CZ_D:
+Sids:CYZU_CZ_E:
+Sids:CZVL_CZ_D:
+VORs:BDE:symbol
+VORs:BGQ:symbol
+VORs:BTT:symbol
+VORs:CTB:symbol
+VORs:ENN:symbol
+VORs:FAI:symbol
+VORs:FYU:symbol
+VORs:GAL:symbol
+VORs:GEG:symbol
+VORs:GGW:symbol
+VORs:GKN:symbol
+VORs:GTF:symbol
+VORs:JOH:symbol
+VORs:MLP:symbol
+VORs:ORT:symbol
+VORs:SCC:symbol
+VORs:SSR:symbol
+VORs:THT:symbol
+VORs:UOD:symbol
+VORs:UQQ:symbol
+VORs:VLN:symbol
+VORs:YAK:symbol
+VORs:YBK:symbol
+VORs:YBR:symbol
+VORs:YBW:symbol
+VORs:YCB:symbol
+VORs:YDC:symbol
+VORs:YDN:symbol
+VORs:YEA:symbol
+VORs:YEG:symbol
+VORs:YEV:symbol
+VORs:YFB:symbol
+VORs:YFS:symbol
+VORs:YGH:symbol
+VORs:YHY:symbol
+VORs:YKJ:symbol
+VORs:YMJ:symbol
+VORs:YMM:symbol
+VORs:YNY:symbol
+VORs:YOJ:symbol
+VORs:YPA:symbol
+VORs:YPE:symbol
+VORs:YPK:symbol
+VORs:YQD:symbol
+VORs:YQH:symbol
+VORs:YQL:symbol
+VORs:YQU:symbol
+VORs:YQV:symbol
+VORs:YRB:symbol
+VORs:YRM:symbol
+VORs:YRT:symbol
+VORs:YSM:symbol
+VORs:YTH:symbol
+VORs:YUX:symbol
+VORs:YVC:symbol
+VORs:YVQ:symbol
+VORs:YVR:symbol
+VORs:YWG:symbol
+VORs:YWL:symbol
+VORs:YWV:symbol
+VORs:YWY:symbol
+VORs:YXC:symbol
+VORs:YXE:symbol
+VORs:YXJ:symbol
+VORs:YXS:symbol
+VORs:YXY:symbol
+VORs:YYC:symbol
+VORs:YYD:symbol
+VORs:YYE:symbol
+VORs:YYJ:symbol
+VORs:YYL:symbol
+VORs:YYN:symbol
+VORs:YYQ:symbol
+VORs:YZF:symbol
+VORs:YZP:symbol
+VORs:YZT:symbol
+VORs:YZU:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:27800
+ABOVE:60000
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:48.672423:-95.119254:66.159804:-75.952921

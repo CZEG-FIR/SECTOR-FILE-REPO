@@ -1,0 +1,326 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tony\Documents\EuroScope\CZEG\CZEG_ES_Sectors\CZEG_FIR.sct
+SECTORTITLE:CZEG_FIR.sct
+Airports:CDJ5:name
+Airports:CDJ5:symbol
+Airports:CEF4:name
+Airports:CEF4:symbol
+Airports:CEH4:name
+Airports:CEH4:symbol
+Airports:CEN4:name
+Airports:CEN4:symbol
+Airports:CFN7:name
+Airports:CFN7:symbol
+Airports:CFQ4:name
+Airports:CFQ4:symbol
+Airports:CFX2:name
+Airports:CFX2:symbol
+Airports:CFX8:name
+Airports:CFX8:symbol
+Airports:CFY4:name
+Airports:CFY4:symbol
+Airports:CYQL:name
+Airports:CYQL:symbol
+Airports:CYXH:name
+Airports:CYXH:symbol
+ARTCC boundary:CZEG FIR:
+ARTCC low boundary:CYR131:
+ARTCC low boundary:CYR167:
+ARTCC low boundary:CYR201:
+ARTCC low boundary:CYR203:
+ARTCC low boundary:CYR204:
+ARTCC low boundary:CYR207:
+ARTCC low boundary:CYR208:
+ARTCC low boundary:CYR210:
+ARTCC low boundary:CYR211:
+ARTCC low boundary:CYR212:
+ARTCC low boundary:CYR220:
+ARTCC low boundary:CYR221:
+ARTCC low boundary:CYR222:
+ARTCC low boundary:CYR223:
+ARTCC low boundary:CYR224:
+ARTCC low boundary:CYR225:
+ARTCC low boundary:CYR226:
+ARTCC low boundary:CYR227:
+ARTCC low boundary:CYR228:
+ARTCC low boundary:CYR229:
+ARTCC low boundary:CYR230:
+ARTCC low boundary:CYR231:
+ARTCC low boundary:CYR232:
+ARTCC low boundary:CYR233:
+ARTCC low boundary:CYR251:
+ARTCC low boundary:CYR252:
+ARTCC low boundary:CYR263:
+ARTCC low boundary:CYR268:
+ARTCC low boundary:CYR269:
+ARTCC low boundary:CYR270:
+ARTCC low boundary:CYYC_TCA(15/C):
+ARTCC low boundary:CYYC_TCA(20/C):
+ARTCC low boundary:CYYC_TCA(24/C):
+ARTCC low boundary:CYYC_TCA(30/C):
+Fixes:ADVOX:name
+Fixes:ADVOX:symbol
+Fixes:AGMAK:name
+Fixes:AGMAK:symbol
+Fixes:ALSIV:name
+Fixes:ALSIV:symbol
+Fixes:AMITO:name
+Fixes:AMITO:symbol
+Fixes:AMUNO:name
+Fixes:AMUNO:symbol
+Fixes:ANTAK:name
+Fixes:ANTAK:symbol
+Fixes:AVROM:name
+Fixes:AVROM:symbol
+Fixes:BIRKO:name
+Fixes:BIRKO:symbol
+Fixes:BITGA:name
+Fixes:BITGA:symbol
+Fixes:BOTAG:name
+Fixes:BOTAG:symbol
+Fixes:DAPOP:name
+Fixes:DAPOP:symbol
+Fixes:DATAV:name
+Fixes:DATAV:symbol
+Fixes:DESNU:name
+Fixes:DESNU:symbol
+Fixes:DUDNI:name
+Fixes:DUDNI:symbol
+Fixes:DUMRA:name
+Fixes:DUMRA:symbol
+Fixes:EBGAL:name
+Fixes:EBGAL:symbol
+Fixes:ELERO:name
+Fixes:ELERO:symbol
+Fixes:ELSOG:name
+Fixes:ELSOG:symbol
+Fixes:ETLEM:name
+Fixes:ETLEM:symbol
+Fixes:FLAAM:name
+Fixes:FLAAM:symbol
+Fixes:GADKI:name
+Fixes:GADKI:symbol
+Fixes:GUDOG:name
+Fixes:GUDOG:symbol
+Fixes:IGVEP:name
+Fixes:IGVEP:symbol
+Fixes:ILADA:name
+Fixes:ILADA:symbol
+Fixes:ILOSA:name
+Fixes:ILOSA:symbol
+Fixes:IPSIT:name
+Fixes:IPSIT:symbol
+Fixes:KEBNO:name
+Fixes:KEBNO:symbol
+Fixes:KELNU:name
+Fixes:KELNU:symbol
+Fixes:LEXOK:name
+Fixes:LEXOK:symbol
+Fixes:LIBOS:name
+Fixes:LIBOS:symbol
+Fixes:LOMLO:name
+Fixes:LOMLO:symbol
+Fixes:MATIR:name
+Fixes:MATIR:symbol
+Fixes:MENBO:name
+Fixes:MENBO:symbol
+Fixes:MOBEK:name
+Fixes:MOBEK:symbol
+Fixes:MUPUV:name
+Fixes:MUPUV:symbol
+Fixes:NABON:name
+Fixes:NABON:symbol
+Fixes:NAMTI:name
+Fixes:NAMTI:symbol
+Fixes:NORET:name
+Fixes:NORET:symbol
+Fixes:NOSIV:name
+Fixes:NOSIV:symbol
+Fixes:OILRS:name
+Fixes:OILRS:symbol
+Fixes:OMRIT:name
+Fixes:OMRIT:symbol
+Fixes:ONBOS:name
+Fixes:ONBOS:symbol
+Fixes:OTARA:name
+Fixes:OTARA:symbol
+Fixes:OVEBI:name
+Fixes:OVEBI:symbol
+Fixes:PERTU:name
+Fixes:PERTU:symbol
+Fixes:PEVLU:name
+Fixes:PEVLU:symbol
+Fixes:PIBSO:name
+Fixes:PIBSO:symbol
+Fixes:PIKLA:name
+Fixes:PIKLA:symbol
+Fixes:ROPLA:name
+Fixes:ROPLA:symbol
+Fixes:ROVMA:name
+Fixes:ROVMA:symbol
+Fixes:SAXOL:name
+Fixes:SAXOL:symbol
+Fixes:SEDEL:name
+Fixes:SEDEL:symbol
+Fixes:SEKAN:name
+Fixes:SEKAN:symbol
+Fixes:SEPSO:name
+Fixes:SEPSO:symbol
+Fixes:SIGPA:name
+Fixes:SIGPA:symbol
+Fixes:SIMTA:name
+Fixes:SIMTA:symbol
+Fixes:TIDUK:name
+Fixes:TIDUK:symbol
+Fixes:TOTUB:name
+Fixes:TOTUB:symbol
+Fixes:TOVUM:name
+Fixes:TOVUM:symbol
+Fixes:TULOB:name
+Fixes:TULOB:symbol
+Fixes:TULOV:name
+Fixes:TULOV:symbol
+Fixes:UBTON:name
+Fixes:UBTON:symbol
+Fixes:UBVAL:name
+Fixes:UBVAL:symbol
+Fixes:UDNON:name
+Fixes:UDNON:symbol
+Fixes:UDPAV:name
+Fixes:UDPAV:symbol
+Fixes:UKSAP:name
+Fixes:UKSAP:symbol
+Fixes:ULBUD:name
+Fixes:ULBUD:symbol
+Fixes:URVUG:name
+Fixes:URVUG:symbol
+Fixes:VESDO:name
+Fixes:VESDO:symbol
+Fixes:VESGA:name
+Fixes:VESGA:symbol
+Fixes:VETBI:name
+Fixes:VETBI:symbol
+Fixes:VIKTI:name
+Fixes:VIKTI:symbol
+Fixes:VOBUK:name
+Fixes:VOBUK:symbol
+Fixes:XUGAV:name
+Fixes:XUGAV:symbol
+High airways:Q810:line
+High airways:Q832:line
+High airways:Q842:line
+High airways:Q888:line
+High airways:Q890:line
+High airways:Q894:line
+High airways:Q909:line
+High airways:Q927:line
+High airways:Q931:line
+High airways:Q933:line
+High airways:Q953:line
+High airways:Q961:line
+High airways:Q979:line
+High airways:Q983:line
+High airways:Q995:line
+NDBs:JW:name
+NDBs:JW:symbol
+NDBs:ZYC:name
+NDBs:ZYC:symbol
+Runways:CYBW Springbank 08-26:centerline
+Runways:CYBW Springbank 17-35:centerline
+Runways:CYYC Calgary 08-26:centerline
+Runways:CYYC Calgary 08-26:extended centerline 1
+Runways:CYYC Calgary 08-26:extended centerline 1 left ticks
+Runways:CYYC Calgary 08-26:extended centerline 1 left vectoring
+Runways:CYYC Calgary 08-26:extended centerline 1 right ticks
+Runways:CYYC Calgary 08-26:extended centerline 1 right vectoring
+Runways:CYYC Calgary 08-26:extended centerline 2
+Runways:CYYC Calgary 08-26:extended centerline 2 left ticks
+Runways:CYYC Calgary 08-26:extended centerline 2 left vectoring
+Runways:CYYC Calgary 08-26:extended centerline 2 right ticks
+Runways:CYYC Calgary 08-26:extended centerline 2 right vectoring
+Runways:CYYC Calgary 11-29:centerline
+Runways:CYYC Calgary 17L-35R:centerline
+Runways:CYYC Calgary 17R-35L:centerline
+Sids:CYBW_CZ_C:
+Sids:CYYC ILS 17L:
+Sids:CYYC ILS 17R:
+Sids:CYYC NT ZONE 17L/R:
+Sids:CYYC_CZ_C:
+VORs:ORT:symbol
+VORs:SSR:symbol
+VORs:THT:symbol
+VORs:UOD:symbol
+VORs:UQQ:symbol
+VORs:VLN:symbol
+VORs:YAK:symbol
+VORs:YBK:symbol
+VORs:YBR:symbol
+VORs:YBW:name
+VORs:YBW:symbol
+VORs:YCB:symbol
+VORs:YDC:symbol
+VORs:YDN:symbol
+VORs:YEA:symbol
+VORs:YEG:symbol
+VORs:YEV:symbol
+VORs:YFB:symbol
+VORs:YFS:symbol
+VORs:YGH:symbol
+VORs:YHY:symbol
+VORs:YKJ:symbol
+VORs:YMJ:symbol
+VORs:YMM:symbol
+VORs:YNY:symbol
+VORs:YOJ:symbol
+VORs:YPA:symbol
+VORs:YPE:symbol
+VORs:YPK:symbol
+VORs:YQD:symbol
+VORs:YQH:symbol
+VORs:YQL:symbol
+VORs:YQU:symbol
+VORs:YQV:symbol
+VORs:YRB:symbol
+VORs:YRM:symbol
+VORs:YRT:symbol
+VORs:YSM:symbol
+VORs:YTH:symbol
+VORs:YUX:symbol
+VORs:YVC:symbol
+VORs:YVQ:symbol
+VORs:YVR:symbol
+VORs:YWG:symbol
+VORs:YWL:symbol
+VORs:YWY:symbol
+VORs:YXC:symbol
+VORs:YXE:symbol
+VORs:YXJ:symbol
+VORs:YXS:symbol
+VORs:YXY:symbol
+VORs:YYC:name
+VORs:YYC:symbol
+VORs:YYD:symbol
+VORs:YYE:symbol
+VORs:YYL:symbol
+VORs:YYN:symbol
+VORs:YYQ:symbol
+VORs:YZF:symbol
+VORs:YZP:symbol
+VORs:YZT:symbol
+VORs:YZU:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:3700
+ABOVE:60000
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:50.034051:-115.362676:52.625978:-112.577237

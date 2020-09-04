@@ -1,0 +1,68 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tony\Documents\EuroScope\CANscope\CZEG\CZEG_ES_Sectors\CZEG_FIR_19_03.sct
+SECTORTITLE:CZEG_FIR_19_03.sct
+ARTCC low boundary:CYYC-CAX(60):
+ARTCC low boundary:CYYC-CAX(60/80):
+ARTCC low boundary:CYYC_TCA(15/C):
+ARTCC low boundary:CYYC_TCA(20/C):
+ARTCC low boundary:CYYC_TCA(24/C):
+ARTCC low boundary:CYYC_TCA(30/C):
+Regions:CYBW:polygon
+Regions:CYYC:polygon
+Runways:CYBW Springbank 08-26:centerline
+Runways:CYBW Springbank 08-26:extended centerline 1
+Runways:CYBW Springbank 17-35:centerline
+Runways:CYBW Springbank 17-35:extended centerline 1
+Runways:CYYC Calgary 08-26:centerline
+Runways:CYYC Calgary 08-26:extended centerline 1
+Runways:CYYC Calgary 11-29:centerline
+Runways:CYYC Calgary 11-29:extended centerline 1
+Runways:CYYC Calgary 17L-35R:centerline
+Runways:CYYC Calgary 17L-35R:extended centerline 1
+Runways:CYYC Calgary 17R-35L:centerline
+Runways:CYYC Calgary 17R-35L:extended centerline 1
+VORs:YYC:name
+VORs:YYC:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:21000
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:49.954846:-116.072853:52.529068:-111.837477
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:CYYC
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:-17
+PLUGIN:vSMR:SRW1OffsetY:-40
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

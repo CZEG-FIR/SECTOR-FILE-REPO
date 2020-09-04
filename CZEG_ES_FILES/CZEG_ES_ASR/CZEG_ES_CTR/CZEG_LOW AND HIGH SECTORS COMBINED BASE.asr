@@ -1,0 +1,85 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tony\Documents\EuroScope\CANscope\CZEG\CZEG_ES_Sectors\CZEG_FIR.sct
+SECTORTITLE:CZEG_FIR.sct
+ARTCC boundary:CZEG FIR:
+ARTCC high boundary:Arctic Control Area:
+ARTCC high boundary:Bison (BS):
+ARTCC high boundary:Cambridge (CB):
+ARTCC high boundary:Canmore (CN):
+ARTCC high boundary:Clyde (CY):
+ARTCC high boundary:Dawson (DA):
+ARTCC high boundary:Drumheller (DH):
+ARTCC high boundary:E20-YEG(BA)-KZLC:
+ARTCC high boundary:E21-YEG(BA)-KZSE:
+ARTCC high boundary:E22-YEG(BA)-CZVR:
+ARTCC high boundary:E23-YEG(RM)-CZVR:
+ARTCC high boundary:E24-YEG(KL)-CZVR:
+ARTCC high boundary:E25-YEG(KL)-PAZA:
+ARTCC high boundary:E26-YEG(AC)-PAZA:
+ARTCC high boundary:E27-YEG(AC)-UNICOM:
+ARTCC high boundary:E28-YEG(AC)-BGGL:
+ARTCC high boundary:E29-YEG(AC)-CZQX:
+ARTCC high boundary:E30-YEG(AC)-CZUL:
+ARTCC high boundary:E31a-YEG(AC)-ZWG(NL):
+ARTCC high boundary:E31b-YEG(AC)-ZWG(VC):
+ARTCC high boundary:E32-YEG(KL)-CZWG:
+ARTCC high boundary:E33a-YEG(RM)-ZWG(VC):
+ARTCC high boundary:E33b-YEG(RM)-ZWG(BR):
+ARTCC high boundary:E34-YEG(BA)-ZWG(BR):
+ARTCC high boundary:Hudson (HU):
+ARTCC high boundary:Jasper (JP):
+ARTCC high boundary:Klondike (KD):
+ARTCC high boundary:Lethbridge (QL):
+ARTCC high boundary:Mackenzie (MN):
+ARTCC high boundary:Northern Control Area:
+ARTCC high boundary:Nunavut (NV):
+ARTCC high boundary:Polar (PR):
+ARTCC high boundary:Rankin (RN):
+ARTCC high boundary:Severn (ER):
+ARTCC high boundary:Simpson (FS):
+ARTCC high boundary:Smokey Lake (SY):
+ARTCC high boundary:Thompson (TH):
+ARTCC high boundary:Wainwright (WV):
+ARTCC high boundary:Yukon (YU):
+ARTCC low boundary:Alsask (AL):
+ARTCC low boundary:Banff (BA):
+ARTCC low boundary:Coppermine (KM):
+ARTCC low boundary:FootHills (FH):
+ARTCC low boundary:Fort Nelson (YE):
+ARTCC low boundary:Fort St. John (XJ):
+ARTCC low boundary:Fortress (FR):
+ARTCC low boundary:Grande Prairie (QU):
+ARTCC low boundary:Inuvik (EV):
+ARTCC low boundary:Lac La Biche (LB):
+ARTCC low boundary:Lloydminster (LL):
+ARTCC low boundary:McMurray (MM):
+ARTCC low boundary:Medicine Hat (XH):
+ARTCC low boundary:Peace (PE):
+ARTCC low boundary:Red Deer (QF):
+ARTCC low boundary:Rocky (RM):
+ARTCC low boundary:Slave Lake (ZH):
+ARTCC low boundary:Whitecourt (ZU):
+ARTCC low boundary:Whitehorse (XY):
+ARTCC low boundary:Yellowknife (ZF):
+Regions:CYHY:polygon
+Regions:CYQF:polygon
+Regions:CYQL:polygon
+Regions:CYQU:polygon
+Regions:CYXH:polygon
+Regions:CYXY:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:60000
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:22.259412:-144.546482:125.464588:-31.432645

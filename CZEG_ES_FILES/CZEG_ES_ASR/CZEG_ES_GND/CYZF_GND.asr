@@ -1,0 +1,42 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tony\Documents\EuroScope\CZEG\CZEG_ES_Sectors\CZEG_FIR.sct
+SECTORTITLE:CZEG_FIR.sct
+Airports:CYZF:name
+Airports:CYZF:symbol
+Free Text:CYZF Ramp\I:freetext
+Free Text:CYZF Ramp\II:freetext
+Free Text:CYZF Ramp\III:freetext
+Free Text:CYZF Ramp\IV:freetext
+Free Text:CYZF Taxi\A:freetext
+Free Text:CYZF Taxi\B:freetext
+Free Text:CYZF Taxi\B:freetext
+Free Text:CYZF Taxi\C:freetext
+Free Text:CYZF Taxi\D:freetext
+Free Text:CYZF Taxi\E:freetext
+Free Text:CYZF Taxi\F:freetext
+Free Text:CYZF Taxi\G:freetext
+Free Text:CYZF Taxi\H:freetext
+Free Text:CYZF Taxi\J:freetext
+Free Text:CYZF Taxi\K:freetext
+Regions:CYZF:polygon
+Regions:CYZF:polygon
+Runways:CYZF Yellowknife 10-28:centerline
+Runways:CYZF Yellowknife 10-28:name
+Runways:CYZF Yellowknife 16-34:centerline
+Runways:CYZF Yellowknife 16-34:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:1000
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:62.420605:-114.485902:62.508240:-114.390193

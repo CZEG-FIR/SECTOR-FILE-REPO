@@ -1,0 +1,122 @@
+/*************************************************************************************************************************************************
+Temporary ATIS Fix For Airport Names Pronunciation - instructions 
+*************************************************************************************************************************************************/
+
+CYEG - Edmonton - All Arrivals and Runways 
+http://uniatis.net/atis.php?arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&apptype=ILS OR RNAV ZULU OR RNAV YANKEE OR VISUAL&info=$atiscode&metar=$metar($atisairport)&siru&informapp
+
+Calgary All Arrivals and Runways 
+http://uniatis.net/atis.php?arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&apptype=ILS OR RNAV ZULU OR RNAV YANKEE OR VISUAL&info=$atiscode&metar=$metar($atisairport)&siru&informapp
+
+Default ATIS Maker URL
+http://uniatis.net/atis.php?arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&apptype=ILS&info=$atiscode&metar=$metar($atisairport)
+
+CYXY - Whitehorse Runway 32L
+http://uniatis.net/atis.php?arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&apptype=ILS OR RNAV&info=$atiscode&metar=$metar($atisairport)
+
+CYXY - Whitehorse Runway 14R
+http://uniatis.net/atis.php?arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&apptype=RNAV&info=$atiscode&metar=$metar($atisairport)
+
+CYXY - Whitehorse Runway 14L 32R 01 19
+http://uniatis.net/atis.php?arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&apptype=Visual&info=$atiscode&metar=$metar($atisairport)
+
+CYZF - Yellowknife Runway 34
+http://uniatis.net/atis.php?arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&apptype=ILS OR RNAV&info=$atiscode&metar=$metar($atisairport)
+
+CYZF - Yellowknife Runway 10 and 16
+http://uniatis.net/atis.php?arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&apptype=RNAV&info=$atiscode&metar=$metar($atisairport)
+
+CYMM - Fort McMurray Runway 08
+http://uniatis.net/atis.php?arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&apptype=RNAV&info=$atiscode&metar=$metar($atisairport)
+
+CYMM - Fort McMurray Runway 26
+http://uniatis.net/atis.php?arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&apptype=ILS OR RNAV&info=$atiscode&metar=$metar($atisairport)
+
+CZVL - Villeneuve Runway 08, 16 and 34
+http://uniatis.net/atis.php?arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&apptype=RNAV&info=$atiscode&metar=$metar($atisairport)
+
+CZVL - Villeneuve Runway 26
+http://uniatis.net/atis.php?arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&apptype=ILS OR RNAV&info=$atiscode&metar=$metar($atisairport)
+
+CYOD - Cold Lake 31R
+http://uniatis.net/atis.php?arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&apptype=ILS OR RNAV&info=$atiscode&metar=$metar($atisairport)&siru&informapp
+
+CYOD - Cold Lake All Other Except 31R
+http://uniatis.net/atis.php?arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&apptype=RNAV&info=$atiscode&metar=$metar($atisairport)&siru&informapp
+
+CYBW - Springbank 17
+http://uniatis.net/atis.php?arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&apptype=RNAV&info=$atiscode&metar=$metar($atisairport)
+
+CYBW - Springbank 35
+http://uniatis.net/atis.php?arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&apptype=ILS OR RNAV&info=$atiscode&metar=$metar($atisairport)
+
+CYQU - Grand Prairie Airport 30
+http://uniatis.net/atis.php?arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&apptype=ILS OR RNAV&info=$atiscode&metar=$metar($atisairport)
+
+CYQU - Grand Prairie Airport 07 12 25
+http://uniatis.net/atis.php?arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&apptype=RNAV&info=$atiscode&metar=$metar($atisairport)
+
+CYXJ - Fort St John North Peace River Regional Airport 30
+http://uniatis.net/atis.php?arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&apptype=ILS OR RNAV&info=$atiscode&metar=$metar($atisairport)
+
+CYXJ - Fort St John North Peace River Regional Airport 03 12 21
+http://uniatis.net/atis.php?arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&apptype=RNAV&info=$atiscode&metar=$metar($atisairport)
+
+CYPE - Peace River Airport 04 22
+http://uniatis.net/atis.php?arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&apptype=RNAV&info=$atiscode&metar=$metar($atisairport)
+
+
+/*************************************************************************************************************************************************
+Temporary ATIS Fix For Airport Names Pronunciation - instructions 
+*************************************************************************************************************************************************/
+
+Replace ICAO Code as Follows (Example is Whitehorse)
+
+Open VOICE ATIS Setup
+Input the Airport ICAO Code
+Select and Place the Correct ATIS URL for Runways you intend to activate from the list above and overwrite the value in the ATIS MAKER URL Text Box
+Check the Box - Automaticly Generate New ATIS Using URL
+Press Test URL
+Press Get METAR
+
+In the TEXT ATIS Code and information section you should see something similar to the following
+
+[CYXY][information]N[weather at]1700Z[,][Wind calm][,][Visibility] 25[,][Sky conditions][few clouds][at]{700}[ceiling]{4200}[broken][temperature]10[dew point]9[,][Altimeter]2994[,][Approach][RNAV][runway]14R[,][Departure][runway]14R[,][Advise ATC that you have information]N[.]
+
+Press Connect ATIS
+
+Remove the [CYXY] (including Brackets) and change to proper airport name Erik Nielsen Whitehorse International Airport as follows
+
+Erik Nielsen Whitehorse International Airport [information]N[weather at]1700Z[,][Wind calm][,][Visibility] 25[,][Sky conditions][few clouds][at]{700}[ceiling]{4200}[broken][temperature]10[dew point]9[,][Altimeter]2994[,][Approach][RNAV][runway]14R[,][Departure][runway]14R[,][Advise ATC that you have information]N[.]
+
+You should be good to go. Remember it takes up to a minute for the ATIS to Connect through AFV
+
+Remember if the ATIS Changes letter or Rwys or if you disconnect the ATIS and Reconnect the Proper Airport Name may revert back to the ICAO code - You will need to be mindful and change the ICAO back to the Airport Proper Names.
+
+If problems with connection is evident , Press Disconnect ATIS count to 10 (TEN) then press Connect ATIS
+
+
+/*************************************************************************************************************************************************
+Here is the list of Proper Airport Names
+*************************************************************************************************************************************************/
+
+CYXY - Erik Nielsen Whitehorse International Airport
+CYZF - Yellowknife Airport
+CYQU - Grand Prairie Airport
+CYPE - Peace River Airport
+CYXJ - Fort St John North Peace River Regional Airport
+CYMM - Fort McMurray International Airport
+CYVL - Edmonton/Villeneuve Airport
+CYEG - Edmonton International Airport
+CYOD - Canadian Forces Base Cold Lake 
+CYBW - Calgary Springbank Airport
+CYYC - Calgary International Airport
+
+
+
+
+
+
+
+
+

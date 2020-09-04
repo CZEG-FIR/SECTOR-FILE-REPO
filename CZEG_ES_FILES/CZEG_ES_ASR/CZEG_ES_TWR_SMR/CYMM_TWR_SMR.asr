@@ -1,0 +1,133 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tony\Documents\EuroScope\CANscope\CZEG\CZEG_ES_Sectors\CZEG_FIR.sct
+SECTORTITLE:CZEG_FIR.sct
+Airports:CYMM:name
+Airports:CYMM:symbol
+ARTCC low boundary:CAL4_TA(B/E)i:
+ARTCC low boundary:CAL4_TA(B/E)ii:
+ARTCC low boundary:CYMM_CAX(60/25):
+ARTCC low boundary:CYMM_TA(B/E):
+ARTCC low boundary:CYNR_TA(B/E)i:
+ARTCC low boundary:CYNR_TA(B/E)ii:
+Fixes:BOXUN:name
+Fixes:BOXUN:symbol
+Fixes:DUSEG:name
+Fixes:DUSEG:symbol
+Fixes:LESUT:name
+Fixes:LESUT:symbol
+Fixes:LEXON:name
+Fixes:LEXON:symbol
+Fixes:LIDAB:name
+Fixes:LIDAB:symbol
+Fixes:MENBA:name
+Fixes:MENBA:symbol
+Fixes:METPI:name
+Fixes:METPI:symbol
+Fixes:NABNI:name
+Fixes:NABNI:symbol
+Fixes:NANLU:name
+Fixes:NANLU:symbol
+Fixes:NOPOV:name
+Fixes:NOPOV:symbol
+Fixes:ONGUT:name
+Fixes:ONGUT:symbol
+Fixes:OTRIL:name
+Fixes:OTRIL:symbol
+Fixes:PETBI:name
+Fixes:PETBI:symbol
+Fixes:TUMIG:name
+Fixes:TUMIG:symbol
+Fixes:UKPIG:name
+Fixes:UKPIG:symbol
+Fixes:VIKTU:name
+Fixes:VIKTU:symbol
+Free Text:CYMM Taxi\A:freetext
+Free Text:CYMM Taxi\B:freetext
+Free Text:CYMM Taxi\B:freetext
+Free Text:CYMM Taxi\C:freetext
+Free Text:CYMM Taxi\D:freetext
+Free Text:CYMM Taxi\D:freetext
+Free Text:CYMM Taxi\E:freetext
+Free Text:CYMM Taxi\F:freetext
+Free Text:CYMM Taxi\F:freetext
+Free Text:CYMM Taxi\G:freetext
+Free Text:CYMM Taxi\G:freetext
+Free Text:CYMM Taxi\G:freetext
+Free Text:CYMM Taxi\H:freetext
+Free Text:CYMM Taxi\I:freetext
+Free Text:CYMM Taxi\II:freetext
+Free Text:CYMM Taxi\J:freetext
+Free Text:CYMM Taxi\J:freetext
+Free Text:CYMM_MSA\33:freetext
+Free Text:CYMM_MSA\33:freetext
+Free Text:CYMM_MSA\40:freetext
+Free Text:CYMM_MSA\40:freetext
+Geo:CYMM:
+Regions:CYMM:polygon
+Runways:CYMM Fort McMurray 07-25:centerline
+Runways:CYMM Fort McMurray 07-25:extended centerline 1
+Runways:CYMM Fort McMurray 07-25:extended centerline 1 left base
+Runways:CYMM Fort McMurray 07-25:extended centerline 1 left ticks
+Runways:CYMM Fort McMurray 07-25:extended centerline 1 left vectoring
+Runways:CYMM Fort McMurray 07-25:extended centerline 1 right base
+Runways:CYMM Fort McMurray 07-25:extended centerline 1 right ticks
+Runways:CYMM Fort McMurray 07-25:extended centerline 1 right vectoring
+Runways:CYMM Fort McMurray 07-25:extended centerline 2
+Runways:CYMM Fort McMurray 07-25:extended centerline 2 left base
+Runways:CYMM Fort McMurray 07-25:extended centerline 2 left ticks
+Runways:CYMM Fort McMurray 07-25:extended centerline 2 left vectoring
+Runways:CYMM Fort McMurray 07-25:extended centerline 2 right base
+Runways:CYMM Fort McMurray 07-25:extended centerline 2 right ticks
+Runways:CYMM Fort McMurray 07-25:extended centerline 2 right vectoring
+Runways:CYMM Fort McMurray 07-25:name
+Sids:CYMM ILS 25:
+Sids:CYMM RNAV (GNSS) Z 07:
+Sids:CYMM RNAV (GNSS) Z 25:
+Sids:CYMM.CACHO1.07:
+Sids:CYMM.CACHO1.25:
+Sids:CYMM_CZ_C:
+Stars:CYMM RNAV LEXON2 RWY07:
+Stars:CYMM RNAV LEXON2 RWY25:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:15000
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:56.010524:-111.884333:57.213282:-110.566100
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:CYMM
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200
